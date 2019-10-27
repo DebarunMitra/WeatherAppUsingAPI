@@ -1206,6 +1206,15 @@
     }
   },
   {
+    "id": 1273840,
+    "name": "Connaught Place",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 28.633333
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
