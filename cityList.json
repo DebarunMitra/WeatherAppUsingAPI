@@ -1215,6 +1215,24 @@
     }
   },
   {
+    "id": 1273293,
+    "name": "National Capital Territory of Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.25,
+      "lat": 28.75
+    }
+  },
+  {
+    "id": 1273294,
+    "name": "Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 28.666668
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
