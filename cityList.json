@@ -450,6 +450,339 @@
     }
   },
   {
+    "id": 1255551,
+    "name": "Suket",
+    "country": "IN",
+    "coord": {
+      "lon": 76.033333,
+      "lat": 24.65
+    }
+  },
+  {
+    "id": 1255597,
+    "name": "Suar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.050003,
+      "lat": 29.033331
+    }
+  },
+  {
+    "id": 1255620,
+    "name": "Srivaikuntam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 8.61667
+    }
+  },
+  {
+    "id": 1255621,
+    "name": "Srisailam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.866669,
+      "lat": 16.08333
+    }
+  },
+  {
+    "id": 1255625,
+    "name": "Sriramnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.25544,
+      "lat": 17.26652
+    }
+  },
+  {
+    "id": 1255630,
+    "name": "Sriperumbudur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.948891,
+      "lat": 12.96889
+    }
+  },
+  {
+    "id": 1255714,
+    "name": "Sopur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.466667,
+      "lat": 34.299999
+    }
+  },
+  {
+    "id": 1255762,
+    "name": "Songadh",
+    "country": "IN",
+    "coord": {
+      "lon": 73.566673,
+      "lat": 21.16667
+    }
+  },
+  {
+    "id": 1255788,
+    "name": "Sonari",
+    "country": "IN",
+    "coord": {
+      "lon": 95.033333,
+      "lat": 27.066669
+    }
+  },
+  {
+    "id": 1255860,
+    "name": "Sojat",
+    "country": "IN",
+    "coord": {
+      "lon": 73.666672,
+      "lat": 25.91667
+    }
+  },
+  {
+    "id": 1255884,
+    "name": "Sohagpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1255925,
+    "name": "Siwana",
+    "country": "IN",
+    "coord": {
+      "lon": 72.416672,
+      "lat": 25.633329
+    }
+  },
+  {
+    "id": 1255927,
+    "name": "Siwan",
+    "country": "IN",
+    "coord": {
+      "lon": 84.366669,
+      "lat": 26.216669
+    }
+  },
+  {
+    "id": 1255963,
+    "name": "Sitarganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.699997,
+      "lat": 28.933331
+    }
+  },
+  {
+    "id": 1256029,
+    "name": "Siruguppa",
+    "country": "IN",
+    "coord": {
+      "lon": 76.900002,
+      "lat": 15.63333
+    }
+  },
+  {
+    "id": 1256039,
+    "name": "Sirsilla",
+    "country": "IN",
+    "coord": {
+      "lon": 78.833328,
+      "lat": 18.383329
+    }
+  },
+  {
+    "id": 1256176,
+    "name": "Singarayakonda",
+    "country": "IN",
+    "coord": {
+      "lon": 80.033333,
+      "lat": 15.25
+    }
+  },
+  {
+    "id": 1256184,
+    "name": "Singanallur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 11
+    }
+  },
+  {
+    "id": 1256333,
+    "name": "Sikka",
+    "country": "IN",
+    "coord": {
+      "lon": 69.833328,
+      "lat": 22.433331
+    }
+  },
+  {
+    "id": 1256369,
+    "name": "Sidhi",
+    "country": "IN",
+    "coord": {
+      "lon": 81.883331,
+      "lat": 24.41667
+    }
+  },
+  {
+    "id": 1256372,
+    "name": "Sidhauli",
+    "country": "IN",
+    "coord": {
+      "lon": 80.833328,
+      "lat": 27.283331
+    }
+  },
+  {
+    "id": 1256382,
+    "name": "Siddhapur",
+    "country": "IN",
+    "coord": {
+      "lon": 72.383331,
+      "lat": 23.91667
+    }
+  },
+  {
+    "id": 1256418,
+    "name": "Shujalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.716667,
+      "lat": 23.4
+    }
+  },
+  {
+    "id": 1256539,
+    "name": "Shiggaon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.23333,
+      "lat": 15
+    }
+  },
+  {
+    "id": 1256558,
+    "name": "Shertallai",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333328,
+      "lat": 9.7
+    }
+  },
+  {
+    "id": 1256722,
+    "name": "Shahpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.833328,
+      "lat": 16.700001
+    }
+  },
+  {
+    "id": 1256913,
+    "name": "Sehore",
+    "country": "IN",
+    "coord": {
+      "lon": 77.083328,
+      "lat": 23.200001
+    }
+  },
+  {
+    "id": 1256922,
+    "name": "Secunderabad",
+    "country": "IN",
+    "coord": {
+      "lon": 78.542633,
+      "lat": 17.504271
+    }
+  },
+  {
+    "id": 1256929,
+    "name": "Sayla",
+    "country": "IN",
+    "coord": {
+      "lon": 71.466667,
+      "lat": 22.549999
+    }
+  },
+  {
+    "id": 1256959,
+    "name": "Savda",
+    "country": "IN",
+    "coord": {
+      "lon": 75.883331,
+      "lat": 21.15
+    }
+  },
+  {
+    "id": 1256989,
+    "name": "Sathyamangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.25,
+      "lat": 11.51667
+    }
+  },
+  {
+    "id": 1257093,
+    "name": "Sarwar",
+    "country": "IN",
+    "coord": {
+      "lon": 75,
+      "lat": 26.066669
+    }
+  },
+  {
+    "id": 1257191,
+    "name": "Sardulgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 75.25,
+      "lat": 29.700001
+    }
+  },
+  {
+    "id": 1257198,
+    "name": "Sardarshahr",
+    "country": "IN",
+    "coord": {
+      "lon": 74.48333,
+      "lat": 28.433331
+    }
+  },
+  {
+    "id": 1257307,
+    "name": "Saoner",
+    "country": "IN",
+    "coord": {
+      "lon": 78.900002,
+      "lat": 21.383329
+    }
+  },
+  {
+    "id": 1257409,
+    "name": "Sangola",
+    "country": "IN",
+    "coord": {
+      "lon": 75.199997,
+      "lat": 17.433331
+    }
+  },
+  {
+    "id": 1257410,
+    "name": "Sangod",
+    "country": "IN",
+    "coord": {
+      "lon": 76.283333,
+      "lat": 24.91667
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
