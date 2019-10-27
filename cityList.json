@@ -54,6 +54,249 @@
     }
   },
   {
+    "id": 1252840,
+    "name": "Wokha",
+    "country": "IN",
+    "coord": {
+      "lon": 94.26667,
+      "lat": 26.1
+    }
+  },
+  {
+    "id": 1252925,
+    "name": "Warora",
+    "country": "IN",
+    "coord": {
+      "lon": 79,
+      "lat": 20.23333
+    }
+  },
+  {
+    "id": 1252946,
+    "name": "Waraseoni",
+    "country": "IN",
+    "coord": {
+      "lon": 80.033333,
+      "lat": 21.75
+    }
+  },
+  {
+    "id": 1253041,
+    "name": "Wadi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.98333,
+      "lat": 17.066669
+    }
+  },
+  {
+    "id": 1253132,
+    "name": "Virarajendrapet",
+    "country": "IN",
+    "coord": {
+      "lon": 75.800003,
+      "lat": 12.2
+    }
+  },
+  {
+    "id": 1253133,
+    "name": "Virar",
+    "country": "IN",
+    "coord": {
+      "lon": 72.800003,
+      "lat": 19.466669
+    }
+  },
+  {
+    "id": 1253219,
+    "name": "Vettaikkaranpudur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.933327,
+      "lat": 10.56667
+    }
+  },
+  {
+    "id": 1253330,
+    "name": "Vedaraniyam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.849998,
+      "lat": 10.36667
+    }
+  },
+  {
+    "id": 1253340,
+    "name": "Vayalar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333328,
+      "lat": 9.7
+    }
+  },
+  {
+    "id": 1253357,
+    "name": "Vasudevanallur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.416672,
+      "lat": 9.23333
+    }
+  },
+  {
+    "id": 1253605,
+    "name": "Vadakku Valliyur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.650002,
+      "lat": 8.38333
+    }
+  },
+  {
+    "id": 1253671,
+    "name": "Usilampatti",
+    "country": "IN",
+    "coord": {
+      "lon": 77.800003,
+      "lat": 9.96667
+    }
+  },
+  {
+    "id": 1253698,
+    "name": "Uravakonda",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 14.95
+    }
+  },
+  {
+    "id": 1253702,
+    "name": "Uran",
+    "country": "IN",
+    "coord": {
+      "lon": 72.93972,
+      "lat": 18.87694
+    }
+  },
+  {
+    "id": 1253736,
+    "name": "Upleta",
+    "country": "IN",
+    "coord": {
+      "lon": 70.283333,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1253744,
+    "name": "Uppal Kalan",
+    "country": "IN",
+    "coord": {
+      "lon": 78.559113,
+      "lat": 17.405769
+    }
+  },
+  {
+    "id": 1253747,
+    "name": "Unnao",
+    "country": "IN",
+    "coord": {
+      "lon": 80.5,
+      "lat": 26.533331
+    }
+  },
+  {
+    "id": 1253750,
+    "name": "Unjha",
+    "country": "IN",
+    "coord": {
+      "lon": 72.400002,
+      "lat": 23.799999
+    }
+  },
+  {
+    "id": 1253786,
+    "name": "Un",
+    "country": "IN",
+    "coord": {
+      "lon": 71.76667,
+      "lat": 23.883329
+    }
+  },
+  {
+    "id": 1253805,
+    "name": "Umreth",
+    "country": "IN",
+    "coord": {
+      "lon": 73.116669,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1253807,
+    "name": "Umred",
+    "country": "IN",
+    "coord": {
+      "lon": 79.333328,
+      "lat": 20.85
+    }
+  },
+  {
+    "id": 1254043,
+    "name": "Turaiyur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.616669,
+      "lat": 11.16667
+    }
+  },
+  {
+    "id": 1254282,
+    "name": "Todaraisingh",
+    "country": "IN",
+    "coord": {
+      "lon": 75.48333,
+      "lat": 26.01667
+    }
+  },
+  {
+    "id": 1254304,
+    "name": "Titlagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 83.150002,
+      "lat": 20.299999
+    }
+  },
+  {
+    "id": 1254317,
+    "name": "Tisaiyanvilai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.883331,
+      "lat": 8.33333
+    }
+  },
+  {
+    "id": 1254335,
+    "name": "Tiruvalla",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 9.38333
+    }
+  },
+  {
+    "id": 1254727,
+    "name": "Terdal",
+    "country": "IN",
+    "coord": {
+      "lon": 75.050003,
+      "lat": 16.5
+    }
+  },
+  {
     "id": 1252744,
     "name": "Yellapur",
     "country": "IN",
