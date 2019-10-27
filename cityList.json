@@ -45,6 +45,15 @@
     }
   },
   {
+    "id": 1348747,
+    "name": "Bankra",
+    "country": "IN",
+    "coord": {
+      "lon": 88.298058,
+      "lat": 22.627501
+    }
+  },
+  {
     "id": 1252892,
     "name": "Wazirganj",
     "country": "IN",
