@@ -54,6 +54,24 @@
     }
   },
   {
+    "id": 1252744,
+    "name": "Yellapur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.716667,
+      "lat": 14.96667
+    }
+  },
+  {
+    "id": 1252773,
+    "name": "Yaval",
+    "country": "IN",
+    "coord": {
+      "lon": 75.699997,
+      "lat": 21.16667
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
