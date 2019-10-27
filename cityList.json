@@ -315,6 +315,141 @@
     }
   },
   {
+    "id": 1254732,
+    "name": "Teonthar",
+    "country": "IN",
+    "coord": {
+      "lon": 81.650002,
+      "lat": 24.98333
+    }
+  },
+  {
+    "id": 1254794,
+    "name": "Tekkali",
+    "country": "IN",
+    "coord": {
+      "lon": 84.23333,
+      "lat": 18.616671
+    }
+  },
+  {
+    "id": 1254797,
+    "name": "Tekari",
+    "country": "IN",
+    "coord": {
+      "lon": 84.833328,
+      "lat": 24.933331
+    }
+  },
+  {
+    "id": 1254868,
+    "name": "Tarn Taran",
+    "country": "IN",
+    "coord": {
+      "lon": 74.925278,
+      "lat": 31.450001
+    }
+  },
+  {
+    "id": 1254909,
+    "name": "Tarana",
+    "country": "IN",
+    "coord": {
+      "lon": 76.033333,
+      "lat": 23.33333
+    }
+  },
+  {
+    "id": 1254953,
+    "name": "Tanuku",
+    "country": "IN",
+    "coord": {
+      "lon": 81.699997,
+      "lat": 16.75
+    }
+  },
+  {
+    "id": 1255027,
+    "name": "Tanakpur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.116669,
+      "lat": 29.08333
+    }
+  },
+  {
+    "id": 1255076,
+    "name": "Talwara",
+    "country": "IN",
+    "coord": {
+      "lon": 75.866669,
+      "lat": 31.94861
+    }
+  },
+  {
+    "id": 1255104,
+    "name": "Taloda",
+    "country": "IN",
+    "coord": {
+      "lon": 74.216667,
+      "lat": 21.566669
+    }
+  },
+  {
+    "id": 1255121,
+    "name": "Taliparamba",
+    "country": "IN",
+    "coord": {
+      "lon": 75.349998,
+      "lat": 12.05
+    }
+  },
+  {
+    "id": 1255131,
+    "name": "Taleigao",
+    "country": "IN",
+    "coord": {
+      "lon": 73.800003,
+      "lat": 15.46667
+    }
+  },
+  {
+    "id": 1255211,
+    "name": "Taki",
+    "country": "IN",
+    "coord": {
+      "lon": 88.921387,
+      "lat": 22.586109
+    }
+  },
+  {
+    "id": 1255344,
+    "name": "Suriapet",
+    "country": "IN",
+    "coord": {
+      "lon": 79.616669,
+      "lat": 17.15
+    }
+  },
+  {
+    "id": 1255483,
+    "name": "Suluru",
+    "country": "IN",
+    "coord": {
+      "lon": 80.01667,
+      "lat": 13.7
+    }
+  },
+  {
+    "id": 1255488,
+    "name": "Sultanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.199722,
+      "lat": 31.215281
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
