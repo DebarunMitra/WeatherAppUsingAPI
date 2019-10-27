@@ -1080,6 +1080,132 @@
     }
   },
   {
+    "id": 1260178,
+    "name": "Patamundai",
+    "country": "IN",
+    "coord": {
+      "lon": 86.566673,
+      "lat": 20.566669
+    }
+  },
+  {
+    "id": 1260421,
+    "name": "Paonta Sahib",
+    "country": "IN",
+    "coord": {
+      "lon": 77.616669,
+      "lat": 30.450001
+    }
+  },
+  {
+    "id": 1260527,
+    "name": "Pandua",
+    "country": "IN",
+    "coord": {
+      "lon": 88.283333,
+      "lat": 23.08333
+    }
+  },
+  {
+    "id": 1260612,
+    "name": "Panagar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.98333,
+      "lat": 23.299999
+    }
+  },
+  {
+    "id": 1260718,
+    "name": "Pali",
+    "country": "IN",
+    "coord": {
+      "lon": 81.050003,
+      "lat": 23.35
+    }
+  },
+  {
+    "id": 1261012,
+    "name": "Osmanabad",
+    "country": "IN",
+    "coord": {
+      "lon": 76.050003,
+      "lat": 18.16667
+    }
+  },
+  {
+    "id": 1261110,
+    "name": "Nuzvid",
+    "country": "IN",
+    "coord": {
+      "lon": 80.849998,
+      "lat": 16.783331
+    }
+  },
+  {
+    "id": 1261205,
+    "name": "Nongstoin",
+    "country": "IN",
+    "coord": {
+      "lon": 91.26667,
+      "lat": 25.51667
+    }
+  },
+  {
+    "id": 1261342,
+    "name": "Neem ka Thana",
+    "country": "IN",
+    "coord": {
+      "lon": 75.800003,
+      "lat": 27.73333
+    }
+  },
+  {
+    "id": 1261369,
+    "name": "Nimbahera",
+    "country": "IN",
+    "coord": {
+      "lon": 74.683327,
+      "lat": 24.616671
+    }
+  },
+  {
+    "id": 1261539,
+    "name": "Nelamangala",
+    "country": "IN",
+    "coord": {
+      "lon": 77.389999,
+      "lat": 13.10222
+    }
+  },
+  {
+    "id": 1261667,
+    "name": "Navalgund",
+    "country": "IN",
+    "coord": {
+      "lon": 75.366669,
+      "lat": 15.56667
+    }
+  },
+  {
+    "id": 1261705,
+    "name": "Nattam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 10.23333
+    }
+  },
+  {
+    "id": 1259229,
+    "name": "Pune",
+    "country": "IN",
+    "coord": {
+      "lon": 73.855347,
+      "lat": 18.519569
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
