@@ -36,6 +36,15 @@
     }
   },
   {
+    "id": 1257986,
+    "name": "Rumbak",
+    "country": "IN",
+    "coord": {
+      "lon": 77.416664,
+      "lat": 34.049999
+    }
+  },
+  {
     "id": 1252892,
     "name": "Wazirganj",
     "country": "IN",
