@@ -783,6 +783,303 @@
     }
   },
   {
+    "id": 1257429,
+    "name": "Sangaria",
+    "country": "IN",
+    "coord": {
+      "lon": 74.449997,
+      "lat": 29.799999
+    }
+  },
+  {
+    "id": 1257456,
+    "name": "Sandur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.550003,
+      "lat": 15.1
+    }
+  },
+  {
+    "id": 1257477,
+    "name": "Sanchor",
+    "country": "IN",
+    "coord": {
+      "lon": 71.772217,
+      "lat": 24.75528
+    }
+  },
+  {
+    "id": 1257481,
+    "name": "Sanawad",
+    "country": "IN",
+    "coord": {
+      "lon": 76.066673,
+      "lat": 22.183331
+    }
+  },
+  {
+    "id": 1257528,
+    "name": "Samdari",
+    "country": "IN",
+    "coord": {
+      "lon": 72.583328,
+      "lat": 25.816669
+    }
+  },
+  {
+    "id": 1257542,
+    "name": "Sambalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 83.966667,
+      "lat": 21.450001
+    }
+  },
+  {
+    "id": 1257698,
+    "name": "Sakleshpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.783333,
+      "lat": 12.96667
+    }
+  },
+  {
+    "id": 1257751,
+    "name": "Sainthia",
+    "country": "IN",
+    "coord": {
+      "lon": 87.666672,
+      "lat": 23.950001
+    }
+  },
+  {
+    "id": 1257936,
+    "name": "Rusera",
+    "country": "IN",
+    "coord": {
+      "lon": 86.033333,
+      "lat": 25.75
+    }
+  },
+  {
+    "id": 1258111,
+    "name": "Robertsganj",
+    "country": "IN",
+    "coord": {
+      "lon": 83.066673,
+      "lat": 24.700001
+    }
+  },
+  {
+    "id": 1258229,
+    "name": "Remuna",
+    "country": "IN",
+    "coord": {
+      "lon": 86.872223,
+      "lat": 21.52611
+    }
+  },
+  {
+    "id": 1258247,
+    "name": "Rehli",
+    "country": "IN",
+    "coord": {
+      "lon": 79.083328,
+      "lat": 23.633329
+    }
+  },
+  {
+    "id": 1258278,
+    "name": "Raybag",
+    "country": "IN",
+    "coord": {
+      "lon": 74.783333,
+      "lat": 16.48333
+    }
+  },
+  {
+    "id": 1258294,
+    "name": "Raxaul",
+    "country": "IN",
+    "coord": {
+      "lon": 84.849998,
+      "lat": 26.98333
+    }
+  },
+  {
+    "id": 1258342,
+    "name": "Ratlam",
+    "country": "IN",
+    "coord": {
+      "lon": 75.066673,
+      "lat": 23.316669
+    }
+  },
+  {
+    "id": 1258386,
+    "name": "Rasipuram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 11.46667
+    }
+  },
+  {
+    "id": 1258584,
+    "name": "Rampura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.23333,
+      "lat": 30.25
+    }
+  },
+  {
+    "id": 1258952,
+    "name": "Raisen",
+    "country": "IN",
+    "coord": {
+      "lon": 77.800003,
+      "lat": 23.33333
+    }
+  },
+  {
+    "id": 1258967,
+    "name": "Raipur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.099998,
+      "lat": 30.316669
+    }
+  },
+  {
+    "id": 1259154,
+    "name": "Pusad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.583328,
+      "lat": 19.9
+    }
+  },
+  {
+    "id": 1259243,
+    "name": "Punalur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.933327,
+      "lat": 9
+    }
+  },
+  {
+    "id": 1259263,
+    "name": "Puliyangudi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.416672,
+      "lat": 9.16667
+    }
+  },
+  {
+    "id": 1259508,
+    "name": "Pithapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 82.26667,
+      "lat": 17.116671
+    }
+  },
+  {
+    "id": 1259535,
+    "name": "Piriyapatna",
+    "country": "IN",
+    "coord": {
+      "lon": 76.099167,
+      "lat": 12.33972
+    }
+  },
+  {
+    "id": 1259552,
+    "name": "Pipri",
+    "country": "IN",
+    "coord": {
+      "lon": 75.533333,
+      "lat": 19.799999
+    }
+  },
+  {
+    "id": 1259608,
+    "name": "Pipar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.537781,
+      "lat": 26.385559
+    }
+  },
+  {
+    "id": 1259693,
+    "name": "Pilani",
+    "country": "IN",
+    "coord": {
+      "lon": 75.604103,
+      "lat": 28.368401
+    }
+  },
+  {
+    "id": 1259701,
+    "name": "Pihani",
+    "country": "IN",
+    "coord": {
+      "lon": 80.199997,
+      "lat": 27.633329
+    }
+  },
+  {
+    "id": 1259879,
+    "name": "Periyakulam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.550003,
+      "lat": 10.11667
+    }
+  },
+  {
+    "id": 1260040,
+    "name": "Pattukkottai",
+    "country": "IN",
+    "coord": {
+      "lon": 79.316673,
+      "lat": 10.43333
+    }
+  },
+  {
+    "id": 1260129,
+    "name": "Patharia",
+    "country": "IN",
+    "coord": {
+      "lon": 79.199997,
+      "lat": 23.9
+    }
+  },
+  {
+    "id": 1260135,
+    "name": "Pathardi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.183327,
+      "lat": 19.16667
+    }
+  },
+  {
+    "id": 1260141,
+    "name": "Pathalgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 83.466667,
+      "lat": 22.566669
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
