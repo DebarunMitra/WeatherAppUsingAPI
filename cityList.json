@@ -45,6 +45,15 @@
     }
   },
   {
+    "id": 1252738,
+    "name": "Yeola",
+    "country": "IN",
+    "coord": {
+      "lon": 74.48333,
+      "lat": 20.033331
+    }
+  },
+  {
     "id": 1348747,
     "name": "Bankra",
     "country": "IN",
