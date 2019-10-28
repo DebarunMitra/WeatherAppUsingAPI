@@ -1224,6 +1224,429 @@
     }
   },
   {
+    "id": 1261481,
+    "name": "New Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.23114,
+      "lat": 28.61282
+    }
+  },
+  {
+    "id": 1268379,
+    "name": "Kālkāji Devi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 28.549999
+    }
+  },
+  {
+    "id": 1254129,
+    "name": "Tughlakābād",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 28.5
+    }
+  },
+  {
+    "id": 1269734,
+    "name": "Indraprast",
+    "country": "IN",
+    "coord": {
+      "lon": 77.300003,
+      "lat": 28.483334
+    }
+  },
+  {
+    "id": 1271951,
+    "name": "Faridabad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316666,
+      "lat": 28.433332
+    }
+  },
+  {
+    "id": 1277558,
+    "name": "Ballabgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316666,
+      "lat": 28.35
+    }
+  },
+  {
+    "id": 1259523,
+    "name": "Pīrthala",
+    "country": "IN",
+    "coord": {
+      "lon": 77.283333,
+      "lat": 28.25
+    }
+  },
+  {
+    "id": 1260637,
+    "name": "Palwal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.333336,
+      "lat": 28.15
+    }
+  },
+  {
+    "id": 1278146,
+    "name": "Aurangābād",
+    "country": "IN",
+    "coord": {
+      "lon": 77.333336,
+      "lat": 28.033333
+    }
+  },
+  {
+    "id": 1263629,
+    "name": "Mānpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.283333,
+      "lat": 27.983334
+    }
+  },
+  {
+    "id": 1270000,
+    "name": "Hodal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.366669,
+      "lat": 27.9
+    }
+  },
+  {
+    "id": 1266073,
+    "name": "Kosi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433334,
+      "lat": 27.799999
+    }
+  },
+  {
+    "id": 1253626,
+    "name": "State of Uttar Pradesh",
+    "country": "IN",
+    "coord": {
+      "lon": 80.75,
+      "lat": 27.25
+    }
+  },
+  {
+    "id": 1274343,
+    "name": "Chhata",
+    "country": "IN",
+    "coord": {
+      "lon": 77.5,
+      "lat": 27.716667
+    }
+  },
+  {
+    "id": 1257810,
+    "name": "Sahār",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 27.633333
+    }
+  },
+  {
+    "id": 1269501,
+    "name": "Jait",
+    "country": "IN",
+    "coord": {
+      "lon": 77.599998,
+      "lat": 27.6
+    }
+  },
+  {
+    "id": 1263364,
+    "name": "Mathura",
+    "country": "IN",
+    "coord": {
+      "lon": 77.683334,
+      "lat": 27.5
+    }
+  },
+  {
+    "id": 1271059,
+    "name": "Gokul",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 27.450001
+    }
+  },
+  {
+    "id": 1271956,
+    "name": "Farah",
+    "country": "IN",
+    "coord": {
+      "lon": 77.76667,
+      "lat": 27.333332
+    }
+  },
+  {
+    "id": 1256323,
+    "name": "Sikandra",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933334,
+      "lat": 27.233334
+    }
+  },
+  {
+    "id": 1279259,
+    "name": "Agra",
+    "country": "IN",
+    "coord": {
+      "lon": 78.01667,
+      "lat": 27.183332
+    }
+  },
+  {
+    "id": 1276115,
+    "name": "Bharkol",
+    "country": "IN",
+    "coord": {
+      "lon": 77.699997,
+      "lat": 27.116667
+    }
+  },
+  {
+    "id": 1271900,
+    "name": "Fatehpur Sikri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.666664,
+      "lat": 27.1
+    }
+  },
+  {
+    "id": 1276128,
+    "name": "Bharatpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 27.216667
+    }
+  },
+  {
+    "id": 1256772,
+    "name": "Sewar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433334,
+      "lat": 27.183332
+    }
+  },
+  {
+    "id": 1264720,
+    "name": "Luhāru",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316666,
+      "lat": 27.166668
+    }
+  },
+  {
+    "id": 1270495,
+    "name": "Halena",
+    "country": "IN",
+    "coord": {
+      "lon": 77.150002,
+      "lat": 27.116667
+    }
+  },
+  {
+    "id": 1260124,
+    "name": "Pathena",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 27.133333
+    }
+  },
+  {
+    "id": 1264323,
+    "name": "Mahwah",
+    "country": "IN",
+    "coord": {
+      "lon": 76.933334,
+      "lat": 27.049999
+    }
+  },
+  {
+    "id": 1260072,
+    "name": "Pātolī",
+    "country": "IN",
+    "coord": {
+      "lon": 76.816666,
+      "lat": 26.983334
+    }
+  },
+  {
+    "id": 1264746,
+    "name": "Lotwāra",
+    "country": "IN",
+    "coord": {
+      "lon": 76.73333,
+      "lat": 27
+    }
+  },
+  {
+    "id": 1263630,
+    "name": "Mānpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.683334,
+      "lat": 26.966667
+    }
+  },
+  {
+    "id": 6698412,
+    "name": "Abhaneri",
+    "country": "IN",
+    "coord": {
+      "lon": 76.607605,
+      "lat": 27.007435
+    }
+  },
+  {
+    "id": 1272328,
+    "name": "Dubbī",
+    "country": "IN",
+    "coord": {
+      "lon": 76.51667,
+      "lat": 26.933332
+    }
+  },
+  {
+    "id": 1276188,
+    "name": "Bhandarej",
+    "country": "IN",
+    "coord": {
+      "lon": 76.416664,
+      "lat": 26.883333
+    }
+  },
+  {
+    "id": 1273369,
+    "name": "Dausa",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333336,
+      "lat": 26.883333
+    }
+  },
+  {
+    "id": 1269142,
+    "name": "Jatwāra",
+    "country": "IN",
+    "coord": {
+      "lon": 76.199997,
+      "lat": 26.883333
+    }
+  },
+  {
+    "id": 1277225,
+    "name": "Bānskhoh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.150002,
+      "lat": 26.833332
+    }
+  },
+  {
+    "id": 1276767,
+    "name": "Basi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.033333,
+      "lat": 26.833332
+    }
+  },
+  {
+    "id": 1268000,
+    "name": "Kānota",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 26.866667
+    }
+  },
+  {
+    "id": 1269515,
+    "name": "Jaipur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.816666,
+      "lat": 26.916668
+    }
+  },
+  {
+    "id": 1278809,
+    "name": "Āmer",
+    "country": "IN",
+    "coord": {
+      "lon": 75.866669,
+      "lat": 26.983334
+    }
+  },
+  {
+    "id": 1272978,
+    "name": "Dhānd",
+    "country": "IN",
+    "coord": {
+      "lon": 75.933334,
+      "lat": 27.066668
+    }
+  },
+  {
+    "id": 1274671,
+    "name": "Chandwaji",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 27.216667
+    }
+  },
+  {
+    "id": 1263649,
+    "name": "Manoharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 27.299999
+    }
+  },
+  {
+    "id": 1256705,
+    "name": "Shahpura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 27.383333
+    }
+  },
+  {
+    "id": 1276373,
+    "name": "Bhābhru",
+    "country": "IN",
+    "coord": {
+      "lon": 76.033333,
+      "lat": 27.466667
+    }
+  },
+  {
     "id": 1273294,
     "name": "Delhi",
     "country": "IN",
