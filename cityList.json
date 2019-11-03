@@ -9169,5 +9169,113 @@
       "lon": 83.127777,
       "lat": 26.757219
     }
+  },
+  {
+    "id": 1264514,
+    "name": "Magadi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.23333,
+      "lat": 12.96667
+    }
+  },
+  {
+    "id": 1264520,
+    "name": "Madurantakam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.900002,
+      "lat": 12.51667
+    }
+  },
+  {
+    "id": 1264523,
+    "name": "Madukkur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.400002,
+      "lat": 10.48333
+    }
+  },
+  {
+    "id": 1264524,
+    "name": "Madukkarai",
+    "country": "IN",
+    "coord": {
+      "lon": 76.966667,
+      "lat": 10.9
+    }
+  },
+  {
+    "id": 1264551,
+    "name": "Madhupur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.650002,
+      "lat": 24.25
+    }
+  },
+  {
+    "id": 1264553,
+    "name": "Madhugiri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.209167,
+      "lat": 13.66056
+    }
+  },
+  {
+    "id": 1264570,
+    "name": "Madhipura",
+    "country": "IN",
+    "coord": {
+      "lon": 86.783333,
+      "lat": 25.91667
+    }
+  },
+  {
+    "id": 1264592,
+    "name": "Maddur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.066673,
+      "lat": 12.6
+    }
+  },
+  {
+    "id": 1264621,
+    "name": "Madanapalle",
+    "country": "IN",
+    "coord": {
+      "lon": 78.5,
+      "lat": 13.55
+    }
+  },
+  {
+    "id": 1264643,
+    "name": "Machhlishahr",
+    "country": "IN",
+    "coord": {
+      "lon": 82.416672,
+      "lat": 25.683331
+    }
+  },
+  {
+    "id": 1264644,
+    "name": "Machhiwara",
+    "country": "IN",
+    "coord": {
+      "lon": 76.198334,
+      "lat": 30.914721
+    }
+  },
+  {
+    "id": 1264647,
+    "name": "Macherla",
+    "country": "IN",
+    "coord": {
+      "lon": 79.433327,
+      "lat": 16.48333
+    }
   }
 ]
