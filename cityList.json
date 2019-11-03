@@ -9898,5 +9898,338 @@
       "lon": 80.633331,
       "lat": 17.549999
     }
+  },
+  {
+    "id": 1265964,
+    "name": "Kotma",
+    "country": "IN",
+    "coord": {
+      "lon": 81.966667,
+      "lat": 23.200001
+    }
+  },
+  {
+    "id": 1266029,
+    "name": "Kotaparh",
+    "country": "IN",
+    "coord": {
+      "lon": 82.349998,
+      "lat": 19.15
+    }
+  },
+  {
+    "id": 1266031,
+    "name": "Kotamangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.633331,
+      "lat": 10.06667
+    }
+  },
+  {
+    "id": 1266038,
+    "name": "Kotagiri",
+    "country": "IN",
+    "coord": {
+      "lon": 76.883331,
+      "lat": 11.43333
+    }
+  },
+  {
+    "id": 1266051,
+    "name": "Kota",
+    "country": "IN",
+    "coord": {
+      "lon": 82.033333,
+      "lat": 22.299999
+    }
+  },
+  {
+    "id": 1266070,
+    "name": "Kosigi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 15.85
+    }
+  },
+  {
+    "id": 1266087,
+    "name": "Kosamba",
+    "country": "IN",
+    "coord": {
+      "lon": 72.949997,
+      "lat": 21.48333
+    }
+  },
+  {
+    "id": 1266092,
+    "name": "Korwai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.041901,
+      "lat": 24.116699
+    }
+  },
+  {
+    "id": 1266116,
+    "name": "Koregaon",
+    "country": "IN",
+    "coord": {
+      "lon": 74.083328,
+      "lat": 18.65
+    }
+  },
+  {
+    "id": 1266124,
+    "name": "Koratla",
+    "country": "IN",
+    "coord": {
+      "lon": 78.716667,
+      "lat": 18.816669
+    }
+  },
+  {
+    "id": 1266154,
+    "name": "Koppal",
+    "country": "IN",
+    "coord": {
+      "lon": 76.150002,
+      "lat": 15.35
+    }
+  },
+  {
+    "id": 1266162,
+    "name": "Kopargaon",
+    "country": "IN",
+    "coord": {
+      "lon": 74.48333,
+      "lat": 19.883329
+    }
+  },
+  {
+    "id": 1266164,
+    "name": "Kopaganj",
+    "country": "IN",
+    "coord": {
+      "lon": 83.565826,
+      "lat": 26.023331
+    }
+  },
+  {
+    "id": 1266178,
+    "name": "Konnur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.75,
+      "lat": 16.200001
+    }
+  },
+  {
+    "id": 1266179,
+    "name": "Konnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.347504,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1266209,
+    "name": "Kondapalle",
+    "country": "IN",
+    "coord": {
+      "lon": 80.533333,
+      "lat": 16.616671
+    }
+  },
+  {
+    "id": 1266216,
+    "name": "Kondagaon",
+    "country": "IN",
+    "coord": {
+      "lon": 81.666672,
+      "lat": 19.6
+    }
+  },
+  {
+    "id": 1266217,
+    "name": "Konch",
+    "country": "IN",
+    "coord": {
+      "lon": 79.150002,
+      "lat": 25.98333
+    }
+  },
+  {
+    "id": 1266220,
+    "name": "Konarka",
+    "country": "IN",
+    "coord": {
+      "lon": 86.116669,
+      "lat": 19.9
+    }
+  },
+  {
+    "id": 1266267,
+    "name": "Kollegal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.116669,
+      "lat": 12.15
+    }
+  },
+  {
+    "id": 1266302,
+    "name": "Kolaras",
+    "country": "IN",
+    "coord": {
+      "lon": 77.599998,
+      "lat": 25.23333
+    }
+  },
+  {
+    "id": 1266322,
+    "name": "Colachel",
+    "country": "IN",
+    "coord": {
+      "lon": 77.25,
+      "lat": 8.16667
+    }
+  },
+  {
+    "id": 1266330,
+    "name": "Kokrajhar",
+    "country": "IN",
+    "coord": {
+      "lon": 90.27182,
+      "lat": 26.39904
+    }
+  },
+  {
+    "id": 1266372,
+    "name": "Koelwar",
+    "country": "IN",
+    "coord": {
+      "lon": 84.800003,
+      "lat": 25.58333
+    }
+  },
+  {
+    "id": 1266385,
+    "name": "Kodungallur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.216667,
+      "lat": 10.21667
+    }
+  },
+  {
+    "id": 1266390,
+    "name": "Kodoli",
+    "country": "IN",
+    "coord": {
+      "lon": 74.199997,
+      "lat": 16.883329
+    }
+  },
+  {
+    "id": 1266397,
+    "name": "Kodinar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.703056,
+      "lat": 20.790279
+    }
+  },
+  {
+    "id": 1266414,
+    "name": "Kodarma",
+    "country": "IN",
+    "coord": {
+      "lon": 85.599998,
+      "lat": 24.466669
+    }
+  },
+  {
+    "id": 1266416,
+    "name": "Kodar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.966667,
+      "lat": 16.98333
+    }
+  },
+  {
+    "id": 1266425,
+    "name": "Kodaikanal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 10.23333
+    }
+  },
+  {
+    "id": 1266436,
+    "name": "Koch Bihar",
+    "country": "IN",
+    "coord": {
+      "lon": 89.433327,
+      "lat": 26.316669
+    }
+  },
+  {
+    "id": 1266448,
+    "name": "Koath",
+    "country": "IN",
+    "coord": {
+      "lon": 84.26667,
+      "lat": 25.316669
+    }
+  },
+  {
+    "id": 1266452,
+    "name": "Kizhake Chalakudi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 10.3
+    }
+  },
+  {
+    "id": 1266461,
+    "name": "Kithor",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 28.866671
+    }
+  },
+  {
+    "id": 1266475,
+    "name": "Kishtwar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.76667,
+      "lat": 33.316669
+    }
+  },
+  {
+    "id": 1266486,
+    "name": "Kishangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 74.866669,
+      "lat": 26.566669
+    }
+  },
+  {
+    "id": 1266489,
+    "name": "Kishanganj",
+    "country": "IN",
+    "coord": {
+      "lon": 87.933327,
+      "lat": 26.116671
+    }
   }
 ]
