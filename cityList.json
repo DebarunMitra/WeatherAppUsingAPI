@@ -9376,5 +9376,167 @@
       "lon": 77.583328,
       "lat": 34.166672
     }
+  },
+  {
+    "id": 1264989,
+    "name": "Lawar Khas",
+    "country": "IN",
+    "coord": {
+      "lon": 77.76667,
+      "lat": 29.116671
+    }
+  },
+  {
+    "id": 1265022,
+    "name": "Lathi",
+    "country": "IN",
+    "coord": {
+      "lon": 71.383331,
+      "lat": 21.716669
+    }
+  },
+  {
+    "id": 1265025,
+    "name": "Latehar",
+    "country": "IN",
+    "coord": {
+      "lon": 84.5,
+      "lat": 23.75
+    }
+  },
+  {
+    "id": 1265053,
+    "name": "Lar",
+    "country": "IN",
+    "coord": {
+      "lon": 83.971672,
+      "lat": 26.20389
+    }
+  },
+  {
+    "id": 1265143,
+    "name": "Lalsot",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333328,
+      "lat": 26.566669
+    }
+  },
+  {
+    "id": 1265150,
+    "name": "Lalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 69.966667,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1265163,
+    "name": "Lalgudi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.833328,
+      "lat": 10.86667
+    }
+  },
+  {
+    "id": 1265166,
+    "name": "Lalgola",
+    "country": "IN",
+    "coord": {
+      "lon": 88.25,
+      "lat": 24.41667
+    }
+  },
+  {
+    "id": 1265170,
+    "name": "Lalganj",
+    "country": "IN",
+    "coord": {
+      "lon": 85.183327,
+      "lat": 25.866671
+    }
+  },
+  {
+    "id": 1265201,
+    "name": "Lakshmeshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.466667,
+      "lat": 15.13333
+    }
+  },
+  {
+    "id": 1265208,
+    "name": "Laksar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.050003,
+      "lat": 29.76667
+    }
+  },
+  {
+    "id": 1265220,
+    "name": "Lakhyabad",
+    "country": "IN",
+    "coord": {
+      "lon": 86.666672,
+      "lat": 23.66667
+    }
+  },
+  {
+    "id": 1265233,
+    "name": "Lakhnadon",
+    "country": "IN",
+    "coord": {
+      "lon": 79.599998,
+      "lat": 22.6
+    }
+  },
+  {
+    "id": 1265242,
+    "name": "Lakhimpur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.76667,
+      "lat": 27.950001
+    }
+  },
+  {
+    "id": 1265246,
+    "name": "Lakheri",
+    "country": "IN",
+    "coord": {
+      "lon": 76.166672,
+      "lat": 25.66667
+    }
+  },
+  {
+    "id": 1265310,
+    "name": "Laharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.900002,
+      "lat": 27.716669
+    }
+  },
+  {
+    "id": 1265311,
+    "name": "Lahar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.945,
+      "lat": 26.19833
+    }
+  },
+  {
+    "id": 1265323,
+    "name": "Ladwa",
+    "country": "IN",
+    "coord": {
+      "lon": 77.044441,
+      "lat": 29.99444
+    }
   }
 ]
