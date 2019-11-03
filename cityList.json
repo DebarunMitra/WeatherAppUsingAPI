@@ -16747,5 +16747,1040 @@
       "lon": 76.949997,
       "lat": 17.866671
     }
+  },
+  {
+    "id": 1276810,
+    "name": "Barwani",
+    "country": "IN",
+    "coord": {
+      "lon": 74.900002,
+      "lat": 22.033331
+    }
+  },
+  {
+    "id": 1276815,
+    "name": "Barwala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.916672,
+      "lat": 29.383329
+    }
+  },
+  {
+    "id": 1276829,
+    "name": "Baruni",
+    "country": "IN",
+    "coord": {
+      "lon": 85.98333,
+      "lat": 25.48333
+    }
+  },
+  {
+    "id": 1276832,
+    "name": "Baruipur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.439171,
+      "lat": 22.34972
+    }
+  },
+  {
+    "id": 1276856,
+    "name": "Barsi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.699997,
+      "lat": 18.23333
+    }
+  },
+  {
+    "id": 1276870,
+    "name": "Barpali",
+    "country": "IN",
+    "coord": {
+      "lon": 83.583328,
+      "lat": 21.200001
+    }
+  },
+  {
+    "id": 1276895,
+    "name": "Barnala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.550003,
+      "lat": 30.383329
+    }
+  },
+  {
+    "id": 1276901,
+    "name": "Barmer",
+    "country": "IN",
+    "coord": {
+      "lon": 71.383331,
+      "lat": 25.75
+    }
+  },
+  {
+    "id": 1276919,
+    "name": "Barki Saria",
+    "country": "IN",
+    "coord": {
+      "lon": 85.883331,
+      "lat": 24.16667
+    }
+  },
+  {
+    "id": 1276927,
+    "name": "Barka Kana",
+    "country": "IN",
+    "coord": {
+      "lon": 85.48333,
+      "lat": 23.616671
+    }
+  },
+  {
+    "id": 1276938,
+    "name": "Barjala",
+    "country": "IN",
+    "coord": {
+      "lon": 91.366669,
+      "lat": 23.616671
+    }
+  },
+  {
+    "id": 1276939,
+    "name": "Bari Sadri",
+    "country": "IN",
+    "coord": {
+      "lon": 74.466667,
+      "lat": 24.41667
+    }
+  },
+  {
+    "id": 1276954,
+    "name": "Barhiya",
+    "country": "IN",
+    "coord": {
+      "lon": 86.033333,
+      "lat": 25.283331
+    }
+  },
+  {
+    "id": 1276977,
+    "name": "Barh",
+    "country": "IN",
+    "coord": {
+      "lon": 85.716667,
+      "lat": 25.48333
+    }
+  },
+  {
+    "id": 1276982,
+    "name": "Bargi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.866669,
+      "lat": 22.98333
+    }
+  },
+  {
+    "id": 1277022,
+    "name": "Bardoli",
+    "country": "IN",
+    "coord": {
+      "lon": 73.116669,
+      "lat": 21.116671
+    }
+  },
+  {
+    "id": 1277029,
+    "name": "Barddhaman",
+    "country": "IN",
+    "coord": {
+      "lon": 87.849998,
+      "lat": 23.25
+    }
+  },
+  {
+    "id": 1277038,
+    "name": "Bar Bigha",
+    "country": "IN",
+    "coord": {
+      "lon": 85.73333,
+      "lat": 25.216669
+    }
+  },
+  {
+    "id": 1277044,
+    "name": "Baraut",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 29.1
+    }
+  },
+  {
+    "id": 1277053,
+    "name": "Barauli",
+    "country": "IN",
+    "coord": {
+      "lon": 84.583328,
+      "lat": 26.4
+    }
+  },
+  {
+    "id": 1277065,
+    "name": "Barasat",
+    "country": "IN",
+    "coord": {
+      "lon": 88.51667,
+      "lat": 22.716669
+    }
+  },
+  {
+    "id": 1276532,
+    "name": "Belgharia",
+    "country": "IN",
+    "coord": {
+      "lon": 88.383331,
+      "lat": 22.65
+    }
+  },
+  {
+    "id": 1277082,
+    "name": "Baranagar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.36528,
+      "lat": 22.64333
+    }
+  },
+  {
+    "id": 1277085,
+    "name": "Baramula",
+    "country": "IN",
+    "coord": {
+      "lon": 74.349998,
+      "lat": 34.200001
+    }
+  },
+  {
+    "id": 1277100,
+    "name": "Barakpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.371941,
+      "lat": 22.761391
+    }
+  },
+  {
+    "id": 1277183,
+    "name": "Bapatla",
+    "country": "IN",
+    "coord": {
+      "lon": 80.466667,
+      "lat": 15.9
+    }
+  },
+  {
+    "id": 1277200,
+    "name": "Banur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.71833,
+      "lat": 30.555559
+    }
+  },
+  {
+    "id": 1277201,
+    "name": "Bantval",
+    "country": "IN",
+    "coord": {
+      "lon": 75.033333,
+      "lat": 12.9
+    }
+  },
+  {
+    "id": 1277202,
+    "name": "Bantva",
+    "country": "IN",
+    "coord": {
+      "lon": 70.068893,
+      "lat": 21.486389
+    }
+  },
+  {
+    "id": 1277214,
+    "name": "Banswara",
+    "country": "IN",
+    "coord": {
+      "lon": 74.449997,
+      "lat": 23.549999
+    }
+  },
+  {
+    "id": 1277216,
+    "name": "Banswada",
+    "country": "IN",
+    "coord": {
+      "lon": 77.883331,
+      "lat": 18.383329
+    }
+  },
+  {
+    "id": 1277232,
+    "name": "Bansi",
+    "country": "IN",
+    "coord": {
+      "lon": 82.933327,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1277238,
+    "name": "Bansdih",
+    "country": "IN",
+    "coord": {
+      "lon": 84.216667,
+      "lat": 25.883329
+    }
+  },
+  {
+    "id": 1277240,
+    "name": "Bansbaria",
+    "country": "IN",
+    "coord": {
+      "lon": 88.399437,
+      "lat": 22.971939
+    }
+  },
+  {
+    "id": 1277255,
+    "name": "Bannur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.86306,
+      "lat": 12.33083
+    }
+  },
+  {
+    "id": 1277263,
+    "name": "Banmankhi",
+    "country": "IN",
+    "coord": {
+      "lon": 87.183327,
+      "lat": 25.883329
+    }
+  },
+  {
+    "id": 1277273,
+    "name": "Banki",
+    "country": "IN",
+    "coord": {
+      "lon": 85.533333,
+      "lat": 20.383329
+    }
+  },
+  {
+    "id": 1277289,
+    "name": "Banka",
+    "country": "IN",
+    "coord": {
+      "lon": 86.916672,
+      "lat": 24.883329
+    }
+  },
+  {
+    "id": 1277318,
+    "name": "Bangarmau",
+    "country": "IN",
+    "coord": {
+      "lon": 80.216667,
+      "lat": 26.9
+    }
+  },
+  {
+    "id": 1277320,
+    "name": "Bangarapet",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 12.96667
+    }
+  },
+  {
+    "id": 1277324,
+    "name": "Bangaon",
+    "country": "IN",
+    "coord": {
+      "lon": 88.816673,
+      "lat": 23.066669
+    }
+  },
+  {
+    "id": 1277330,
+    "name": "Banganapalle",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 15.31667
+    }
+  },
+  {
+    "id": 1277333,
+    "name": "Bangalore",
+    "country": "IN",
+    "coord": {
+      "lon": 77.603287,
+      "lat": 12.97623
+    }
+  },
+  {
+    "id": 1277426,
+    "name": "Banapur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.183327,
+      "lat": 19.783331
+    }
+  },
+  {
+    "id": 1277442,
+    "name": "Bamor Kalan",
+    "country": "IN",
+    "coord": {
+      "lon": 78.150002,
+      "lat": 24.9
+    }
+  },
+  {
+    "id": 1277514,
+    "name": "Balugaon",
+    "country": "IN",
+    "coord": {
+      "lon": 85.099998,
+      "lat": 20.16667
+    }
+  },
+  {
+    "id": 1277525,
+    "name": "Balrampur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.183327,
+      "lat": 27.433331
+    }
+  },
+  {
+    "id": 1277527,
+    "name": "Balotra",
+    "country": "IN",
+    "coord": {
+      "lon": 72.23333,
+      "lat": 25.83333
+    }
+  },
+  {
+    "id": 1277530,
+    "name": "Baloda Bazar",
+    "country": "IN",
+    "coord": {
+      "lon": 82.166672,
+      "lat": 21.66667
+    }
+  },
+  {
+    "id": 1277535,
+    "name": "Balod",
+    "country": "IN",
+    "coord": {
+      "lon": 81.20472,
+      "lat": 20.73
+    }
+  },
+  {
+    "id": 1277539,
+    "name": "Bali",
+    "country": "IN",
+    "coord": {
+      "lon": 88.340279,
+      "lat": 22.646111
+    }
+  },
+  {
+    "id": 1277594,
+    "name": "Balhārshāh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.366669,
+      "lat": 19.83333
+    }
+  },
+  {
+    "id": 1277557,
+    "name": "Ballalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.349998,
+      "lat": 19.83333
+    }
+  },
+  {
+    "id": 1277590,
+    "name": "Bali",
+    "country": "IN",
+    "coord": {
+      "lon": 73.283333,
+      "lat": 25.183331
+    }
+  },
+  {
+    "id": 1277634,
+    "name": "Balarampur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.216667,
+      "lat": 23.116671
+    }
+  },
+  {
+    "id": 1277636,
+    "name": "Balapur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.76667,
+      "lat": 20.66667
+    }
+  },
+  {
+    "id": 1277661,
+    "name": "Balaghat",
+    "country": "IN",
+    "coord": {
+      "lon": 80.183327,
+      "lat": 21.799999
+    }
+  },
+  {
+    "id": 1277666,
+    "name": "Balachor",
+    "country": "IN",
+    "coord": {
+      "lon": 76.316673,
+      "lat": 31.066669
+    }
+  },
+  {
+    "id": 1277684,
+    "name": "Bakhtiyarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.51667,
+      "lat": 25.466669
+    }
+  },
+  {
+    "id": 1277723,
+    "name": "Baj Baj",
+    "country": "IN",
+    "coord": {
+      "lon": 88.17028,
+      "lat": 22.47472
+    }
+  },
+  {
+    "id": 1277748,
+    "name": "Bairagnia",
+    "country": "IN",
+    "coord": {
+      "lon": 85.283333,
+      "lat": 26.75
+    }
+  },
+  {
+    "id": 1277759,
+    "name": "Baindur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.633331,
+      "lat": 13.86667
+    }
+  },
+  {
+    "id": 1277765,
+    "name": "Bail Hongal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.866669,
+      "lat": 15.81667
+    }
+  },
+  {
+    "id": 1277776,
+    "name": "Baihar",
+    "country": "IN",
+    "coord": {
+      "lon": 80.550003,
+      "lat": 22.1
+    }
+  },
+  {
+    "id": 1277780,
+    "name": "Baidyabati",
+    "country": "IN",
+    "coord": {
+      "lon": 88.324722,
+      "lat": 22.785
+    }
+  },
+  {
+    "id": 1277799,
+    "name": "Bahraich",
+    "country": "IN",
+    "coord": {
+      "lon": 81.599998,
+      "lat": 27.58333
+    }
+  },
+  {
+    "id": 1277808,
+    "name": "Bahjoi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.616669,
+      "lat": 28.4
+    }
+  },
+  {
+    "id": 1277814,
+    "name": "Baheri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.5,
+      "lat": 28.783331
+    }
+  },
+  {
+    "id": 1277820,
+    "name": "Baharampur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.25,
+      "lat": 24.1
+    }
+  },
+  {
+    "id": 1277835,
+    "name": "Bahadurgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.916672,
+      "lat": 28.683331
+    }
+  },
+  {
+    "id": 1277836,
+    "name": "Bahadurganj",
+    "country": "IN",
+    "coord": {
+      "lon": 87.816673,
+      "lat": 26.26667
+    }
+  },
+  {
+    "id": 1277841,
+    "name": "Bah",
+    "country": "IN",
+    "coord": {
+      "lon": 78.597504,
+      "lat": 26.870001
+    }
+  },
+  {
+    "id": 1277844,
+    "name": "Bagula",
+    "country": "IN",
+    "coord": {
+      "lon": 88.650002,
+      "lat": 23.316669
+    }
+  },
+  {
+    "id": 1277882,
+    "name": "Baghpat",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 28.950001
+    }
+  },
+  {
+    "id": 1277902,
+    "name": "Bagha Purana",
+    "country": "IN",
+    "coord": {
+      "lon": 75.099998,
+      "lat": 30.683331
+    }
+  },
+  {
+    "id": 1277909,
+    "name": "Bagepalli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.79306,
+      "lat": 13.78472
+    }
+  },
+  {
+    "id": 1277924,
+    "name": "Bagasra",
+    "country": "IN",
+    "coord": {
+      "lon": 70.949997,
+      "lat": 21.48333
+    }
+  },
+  {
+    "id": 1277930,
+    "name": "Bagar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.500504,
+      "lat": 28.187401
+    }
+  },
+  {
+    "id": 1277939,
+    "name": "Bagaha",
+    "country": "IN",
+    "coord": {
+      "lon": 84.083328,
+      "lat": 27.1
+    }
+  },
+  {
+    "id": 1277949,
+    "name": "Badvel",
+    "country": "IN",
+    "coord": {
+      "lon": 79.050003,
+      "lat": 14.75
+    }
+  },
+  {
+    "id": 1277950,
+    "name": "Baduria",
+    "country": "IN",
+    "coord": {
+      "lon": 88.785828,
+      "lat": 22.741671
+    }
+  },
+  {
+    "id": 1277970,
+    "name": "Badnawar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.216667,
+      "lat": 23.01667
+    }
+  },
+  {
+    "id": 1277976,
+    "name": "Badlapur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.26667,
+      "lat": 19.15
+    }
+  },
+  {
+    "id": 1278017,
+    "name": "Badami",
+    "country": "IN",
+    "coord": {
+      "lon": 75.676826,
+      "lat": 15.91495
+    }
+  },
+  {
+    "id": 1278023,
+    "name": "Badagara",
+    "country": "IN",
+    "coord": {
+      "lon": 75.583328,
+      "lat": 11.6
+    }
+  },
+  {
+    "id": 1278026,
+    "name": "Bada Barabil",
+    "country": "IN",
+    "coord": {
+      "lon": 85.400002,
+      "lat": 22.116671
+    }
+  },
+  {
+    "id": 1278036,
+    "name": "Bachhraon",
+    "country": "IN",
+    "coord": {
+      "lon": 78.216667,
+      "lat": 28.933331
+    }
+  },
+  {
+    "id": 1278052,
+    "name": "Babrala",
+    "country": "IN",
+    "coord": {
+      "lon": 78.400002,
+      "lat": 28.26667
+    }
+  },
+  {
+    "id": 1278054,
+    "name": "Babra",
+    "country": "IN",
+    "coord": {
+      "lon": 71.300003,
+      "lat": 21.85
+    }
+  },
+  {
+    "id": 1278058,
+    "name": "Babina",
+    "country": "IN",
+    "coord": {
+      "lon": 78.466667,
+      "lat": 25.25
+    }
+  },
+  {
+    "id": 1278064,
+    "name": "Baberu",
+    "country": "IN",
+    "coord": {
+      "lon": 80.716667,
+      "lat": 25.549999
+    }
+  },
+  {
+    "id": 1278073,
+    "name": "Babai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1278083,
+    "name": "Azamgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 83.186111,
+      "lat": 26.059999
+    }
+  },
+  {
+    "id": 1278094,
+    "name": "Ayodhya",
+    "country": "IN",
+    "coord": {
+      "lon": 82.199997,
+      "lat": 26.799999
+    }
+  },
+  {
+    "id": 1278124,
+    "name": "Avinashi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.283333,
+      "lat": 11.2
+    }
+  },
+  {
+    "id": 1278130,
+    "name": "Avadi",
+    "country": "IN",
+    "coord": {
+      "lon": 80.101669,
+      "lat": 13.11556
+    }
+  },
+  {
+    "id": 1278139,
+    "name": "Ausa",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 18.25
+    }
+  },
+  {
+    "id": 1278148,
+    "name": "Aurangabad",
+    "country": "IN",
+    "coord": {
+      "lon": 84.366669,
+      "lat": 24.75
+    }
+  },
+  {
+    "id": 1278152,
+    "name": "Auraiya",
+    "country": "IN",
+    "coord": {
+      "lon": 79.51667,
+      "lat": 26.466669
+    }
+  },
+  {
+    "id": 1278156,
+    "name": "Aurad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433327,
+      "lat": 18.25
+    }
+  },
+  {
+    "id": 1278173,
+    "name": "Attur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.616669,
+      "lat": 11.6
+    }
+  },
+  {
+    "id": 1278176,
+    "name": "Attingal",
+    "country": "IN",
+    "coord": {
+      "lon": 76.833328,
+      "lat": 8.68333
+    }
+  },
+  {
+    "id": 1278190,
+    "name": "Atrauli",
+    "country": "IN",
+    "coord": {
+      "lon": 78.283333,
+      "lat": 28.033331
+    }
+  },
+  {
+    "id": 1278201,
+    "name": "Atmakur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.583328,
+      "lat": 15.88333
+    }
+  },
+  {
+    "id": 1278204,
+    "name": "Adirampattinam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.400002,
+      "lat": 10.35
+    }
+  },
+  {
+    "id": 1278208,
+    "name": "Athni",
+    "country": "IN",
+    "coord": {
+      "lon": 75.066673,
+      "lat": 16.73333
+    }
+  },
+  {
+    "id": 1278216,
+    "name": "Athagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 85.616669,
+      "lat": 20.533331
+    }
+  },
+  {
+    "id": 1278228,
+    "name": "Atarra",
+    "country": "IN",
+    "coord": {
+      "lon": 80.566673,
+      "lat": 25.283331
+    }
+  },
+  {
+    "id": 1278278,
+    "name": "Asind",
+    "country": "IN",
+    "coord": {
+      "lon": 74.333328,
+      "lat": 25.73333
+    }
+  },
+  {
+    "id": 1278279,
+    "name": "Asika",
+    "country": "IN",
+    "coord": {
+      "lon": 84.650002,
+      "lat": 19.6
+    }
+  },
+  {
+    "id": 1278282,
+    "name": "Asifabad",
+    "country": "IN",
+    "coord": {
+      "lon": 79.283333,
+      "lat": 19.366671
+    }
+  },
+  {
+    "id": 1278296,
+    "name": "Ashta",
+    "country": "IN",
+    "coord": {
+      "lon": 74.400002,
+      "lat": 16.950001
+    }
+  },
+  {
+    "id": 1278297,
+    "name": "Ashoknagar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 24.566669
+    }
+  },
+  {
+    "id": 1278314,
+    "name": "Asansol",
+    "country": "IN",
+    "coord": {
+      "lon": 86.98333,
+      "lat": 23.683331
+    }
+  },
+  {
+    "id": 1278335,
+    "name": "Arvi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 20.98333
+    }
   }
 ]
