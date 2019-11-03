@@ -15136,5 +15136,1022 @@
       "lon": 77.724167,
       "lat": 13.43417
     }
+  },
+  {
+    "id": 1274265,
+    "name": "Chicholi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.683327,
+      "lat": 21.466669
+    }
+  },
+  {
+    "id": 1274284,
+    "name": "Chhoti Sadri",
+    "country": "IN",
+    "coord": {
+      "lon": 74.699997,
+      "lat": 24.383329
+    }
+  },
+  {
+    "id": 1274285,
+    "name": "Chhota Udepur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.01667,
+      "lat": 22.316669
+    }
+  },
+  {
+    "id": 1274304,
+    "name": "Chhindwara",
+    "country": "IN",
+    "coord": {
+      "lon": 78.933327,
+      "lat": 22.066669
+    }
+  },
+  {
+    "id": 1274315,
+    "name": "Chhibramau",
+    "country": "IN",
+    "coord": {
+      "lon": 79.497902,
+      "lat": 27.1483
+    }
+  },
+  {
+    "id": 1274342,
+    "name": "Chhatapur",
+    "country": "IN",
+    "coord": {
+      "lon": 87.01667,
+      "lat": 26.216669
+    }
+  },
+  {
+    "id": 1274346,
+    "name": "Chharra",
+    "country": "IN",
+    "coord": {
+      "lon": 78.416672,
+      "lat": 27.933331
+    }
+  },
+  {
+    "id": 1274351,
+    "name": "Chhaprauli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.183327,
+      "lat": 29.216669
+    }
+  },
+  {
+    "id": 1274359,
+    "name": "Chhapar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.400002,
+      "lat": 27.816669
+    }
+  },
+  {
+    "id": 1274381,
+    "name": "Chhabra",
+    "country": "IN",
+    "coord": {
+      "lon": 76.833328,
+      "lat": 24.66667
+    }
+  },
+  {
+    "id": 1274389,
+    "name": "Chettipalaiyam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.066673,
+      "lat": 10.9
+    }
+  },
+  {
+    "id": 1465802,
+    "name": "Anna Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 80.21917,
+      "lat": 13.08278
+    }
+  },
+  {
+    "id": 1274394,
+    "name": "Chetput",
+    "country": "IN",
+    "coord": {
+      "lon": 80.240829,
+      "lat": 13.07
+    }
+  },
+  {
+    "id": 1274422,
+    "name": "Chennimalai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.616669,
+      "lat": 11.16667
+    }
+  },
+  {
+    "id": 1274428,
+    "name": "Chengannur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.633331,
+      "lat": 9.33333
+    }
+  },
+  {
+    "id": 1274429,
+    "name": "Chengam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.800003,
+      "lat": 12.3
+    }
+  },
+  {
+    "id": 1274430,
+    "name": "Chengalpattu",
+    "country": "IN",
+    "coord": {
+      "lon": 79.98333,
+      "lat": 12.7
+    }
+  },
+  {
+    "id": 1274468,
+    "name": "Chavakkad",
+    "country": "IN",
+    "coord": {
+      "lon": 76.050003,
+      "lat": 10.53333
+    }
+  },
+  {
+    "id": 1274532,
+    "name": "Chaksu",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 26.6
+    }
+  },
+  {
+    "id": 1274536,
+    "name": "Chatra",
+    "country": "IN",
+    "coord": {
+      "lon": 84.866669,
+      "lat": 24.216669
+    }
+  },
+  {
+    "id": 1274553,
+    "name": "Chas",
+    "country": "IN",
+    "coord": {
+      "lon": 86.166672,
+      "lat": 23.633329
+    }
+  },
+  {
+    "id": 1274560,
+    "name": "Charthawal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.583328,
+      "lat": 29.549999
+    }
+  },
+  {
+    "id": 1274571,
+    "name": "Charkhi Dadri",
+    "country": "IN",
+    "coord": {
+      "lon": 76.26667,
+      "lat": 28.6
+    }
+  },
+  {
+    "id": 1274574,
+    "name": "Charkhari",
+    "country": "IN",
+    "coord": {
+      "lon": 79.75,
+      "lat": 25.4
+    }
+  },
+  {
+    "id": 1274618,
+    "name": "Chapar",
+    "country": "IN",
+    "coord": {
+      "lon": 90.466667,
+      "lat": 26.26667
+    }
+  },
+  {
+    "id": 1274640,
+    "name": "Channarayapatna",
+    "country": "IN",
+    "coord": {
+      "lon": 76.39167,
+      "lat": 12.90444
+    }
+  },
+  {
+    "id": 1274641,
+    "name": "Channapatna",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 12.65
+    }
+  },
+  {
+    "id": 1274642,
+    "name": "Channagiri",
+    "country": "IN",
+    "coord": {
+      "lon": 75.933327,
+      "lat": 14.03333
+    }
+  },
+  {
+    "id": 1274664,
+    "name": "Changanacheri",
+    "country": "IN",
+    "coord": {
+      "lon": 76.550003,
+      "lat": 9.46667
+    }
+  },
+  {
+    "id": 1274673,
+    "name": "Chandvad",
+    "country": "IN",
+    "coord": {
+      "lon": 74.25,
+      "lat": 20.33333
+    }
+  },
+  {
+    "id": 1274674,
+    "name": "Chandur Bazar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.74556,
+      "lat": 21.241671
+    }
+  },
+  {
+    "id": 1274675,
+    "name": "Chandur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.966667,
+      "lat": 20.816669
+    }
+  },
+  {
+    "id": 1274676,
+    "name": "Chandur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.183327,
+      "lat": 19.73333
+    }
+  },
+  {
+    "id": 1274693,
+    "name": "Chandrapur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.300003,
+      "lat": 19.950001
+    }
+  },
+  {
+    "id": 1274699,
+    "name": "Chandrakona",
+    "country": "IN",
+    "coord": {
+      "lon": 87.51667,
+      "lat": 22.73333
+    }
+  },
+  {
+    "id": 1274755,
+    "name": "Chanderi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.133331,
+      "lat": 24.716669
+    }
+  },
+  {
+    "id": 1274767,
+    "name": "Chandausi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.76667,
+      "lat": 28.450001
+    }
+  },
+  {
+    "id": 1274770,
+    "name": "Chandauli",
+    "country": "IN",
+    "coord": {
+      "lon": 83.26667,
+      "lat": 25.26667
+    }
+  },
+  {
+    "id": 1274784,
+    "name": "Chandannagar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.37722,
+      "lat": 22.869169
+    }
+  },
+  {
+    "id": 1274807,
+    "name": "Chanasma",
+    "country": "IN",
+    "coord": {
+      "lon": 72.116669,
+      "lat": 23.716669
+    }
+  },
+  {
+    "id": 1274821,
+    "name": "Chamrajnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.949997,
+      "lat": 11.91667
+    }
+  },
+  {
+    "id": 1274837,
+    "name": "Champa",
+    "country": "IN",
+    "coord": {
+      "lon": 82.650002,
+      "lat": 22.049999
+    }
+  },
+  {
+    "id": 1274861,
+    "name": "Challapalle",
+    "country": "IN",
+    "coord": {
+      "lon": 80.933327,
+      "lat": 16.116671
+    }
+  },
+  {
+    "id": 1274862,
+    "name": "Challakere",
+    "country": "IN",
+    "coord": {
+      "lon": 76.650002,
+      "lat": 14.31667
+    }
+  },
+  {
+    "id": 1274868,
+    "name": "Chalisgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.01667,
+      "lat": 20.466669
+    }
+  },
+  {
+    "id": 1274874,
+    "name": "Chalala",
+    "country": "IN",
+    "coord": {
+      "lon": 71.166672,
+      "lat": 21.41667
+    }
+  },
+  {
+    "id": 1274890,
+    "name": "Chakradharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.633331,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1274896,
+    "name": "Chaklasi",
+    "country": "IN",
+    "coord": {
+      "lon": 72.933327,
+      "lat": 22.65
+    }
+  },
+  {
+    "id": 1274899,
+    "name": "Chakia",
+    "country": "IN",
+    "coord": {
+      "lon": 85.050003,
+      "lat": 26.41667
+    }
+  },
+  {
+    "id": 1274914,
+    "name": "Chakan",
+    "country": "IN",
+    "coord": {
+      "lon": 73.849998,
+      "lat": 18.75
+    }
+  },
+  {
+    "id": 1274928,
+    "name": "Chaibasa",
+    "country": "IN",
+    "coord": {
+      "lon": 85.816673,
+      "lat": 22.566669
+    }
+  },
+  {
+    "id": 1275004,
+    "name": "Kolkata",
+    "country": "IN",
+    "coord": {
+      "lon": 88.36972,
+      "lat": 22.569719
+    }
+  },
+  {
+    "id": 1275097,
+    "name": "Bundu",
+    "country": "IN",
+    "coord": {
+      "lon": 85.583328,
+      "lat": 23.183331
+    }
+  },
+  {
+    "id": 1275103,
+    "name": "Bundi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.64167,
+      "lat": 25.441669
+    }
+  },
+  {
+    "id": 1275117,
+    "name": "Buldana",
+    "country": "IN",
+    "coord": {
+      "lon": 76.183327,
+      "lat": 20.533331
+    }
+  },
+  {
+    "id": 1275147,
+    "name": "Budhlada",
+    "country": "IN",
+    "coord": {
+      "lon": 75.566673,
+      "lat": 29.933331
+    }
+  },
+  {
+    "id": 1275152,
+    "name": "Budhana",
+    "country": "IN",
+    "coord": {
+      "lon": 77.466667,
+      "lat": 29.283331
+    }
+  },
+  {
+    "id": 1275163,
+    "name": "Budaun",
+    "country": "IN",
+    "coord": {
+      "lon": 79.116669,
+      "lat": 28.049999
+    }
+  },
+  {
+    "id": 1275194,
+    "name": "Brajarajnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 83.916672,
+      "lat": 21.816669
+    }
+  },
+  {
+    "id": 1275218,
+    "name": "Botad",
+    "country": "IN",
+    "coord": {
+      "lon": 71.666672,
+      "lat": 22.16667
+    }
+  },
+  {
+    "id": 1275230,
+    "name": "Borsad",
+    "country": "IN",
+    "coord": {
+      "lon": 72.900002,
+      "lat": 22.41667
+    }
+  },
+  {
+    "id": 1275248,
+    "name": "Borivli",
+    "country": "IN",
+    "coord": {
+      "lon": 72.849998,
+      "lat": 19.23333
+    }
+  },
+  {
+    "id": 1275321,
+    "name": "Bongaigaon",
+    "country": "IN",
+    "coord": {
+      "lon": 90.556763,
+      "lat": 26.47822
+    }
+  },
+  {
+    "id": 1275346,
+    "name": "Bolpur",
+    "country": "IN",
+    "coord": {
+      "lon": 87.716667,
+      "lat": 23.66667
+    }
+  },
+  {
+    "id": 1275362,
+    "name": "Bokaro",
+    "country": "IN",
+    "coord": {
+      "lon": 85.966667,
+      "lat": 23.783331
+    }
+  },
+  {
+    "id": 1275364,
+    "name": "Bokajan",
+    "country": "IN",
+    "coord": {
+      "lon": 93.783333,
+      "lat": 26.01667
+    }
+  },
+  {
+    "id": 1275368,
+    "name": "Boisar",
+    "country": "IN",
+    "coord": {
+      "lon": 72.75,
+      "lat": 19.799999
+    }
+  },
+  {
+    "id": 1275388,
+    "name": "Bodinayakkanur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.349998,
+      "lat": 10.01667
+    }
+  },
+  {
+    "id": 1275391,
+    "name": "Bodhan",
+    "country": "IN",
+    "coord": {
+      "lon": 77.900002,
+      "lat": 18.66667
+    }
+  },
+  {
+    "id": 1275406,
+    "name": "Bobbili",
+    "country": "IN",
+    "coord": {
+      "lon": 83.366669,
+      "lat": 18.566669
+    }
+  },
+  {
+    "id": 1275435,
+    "name": "Biswan",
+    "country": "IN",
+    "coord": {
+      "lon": 81,
+      "lat": 27.5
+    }
+  },
+  {
+    "id": 1275441,
+    "name": "Bissau",
+    "country": "IN",
+    "coord": {
+      "lon": 75.083328,
+      "lat": 28.25
+    }
+  },
+  {
+    "id": 1275462,
+    "name": "Bishnupur",
+    "country": "IN",
+    "coord": {
+      "lon": 87.316673,
+      "lat": 23.08333
+    }
+  },
+  {
+    "id": 1275476,
+    "name": "Bisauli",
+    "country": "IN",
+    "coord": {
+      "lon": 78.933327,
+      "lat": 28.316669
+    }
+  },
+  {
+    "id": 1275481,
+    "name": "Bisalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.800003,
+      "lat": 28.299999
+    }
+  },
+  {
+    "id": 1275488,
+    "name": "Birur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 13.61667
+    }
+  },
+  {
+    "id": 1275499,
+    "name": "Birpur",
+    "country": "IN",
+    "coord": {
+      "lon": 87.01667,
+      "lat": 26.51667
+    }
+  },
+  {
+    "id": 1275506,
+    "name": "Birmitrapur",
+    "country": "IN",
+    "coord": {
+      "lon": 84.76667,
+      "lat": 22.4
+    }
+  },
+  {
+    "id": 1275558,
+    "name": "Binika",
+    "country": "IN",
+    "coord": {
+      "lon": 83.800003,
+      "lat": 21.033331
+    }
+  },
+  {
+    "id": 1275572,
+    "name": "Bindki",
+    "country": "IN",
+    "coord": {
+      "lon": 80.599998,
+      "lat": 26.033331
+    }
+  },
+  {
+    "id": 1275582,
+    "name": "Etawa",
+    "country": "IN",
+    "coord": {
+      "lon": 78.203102,
+      "lat": 24.185499
+    }
+  },
+  {
+    "id": 1275589,
+    "name": "Belthara",
+    "country": "IN",
+    "coord": {
+      "lon": 83.868889,
+      "lat": 26.12306
+    }
+  },
+  {
+    "id": 1275590,
+    "name": "Bilsi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.916672,
+      "lat": 28.133329
+    }
+  },
+  {
+    "id": 1275593,
+    "name": "Bilsanda",
+    "country": "IN",
+    "coord": {
+      "lon": 79.949997,
+      "lat": 28.25
+    }
+  },
+  {
+    "id": 1275614,
+    "name": "Bilhaur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.083328,
+      "lat": 26.85
+    }
+  },
+  {
+    "id": 1275618,
+    "name": "Bilgram",
+    "country": "IN",
+    "coord": {
+      "lon": 80.033333,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1275619,
+    "name": "Bilgi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.616669,
+      "lat": 16.35
+    }
+  },
+  {
+    "id": 1275634,
+    "name": "Bilaspur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.26667,
+      "lat": 28.883329
+    }
+  },
+  {
+    "id": 1275641,
+    "name": "Bilasipara",
+    "country": "IN",
+    "coord": {
+      "lon": 90.234749,
+      "lat": 26.231951
+    }
+  },
+  {
+    "id": 1275646,
+    "name": "Bilari",
+    "country": "IN",
+    "coord": {
+      "lon": 78.800003,
+      "lat": 28.633329
+    }
+  },
+  {
+    "id": 1275647,
+    "name": "Bilara",
+    "country": "IN",
+    "coord": {
+      "lon": 73.705559,
+      "lat": 26.179171
+    }
+  },
+  {
+    "id": 1275655,
+    "name": "Bikramganj",
+    "country": "IN",
+    "coord": {
+      "lon": 84.25,
+      "lat": 25.200001
+    }
+  },
+  {
+    "id": 1275679,
+    "name": "Bijnor",
+    "country": "IN",
+    "coord": {
+      "lon": 78.133331,
+      "lat": 29.366671
+    }
+  },
+  {
+    "id": 1275692,
+    "name": "Bijbiara",
+    "country": "IN",
+    "coord": {
+      "lon": 75.099998,
+      "lat": 33.799999
+    }
+  },
+  {
+    "id": 1275694,
+    "name": "Bijawar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.5,
+      "lat": 24.633329
+    }
+  },
+  {
+    "id": 1275719,
+    "name": "Bihariganj",
+    "country": "IN",
+    "coord": {
+      "lon": 86.98333,
+      "lat": 25.73333
+    }
+  },
+  {
+    "id": 1275732,
+    "name": "Bidhuna",
+    "country": "IN",
+    "coord": {
+      "lon": 79.508797,
+      "lat": 26.8022
+    }
+  },
+  {
+    "id": 1275762,
+    "name": "Biaora",
+    "country": "IN",
+    "coord": {
+      "lon": 76.916672,
+      "lat": 23.866671
+    }
+  },
+  {
+    "id": 1275768,
+    "name": "Bhuvanagiri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.633331,
+      "lat": 11.46667
+    }
+  },
+  {
+    "id": 1275778,
+    "name": "Bhusawal",
+    "country": "IN",
+    "coord": {
+      "lon": 75.76667,
+      "lat": 21.049999
+    }
+  },
+  {
+    "id": 1275804,
+    "name": "Bhum",
+    "country": "IN",
+    "coord": {
+      "lon": 75.666672,
+      "lat": 18.466669
+    }
+  },
+  {
+    "id": 1275814,
+    "name": "Bhudgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 74.599998,
+      "lat": 16.9
+    }
+  },
+  {
+    "id": 1275818,
+    "name": "Bhuban",
+    "country": "IN",
+    "coord": {
+      "lon": 85.833328,
+      "lat": 20.883329
+    }
+  },
+  {
+    "id": 1275836,
+    "name": "Bhor",
+    "country": "IN",
+    "coord": {
+      "lon": 73.849998,
+      "lat": 18.16667
+    }
+  },
+  {
+    "id": 1275848,
+    "name": "Bhongir",
+    "country": "IN",
+    "coord": {
+      "lon": 78.888893,
+      "lat": 17.51083
+    }
+  },
+  {
+    "id": 1275849,
+    "name": "Bhongaon",
+    "country": "IN",
+    "coord": {
+      "lon": 79.183327,
+      "lat": 27.25
+    }
+  },
+  {
+    "id": 1275882,
+    "name": "Bhogpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.6325,
+      "lat": 31.549999
+    }
+  },
+  {
+    "id": 1275901,
+    "name": "Bhiwandi",
+    "country": "IN",
+    "coord": {
+      "lon": 73.066673,
+      "lat": 19.299999
+    }
+  },
+  {
+    "id": 1275905,
+    "name": "Bhitarwar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.116669,
+      "lat": 25.799999
+    }
+  },
+  {
+    "id": 1275920,
+    "name": "Bhinmal",
+    "country": "IN",
+    "coord": {
+      "lon": 72.25,
+      "lat": 25
+    }
+  },
+  {
+    "id": 1275921,
+    "name": "Bhinga",
+    "country": "IN",
+    "coord": {
+      "lon": 81.933327,
+      "lat": 27.716669
+    }
+  },
+  {
+    "id": 1275925,
+    "name": "Bhindar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.183327,
+      "lat": 24.5
+    }
+  },
+  {
+    "id": 1275926,
+    "name": "Bhind",
+    "country": "IN",
+    "coord": {
+      "lon": 78.78833,
+      "lat": 26.564171
+    }
   }
 ]
