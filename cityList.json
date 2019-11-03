@@ -17782,5 +17782,608 @@
       "lon": 78.23333,
       "lat": 20.98333
     }
+  },
+  {
+    "id": 1278340,
+    "name": "Aruppukkottai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.099998,
+      "lat": 9.51667
+    }
+  },
+  {
+    "id": 1278345,
+    "name": "Arukutti",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 9.86667
+    }
+  },
+  {
+    "id": 1278354,
+    "name": "Arsikere",
+    "country": "IN",
+    "coord": {
+      "lon": 76.256111,
+      "lat": 13.31389
+    }
+  },
+  {
+    "id": 1278365,
+    "name": "Aron",
+    "country": "IN",
+    "coord": {
+      "lon": 77.416672,
+      "lat": 24.383329
+    }
+  },
+  {
+    "id": 1278393,
+    "name": "Arkalgud",
+    "country": "IN",
+    "coord": {
+      "lon": 76.056938,
+      "lat": 12.765
+    }
+  },
+  {
+    "id": 1278432,
+    "name": "Arcot",
+    "country": "IN",
+    "coord": {
+      "lon": 79.333328,
+      "lat": 12.9
+    }
+  },
+  {
+    "id": 1278446,
+    "name": "Araria",
+    "country": "IN",
+    "coord": {
+      "lon": 87.51667,
+      "lat": 26.15
+    }
+  },
+  {
+    "id": 1278448,
+    "name": "Arantangi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.98333,
+      "lat": 10.16667
+    }
+  },
+  {
+    "id": 1278454,
+    "name": "Arani",
+    "country": "IN",
+    "coord": {
+      "lon": 79.283333,
+      "lat": 12.66667
+    }
+  },
+  {
+    "id": 1278455,
+    "name": "Arangaon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.183327,
+      "lat": 18.66667
+    }
+  },
+  {
+    "id": 1278458,
+    "name": "Arang",
+    "country": "IN",
+    "coord": {
+      "lon": 81.966667,
+      "lat": 21.200001
+    }
+  },
+  {
+    "id": 1278466,
+    "name": "Arambagh",
+    "country": "IN",
+    "coord": {
+      "lon": 87.783333,
+      "lat": 22.883329
+    }
+  },
+  {
+    "id": 1278471,
+    "name": "Arakkonam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.666672,
+      "lat": 13.1
+    }
+  },
+  {
+    "id": 1278483,
+    "name": "Ara",
+    "country": "IN",
+    "coord": {
+      "lon": 84.666672,
+      "lat": 25.566669
+    }
+  },
+  {
+    "id": 1278498,
+    "name": "Aonla",
+    "country": "IN",
+    "coord": {
+      "lon": 79.150002,
+      "lat": 28.283331
+    }
+  },
+  {
+    "id": 1278507,
+    "name": "Anupshahr",
+    "country": "IN",
+    "coord": {
+      "lon": 78.26667,
+      "lat": 28.366671
+    }
+  },
+  {
+    "id": 1278508,
+    "name": "Anuppur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.683327,
+      "lat": 23.1
+    }
+  },
+  {
+    "id": 1278510,
+    "name": "Anupgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 73.208611,
+      "lat": 29.191111
+    }
+  },
+  {
+    "id": 1278532,
+    "name": "Anta",
+    "country": "IN",
+    "coord": {
+      "lon": 76.300003,
+      "lat": 25.15
+    }
+  },
+  {
+    "id": 1278534,
+    "name": "Anshing",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316673,
+      "lat": 20.033331
+    }
+  },
+  {
+    "id": 1278539,
+    "name": "Annur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.133331,
+      "lat": 11.23333
+    }
+  },
+  {
+    "id": 1278540,
+    "name": "Annigeri",
+    "country": "IN",
+    "coord": {
+      "lon": 75.433327,
+      "lat": 15.43333
+    }
+  },
+  {
+    "id": 1278553,
+    "name": "Ankleshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 73,
+      "lat": 21.6
+    }
+  },
+  {
+    "id": 1278573,
+    "name": "Anjar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.01667,
+      "lat": 23.133329
+    }
+  },
+  {
+    "id": 1278580,
+    "name": "Anjangaon",
+    "country": "IN",
+    "coord": {
+      "lon": 77.309441,
+      "lat": 21.163059
+    }
+  },
+  {
+    "id": 1278588,
+    "name": "Anjad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.050003,
+      "lat": 22.033331
+    }
+  },
+  {
+    "id": 1278602,
+    "name": "Angamali",
+    "country": "IN",
+    "coord": {
+      "lon": 76.400002,
+      "lat": 10.2
+    }
+  },
+  {
+    "id": 1278609,
+    "name": "Anekal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.699997,
+      "lat": 12.7
+    }
+  },
+  {
+    "id": 1278621,
+    "name": "Andol",
+    "country": "IN",
+    "coord": {
+      "lon": 78.077217,
+      "lat": 17.813061
+    }
+  },
+  {
+    "id": 1278622,
+    "name": "Anthiyur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.599998,
+      "lat": 11.58333
+    }
+  },
+  {
+    "id": 1278625,
+    "name": "Andippatti",
+    "country": "IN",
+    "coord": {
+      "lon": 77.633331,
+      "lat": 9.98333
+    }
+  },
+  {
+    "id": 1278667,
+    "name": "Anantnag",
+    "country": "IN",
+    "coord": {
+      "lon": 75.150002,
+      "lat": 33.73333
+    }
+  },
+  {
+    "id": 1278676,
+    "name": "Anandpur Sahib",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 31.25
+    }
+  },
+  {
+    "id": 1278685,
+    "name": "Anand",
+    "country": "IN",
+    "coord": {
+      "lon": 72.933327,
+      "lat": 22.566669
+    }
+  },
+  {
+    "id": 1278688,
+    "name": "Anakapalle",
+    "country": "IN",
+    "coord": {
+      "lon": 83.01667,
+      "lat": 17.683331
+    }
+  },
+  {
+    "id": 1278692,
+    "name": "Anaimalai",
+    "country": "IN",
+    "coord": {
+      "lon": 76.933327,
+      "lat": 10.58333
+    }
+  },
+  {
+    "id": 1278698,
+    "name": "Amudalavalasa",
+    "country": "IN",
+    "coord": {
+      "lon": 83.900002,
+      "lat": 18.41667
+    }
+  },
+  {
+    "id": 1278703,
+    "name": "Amta",
+    "country": "IN",
+    "coord": {
+      "lon": 88.008331,
+      "lat": 22.58
+    }
+  },
+  {
+    "id": 1278707,
+    "name": "Amroli",
+    "country": "IN",
+    "coord": {
+      "lon": 72.849998,
+      "lat": 21.299999
+    }
+  },
+  {
+    "id": 1278708,
+    "name": "Amroha",
+    "country": "IN",
+    "coord": {
+      "lon": 78.466667,
+      "lat": 28.91667
+    }
+  },
+  {
+    "id": 1278715,
+    "name": "Amreli",
+    "country": "IN",
+    "coord": {
+      "lon": 71.23333,
+      "lat": 21.616671
+    }
+  },
+  {
+    "id": 8131497,
+    "name": "Amravati Division",
+    "country": "IN",
+    "coord": {
+      "lon": 77.756943,
+      "lat": 20.93483
+    }
+  },
+  {
+    "id": 1278718,
+    "name": "Amravati",
+    "country": "IN",
+    "coord": {
+      "lon": 77.75,
+      "lat": 20.933331
+    }
+  },
+  {
+    "id": 1278768,
+    "name": "Amli",
+    "country": "IN",
+    "coord": {
+      "lon": 73.01667,
+      "lat": 20.283331
+    }
+  },
+  {
+    "id": 1278774,
+    "name": "Amlagora",
+    "country": "IN",
+    "coord": {
+      "lon": 87.333328,
+      "lat": 22.83333
+    }
+  },
+  {
+    "id": 1278775,
+    "name": "Amla",
+    "country": "IN",
+    "coord": {
+      "lon": 78.116669,
+      "lat": 21.933331
+    }
+  },
+  {
+    "id": 1278808,
+    "name": "Amet",
+    "country": "IN",
+    "coord": {
+      "lon": 73.933327,
+      "lat": 25.299999
+    }
+  },
+  {
+    "id": 1278815,
+    "name": "Ambur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.699997,
+      "lat": 12.78333
+    }
+  },
+  {
+    "id": 1278827,
+    "name": "Ambikapur",
+    "country": "IN",
+    "coord": {
+      "lon": 83.199997,
+      "lat": 23.116671
+    }
+  },
+  {
+    "id": 1278840,
+    "name": "Ambattur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.162216,
+      "lat": 13.09833
+    }
+  },
+  {
+    "id": 1278841,
+    "name": "Ambasamudram",
+    "country": "IN",
+    "coord": {
+      "lon": 77.466667,
+      "lat": 8.7
+    }
+  },
+  {
+    "id": 1278862,
+    "name": "Ambajogai",
+    "country": "IN",
+    "coord": {
+      "lon": 76.383331,
+      "lat": 18.73333
+    }
+  },
+  {
+    "id": 1278868,
+    "name": "Ambah",
+    "country": "IN",
+    "coord": {
+      "lon": 78.226112,
+      "lat": 26.7075
+    }
+  },
+  {
+    "id": 1278871,
+    "name": "Ambad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.800003,
+      "lat": 19.616671
+    }
+  },
+  {
+    "id": 1278895,
+    "name": "Amarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.900002,
+      "lat": 25.033331
+    }
+  },
+  {
+    "id": 1278899,
+    "name": "Amarpatan",
+    "country": "IN",
+    "coord": {
+      "lon": 80.98333,
+      "lat": 24.316669
+    }
+  },
+  {
+    "id": 1278903,
+    "name": "Amarnath",
+    "country": "IN",
+    "coord": {
+      "lon": 73.166672,
+      "lat": 19.200001
+    }
+  },
+  {
+    "id": 1278931,
+    "name": "Amalner",
+    "country": "IN",
+    "coord": {
+      "lon": 75.066673,
+      "lat": 21.049999
+    }
+  },
+  {
+    "id": 1278935,
+    "name": "Amalapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 82.01667,
+      "lat": 16.58333
+    }
+  },
+  {
+    "id": 1278941,
+    "name": "Aluva",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 10.11667
+    }
+  },
+  {
+    "id": 1278964,
+    "name": "Alot",
+    "country": "IN",
+    "coord": {
+      "lon": 75.550003,
+      "lat": 23.76667
+    }
+  },
+  {
+    "id": 1278969,
+    "name": "Along",
+    "country": "IN",
+    "coord": {
+      "lon": 94.76667,
+      "lat": 28.16667
+    }
+  },
+  {
+    "id": 1278973,
+    "name": "Alnavar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.73333,
+      "lat": 15.43333
+    }
+  },
+  {
+    "id": 1279005,
+    "name": "Alipur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.150002,
+      "lat": 28.799999
+    }
+  },
+  {
+    "id": 1279023,
+    "name": "Aliganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.183327,
+      "lat": 27.5
+    }
+  },
+  {
+    "id": 1279027,
+    "name": "Alibag",
+    "country": "IN",
+    "coord": {
+      "lon": 72.879173,
+      "lat": 18.641109
+    }
+  },
+  {
+    "id": 1279058,
+    "name": "Alangulam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.5,
+      "lat": 8.86667
+    }
   }
 ]
