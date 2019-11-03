@@ -19105,5 +19105,185 @@
       "lon": 78.835403,
       "lat": 14.47516
     }
+  },
+  {
+    "id": 7302832,
+    "name": "Kyathampalle",
+    "country": "IN",
+    "coord": {
+      "lon": 78.5289,
+      "lat": 19.66781
+    }
+  },
+  {
+    "id": 7302833,
+    "name": "Gajuwaka",
+    "country": "IN",
+    "coord": {
+      "lon": 83.216667,
+      "lat": 17.700001
+    }
+  },
+  {
+    "id": 7302836,
+    "name": "Manuguru",
+    "country": "IN",
+    "coord": {
+      "lon": 80.7547,
+      "lat": 17.98102
+    }
+  },
+  {
+    "id": 7302838,
+    "name": "Kalyandurg",
+    "country": "IN",
+    "coord": {
+      "lon": 77.105522,
+      "lat": 14.54519
+    }
+  },
+  {
+    "id": 7302844,
+    "name": "Ponnur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.549438,
+      "lat": 16.07114
+    }
+  },
+  {
+    "id": 7302845,
+    "name": "Quthbullapur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.458183,
+      "lat": 17.50107
+    }
+  },
+  {
+    "id": 7302846,
+    "name": "Ramanayyapeta",
+    "country": "IN",
+    "coord": {
+      "lon": 82.238503,
+      "lat": 16.94516
+    }
+  },
+  {
+    "id": 7302847,
+    "name": "Palwancha",
+    "country": "IN",
+    "coord": {
+      "lon": 80.676514,
+      "lat": 17.58152
+    }
+  },
+  {
+    "id": 7302849,
+    "name": "Barpeta Road",
+    "country": "IN",
+    "coord": {
+      "lon": 90.969368,
+      "lat": 26.50284
+    }
+  },
+  {
+    "id": 7302851,
+    "name": "Sathupalli",
+    "country": "IN",
+    "coord": {
+      "lon": 80.868988,
+      "lat": 17.24968
+    }
+  },
+  {
+    "id": 7302853,
+    "name": "Yanamalakuduru",
+    "country": "IN",
+    "coord": {
+      "lon": 80.667458,
+      "lat": 16.48531
+    }
+  },
+  {
+    "id": 7302854,
+    "name": "Marigaon",
+    "country": "IN",
+    "coord": {
+      "lon": 92.341461,
+      "lat": 26.37957
+    }
+  },
+  {
+    "id": 7302855,
+    "name": "Naharlagun",
+    "country": "IN",
+    "coord": {
+      "lon": 93.695183,
+      "lat": 27.10467
+    }
+  },
+  {
+    "id": 7302856,
+    "name": "Serilingampalle",
+    "country": "IN",
+    "coord": {
+      "lon": 78.301964,
+      "lat": 17.49313
+    }
+  },
+  {
+    "id": 7302857,
+    "name": "Silapathar",
+    "country": "IN",
+    "coord": {
+      "lon": 93.809509,
+      "lat": 26.205971
+    }
+  },
+  {
+    "id": 7302859,
+    "name": "Lumding Railway Colony",
+    "country": "IN",
+    "coord": {
+      "lon": 93.169983,
+      "lat": 25.749029
+    }
+  },
+  {
+    "id": 7302860,
+    "name": "Aistala",
+    "country": "IN",
+    "coord": {
+      "lon": 88.580002,
+      "lat": 23.18
+    }
+  },
+  {
+    "id": 7302861,
+    "name": "Ashoknagar Kalyangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 88.637009,
+      "lat": 22.864161
+    }
+  },
+  {
+    "id": 7302862,
+    "name": "Bahula",
+    "country": "IN",
+    "coord": {
+      "lon": 87.164749,
+      "lat": 23.65176
+    }
+  },
+  {
+    "id": 7645176,
+    "name": "Zira",
+    "country": "IN",
+    "coord": {
+      "lon": 74.991058,
+      "lat": 30.968531
+    }
   }
 ]
