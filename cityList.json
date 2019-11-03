@@ -11113,5 +11113,1022 @@
       "lon": 75.133331,
       "lat": 20.26667
     }
+  },
+  {
+    "id": 1268031,
+    "name": "Kanker",
+    "country": "IN",
+    "coord": {
+      "lon": 81.493057,
+      "lat": 20.27194
+    }
+  },
+  {
+    "id": 1268032,
+    "name": "Kanke",
+    "country": "IN",
+    "coord": {
+      "lon": 85.316673,
+      "lat": 23.433331
+    }
+  },
+  {
+    "id": 1268035,
+    "name": "Kankauli",
+    "country": "IN",
+    "coord": {
+      "lon": 73.699997,
+      "lat": 16.26667
+    }
+  },
+  {
+    "id": 1268059,
+    "name": "Kanigiri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.51667,
+      "lat": 15.4
+    }
+  },
+  {
+    "id": 1268095,
+    "name": "Kangayam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.566673,
+      "lat": 11
+    }
+  },
+  {
+    "id": 1268111,
+    "name": "Kandukur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.916672,
+      "lat": 15.21667
+    }
+  },
+  {
+    "id": 1268124,
+    "name": "Kandla",
+    "country": "IN",
+    "coord": {
+      "lon": 70.216667,
+      "lat": 23.033331
+    }
+  },
+  {
+    "id": 1268135,
+    "name": "Kandi",
+    "country": "IN",
+    "coord": {
+      "lon": 88.033333,
+      "lat": 23.950001
+    }
+  },
+  {
+    "id": 1268138,
+    "name": "Kandhla",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 29.316669
+    }
+  },
+  {
+    "id": 1268205,
+    "name": "Kamthi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.199997,
+      "lat": 21.23333
+    }
+  },
+  {
+    "id": 1268214,
+    "name": "Kampli",
+    "country": "IN",
+    "coord": {
+      "lon": 76.616669,
+      "lat": 15.4
+    }
+  },
+  {
+    "id": 1268246,
+    "name": "Cumbum",
+    "country": "IN",
+    "coord": {
+      "lon": 77.300003,
+      "lat": 9.73333
+    }
+  },
+  {
+    "id": 1268257,
+    "name": "Kamarhati",
+    "country": "IN",
+    "coord": {
+      "lon": 88.374718,
+      "lat": 22.67111
+    }
+  },
+  {
+    "id": 1268259,
+    "name": "Kamareddi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.349998,
+      "lat": 18.316669
+    }
+  },
+  {
+    "id": 1268266,
+    "name": "Kaman",
+    "country": "IN",
+    "coord": {
+      "lon": 77.26667,
+      "lat": 27.65
+    }
+  },
+  {
+    "id": 1268276,
+    "name": "Kamalganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.650002,
+      "lat": 27.26667
+    }
+  },
+  {
+    "id": 1268279,
+    "name": "Kamakhyanagar",
+    "country": "IN",
+    "coord": {
+      "lon": 85.550003,
+      "lat": 20.933331
+    }
+  },
+  {
+    "id": 1268293,
+    "name": "Kalyani",
+    "country": "IN",
+    "coord": {
+      "lon": 88.48333,
+      "lat": 22.98333
+    }
+  },
+  {
+    "id": 1268310,
+    "name": "Kalugumalai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 9.15
+    }
+  },
+  {
+    "id": 1268325,
+    "name": "Kalpi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.73333,
+      "lat": 26.116671
+    }
+  },
+  {
+    "id": 1268339,
+    "name": "Kalol",
+    "country": "IN",
+    "coord": {
+      "lon": 73.449997,
+      "lat": 22.6
+    }
+  },
+  {
+    "id": 1268341,
+    "name": "Kalna",
+    "country": "IN",
+    "coord": {
+      "lon": 88.366669,
+      "lat": 23.216669
+    }
+  },
+  {
+    "id": 1268344,
+    "name": "Kalmeshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.900002,
+      "lat": 21.23333
+    }
+  },
+  {
+    "id": 1268360,
+    "name": "Kallidaikurichchi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 8.66667
+    }
+  },
+  {
+    "id": 1268376,
+    "name": "Kallakkurichchi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.966667,
+      "lat": 11.73333
+    }
+  },
+  {
+    "id": 1268381,
+    "name": "Kalka",
+    "country": "IN",
+    "coord": {
+      "lon": 76.933327,
+      "lat": 30.83444
+    }
+  },
+  {
+    "id": 1268383,
+    "name": "Kaliyaganj",
+    "country": "IN",
+    "coord": {
+      "lon": 88.316673,
+      "lat": 25.633329
+    }
+  },
+  {
+    "id": 1268434,
+    "name": "Kalghatgi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.966667,
+      "lat": 15.18333
+    }
+  },
+  {
+    "id": 1268450,
+    "name": "Kalavad",
+    "country": "IN",
+    "coord": {
+      "lon": 70.383331,
+      "lat": 22.216669
+    }
+  },
+  {
+    "id": 1268469,
+    "name": "Kalanwali",
+    "country": "IN",
+    "coord": {
+      "lon": 74.949997,
+      "lat": 29.85
+    }
+  },
+  {
+    "id": 1268476,
+    "name": "Kalanaur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.400002,
+      "lat": 28.83333
+    }
+  },
+  {
+    "id": 1268480,
+    "name": "Kalamnuri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.333328,
+      "lat": 19.66667
+    }
+  },
+  {
+    "id": 1268484,
+    "name": "Kalamb",
+    "country": "IN",
+    "coord": {
+      "lon": 73.949997,
+      "lat": 19.049999
+    }
+  },
+  {
+    "id": 1268495,
+    "name": "Kalakkadu",
+    "country": "IN",
+    "coord": {
+      "lon": 77.566673,
+      "lat": 8.5
+    }
+  },
+  {
+    "id": 1268567,
+    "name": "Kakching",
+    "country": "IN",
+    "coord": {
+      "lon": 93.98333,
+      "lat": 24.48333
+    }
+  },
+  {
+    "id": 1268593,
+    "name": "Kaithal",
+    "country": "IN",
+    "coord": {
+      "lon": 76.383331,
+      "lat": 29.799999
+    }
+  },
+  {
+    "id": 1268601,
+    "name": "Kairana",
+    "country": "IN",
+    "coord": {
+      "lon": 77.199997,
+      "lat": 29.4
+    }
+  },
+  {
+    "id": 1268615,
+    "name": "Kaimori",
+    "country": "IN",
+    "coord": {
+      "lon": 79.75,
+      "lat": 23.383329
+    }
+  },
+  {
+    "id": 1268616,
+    "name": "Kaimganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.349998,
+      "lat": 27.566669
+    }
+  },
+  {
+    "id": 1268622,
+    "name": "Kailashahar",
+    "country": "IN",
+    "coord": {
+      "lon": 92.01667,
+      "lat": 24.33333
+    }
+  },
+  {
+    "id": 1268624,
+    "name": "Kailaras",
+    "country": "IN",
+    "coord": {
+      "lon": 77.616669,
+      "lat": 26.316669
+    }
+  },
+  {
+    "id": 1268627,
+    "name": "Kaikalur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.199997,
+      "lat": 16.566669
+    }
+  },
+  {
+    "id": 1268651,
+    "name": "Kagal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.316673,
+      "lat": 16.58333
+    }
+  },
+  {
+    "id": 1268662,
+    "name": "Kadur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.013062,
+      "lat": 13.55333
+    }
+  },
+  {
+    "id": 1268667,
+    "name": "Kadod",
+    "country": "IN",
+    "coord": {
+      "lon": 73.23333,
+      "lat": 21.216669
+    }
+  },
+  {
+    "id": 1268673,
+    "name": "Kadiri",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 14.11667
+    }
+  },
+  {
+    "id": 1268707,
+    "name": "Kadayanallur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.349998,
+      "lat": 9.08333
+    }
+  },
+  {
+    "id": 1268715,
+    "name": "Kanchrapara",
+    "country": "IN",
+    "coord": {
+      "lon": 88.431938,
+      "lat": 22.969999
+    }
+  },
+  {
+    "id": 1268722,
+    "name": "Kachhwa",
+    "country": "IN",
+    "coord": {
+      "lon": 82.716667,
+      "lat": 25.216669
+    }
+  },
+  {
+    "id": 1268739,
+    "name": "Kabrai",
+    "country": "IN",
+    "coord": {
+      "lon": 80.01667,
+      "lat": 25.41667
+    }
+  },
+  {
+    "id": 1268761,
+    "name": "Junnar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.883331,
+      "lat": 19.200001
+    }
+  },
+  {
+    "id": 1268772,
+    "name": "Junagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 82.933327,
+      "lat": 19.866671
+    }
+  },
+  {
+    "id": 1268773,
+    "name": "Junagadh",
+    "country": "IN",
+    "coord": {
+      "lon": 70.466667,
+      "lat": 21.51667
+    }
+  },
+  {
+    "id": 1268775,
+    "name": "Jumri Tilaiya",
+    "country": "IN",
+    "coord": {
+      "lon": 85.51667,
+      "lat": 24.433331
+    }
+  },
+  {
+    "id": 1271399,
+    "name": "Dhatkidih",
+    "country": "IN",
+    "coord": {
+      "lon": 86.183327,
+      "lat": 22.75
+    }
+  },
+  {
+    "id": 1268799,
+    "name": "Jugsalai",
+    "country": "IN",
+    "coord": {
+      "lon": 86.183327,
+      "lat": 22.76667
+    }
+  },
+  {
+    "id": 1268820,
+    "name": "Jorhat",
+    "country": "IN",
+    "coord": {
+      "lon": 94.216667,
+      "lat": 26.75
+    }
+  },
+  {
+    "id": 1268823,
+    "name": "Jora",
+    "country": "IN",
+    "coord": {
+      "lon": 77.816673,
+      "lat": 26.33333
+    }
+  },
+  {
+    "id": 1268834,
+    "name": "Jolarpettai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.583328,
+      "lat": 12.56667
+    }
+  },
+  {
+    "id": 1268855,
+    "name": "Jogbani",
+    "country": "IN",
+    "coord": {
+      "lon": 87.25,
+      "lat": 26.41667
+    }
+  },
+  {
+    "id": 1268863,
+    "name": "Jodiya Bandar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.283333,
+      "lat": 22.716669
+    }
+  },
+  {
+    "id": 1268866,
+    "name": "Jodhpur",
+    "country": "IN",
+    "coord": {
+      "lon": 70.033333,
+      "lat": 21.883329
+    }
+  },
+  {
+    "id": 1268896,
+    "name": "Jintur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.699997,
+      "lat": 19.616671
+    }
+  },
+  {
+    "id": 1268907,
+    "name": "Jind",
+    "country": "IN",
+    "coord": {
+      "lon": 76.316673,
+      "lat": 29.316669
+    }
+  },
+  {
+    "id": 1268929,
+    "name": "Jhusi",
+    "country": "IN",
+    "coord": {
+      "lon": 81.933327,
+      "lat": 25.433331
+    }
+  },
+  {
+    "id": 1268936,
+    "name": "Jhunjhunun",
+    "country": "IN",
+    "coord": {
+      "lon": 75.401398,
+      "lat": 28.130699
+    }
+  },
+  {
+    "id": 1268961,
+    "name": "Jhinjhana",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 29.51667
+    }
+  },
+  {
+    "id": 1268962,
+    "name": "Jhinjhak",
+    "country": "IN",
+    "coord": {
+      "lon": 79.73333,
+      "lat": 26.566669
+    }
+  },
+  {
+    "id": 1268988,
+    "name": "Jharia",
+    "country": "IN",
+    "coord": {
+      "lon": 86.400002,
+      "lat": 23.75
+    }
+  },
+  {
+    "id": 1268990,
+    "name": "Jhargram",
+    "country": "IN",
+    "coord": {
+      "lon": 86.98333,
+      "lat": 22.450001
+    }
+  },
+  {
+    "id": 1269012,
+    "name": "Jhanjharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.283333,
+      "lat": 26.26667
+    }
+  },
+  {
+    "id": 1269019,
+    "name": "Jhalu",
+    "country": "IN",
+    "coord": {
+      "lon": 78.25,
+      "lat": 29.35
+    }
+  },
+  {
+    "id": 1269020,
+    "name": "Jhalrapatan",
+    "country": "IN",
+    "coord": {
+      "lon": 76.166672,
+      "lat": 24.549999
+    }
+  },
+  {
+    "id": 1269026,
+    "name": "Jhalida",
+    "country": "IN",
+    "coord": {
+      "lon": 85.966667,
+      "lat": 23.366671
+    }
+  },
+  {
+    "id": 1269027,
+    "name": "Jhalawar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.150002,
+      "lat": 24.6
+    }
+  },
+  {
+    "id": 1269042,
+    "name": "Jhajjar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.656502,
+      "lat": 28.6063
+    }
+  },
+  {
+    "id": 1269046,
+    "name": "Jha Jha",
+    "country": "IN",
+    "coord": {
+      "lon": 86.366669,
+      "lat": 24.76667
+    }
+  },
+  {
+    "id": 1269053,
+    "name": "Jhabua",
+    "country": "IN",
+    "coord": {
+      "lon": 74.599998,
+      "lat": 22.76667
+    }
+  },
+  {
+    "id": 1269056,
+    "name": "Jewar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.550003,
+      "lat": 28.133329
+    }
+  },
+  {
+    "id": 1269057,
+    "name": "Jevargi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.76667,
+      "lat": 17.01667
+    }
+  },
+  {
+    "id": 1269065,
+    "name": "Jetpur",
+    "country": "IN",
+    "coord": {
+      "lon": 70.616669,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1269092,
+    "name": "Jaypur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.583328,
+      "lat": 18.85
+    }
+  },
+  {
+    "id": 1269093,
+    "name": "Jaynagar",
+    "country": "IN",
+    "coord": {
+      "lon": 86.150002,
+      "lat": 26.58333
+    }
+  },
+  {
+    "id": 1269094,
+    "name": "Jaynagar-Majilpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.417778,
+      "lat": 22.175831
+    }
+  },
+  {
+    "id": 1269102,
+    "name": "Jayamkondacholapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 79.366669,
+      "lat": 11.21667
+    }
+  },
+  {
+    "id": 1269126,
+    "name": "Jawad",
+    "country": "IN",
+    "coord": {
+      "lon": 74.849998,
+      "lat": 24.6
+    }
+  },
+  {
+    "id": 1269135,
+    "name": "Jaunpur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.683327,
+      "lat": 25.73333
+    }
+  },
+  {
+    "id": 1269153,
+    "name": "Jatara",
+    "country": "IN",
+    "coord": {
+      "lon": 79.050003,
+      "lat": 25.01667
+    }
+  },
+  {
+    "id": 1269154,
+    "name": "Jatani",
+    "country": "IN",
+    "coord": {
+      "lon": 85.699997,
+      "lat": 20.16667
+    }
+  },
+  {
+    "id": 1269158,
+    "name": "Jaswantnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.902779,
+      "lat": 26.878611
+    }
+  },
+  {
+    "id": 1269168,
+    "name": "Jaspur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 29.283331
+    }
+  },
+  {
+    "id": 1269175,
+    "name": "Jasidih",
+    "country": "IN",
+    "coord": {
+      "lon": 86.650002,
+      "lat": 24.51667
+    }
+  },
+  {
+    "id": 1269177,
+    "name": "Jashpurnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 84.150002,
+      "lat": 22.9
+    }
+  },
+  {
+    "id": 1269179,
+    "name": "Jasdan",
+    "country": "IN",
+    "coord": {
+      "lon": 71.199997,
+      "lat": 22.033331
+    }
+  },
+  {
+    "id": 1269183,
+    "name": "Jarwal",
+    "country": "IN",
+    "coord": {
+      "lon": 81.550003,
+      "lat": 27.16667
+    }
+  },
+  {
+    "id": 1269217,
+    "name": "Jaora",
+    "country": "IN",
+    "coord": {
+      "lon": 75.133331,
+      "lat": 23.633329
+    }
+  },
+  {
+    "id": 1269227,
+    "name": "Jansath",
+    "country": "IN",
+    "coord": {
+      "lon": 77.849998,
+      "lat": 29.33333
+    }
+  },
+  {
+    "id": 1269247,
+    "name": "Jangipur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.066673,
+      "lat": 24.466669
+    }
+  },
+  {
+    "id": 1269256,
+    "name": "Jangaon",
+    "country": "IN",
+    "coord": {
+      "lon": 79.183327,
+      "lat": 17.716669
+    }
+  },
+  {
+    "id": 1269269,
+    "name": "Jandiala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.616669,
+      "lat": 31.16667
+    }
+  },
+  {
+    "id": 1269280,
+    "name": "Jamuria",
+    "country": "IN",
+    "coord": {
+      "lon": 87.083328,
+      "lat": 23.700001
+    }
+  },
+  {
+    "id": 1269291,
+    "name": "Jamui",
+    "country": "IN",
+    "coord": {
+      "lon": 86.216667,
+      "lat": 24.91667
+    }
+  },
+  {
+    "id": 1269298,
+    "name": "Jamtara",
+    "country": "IN",
+    "coord": {
+      "lon": 86.800003,
+      "lat": 23.950001
+    }
+  },
+  {
+    "id": 1269323,
+    "name": "Jammalamadugu",
+    "country": "IN",
+    "coord": {
+      "lon": 78.400002,
+      "lat": 14.83333
+    }
+  },
+  {
+    "id": 1269328,
+    "name": "Jamkhandi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.300003,
+      "lat": 16.51667
+    }
+  },
+  {
+    "id": 1269350,
+    "name": "Jambusar",
+    "country": "IN",
+    "coord": {
+      "lon": 72.800003,
+      "lat": 22.049999
+    }
+  },
+  {
+    "id": 1269374,
+    "name": "Jamalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.5,
+      "lat": 25.299999
+    }
+  },
+  {
+    "id": 1269377,
+    "name": "Jamai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.583328,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1269379,
+    "name": "Jamadoba",
+    "country": "IN",
+    "coord": {
+      "lon": 86.400002,
+      "lat": 23.716669
+    }
+  },
+  {
+    "id": 1269392,
+    "name": "Jalor",
+    "country": "IN",
+    "coord": {
+      "lon": 72.616669,
+      "lat": 25.35
+    }
+  },
+  {
+    "id": 1269395,
+    "name": "Jalna",
+    "country": "IN",
+    "coord": {
+      "lon": 75.883331,
+      "lat": 19.83333
+    }
+  },
+  {
+    "id": 1269406,
+    "name": "Jalgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 76.534439,
+      "lat": 21.048611
+    }
+  },
+  {
+    "id": 1269407,
+    "name": "Jalgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.566673,
+      "lat": 21.01667
+    }
   }
 ]
