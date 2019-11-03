@@ -9682,5 +9682,221 @@
       "lon": 78.783333,
       "lat": 28.700001
     }
+  },
+  {
+    "id": 1265632,
+    "name": "Kunda",
+    "country": "IN",
+    "coord": {
+      "lon": 81.51667,
+      "lat": 25.716669
+    }
+  },
+  {
+    "id": 1265645,
+    "name": "Kumta",
+    "country": "IN",
+    "coord": {
+      "lon": 74.400002,
+      "lat": 14.41667
+    }
+  },
+  {
+    "id": 1265655,
+    "name": "Kumher",
+    "country": "IN",
+    "coord": {
+      "lon": 77.366669,
+      "lat": 27.316669
+    }
+  },
+  {
+    "id": 1265660,
+    "name": "Kumhari",
+    "country": "IN",
+    "coord": {
+      "lon": 81.51667,
+      "lat": 21.26667
+    }
+  },
+  {
+    "id": 1265670,
+    "name": "Kumbhraj",
+    "country": "IN",
+    "coord": {
+      "lon": 77.050003,
+      "lat": 24.366671
+    }
+  },
+  {
+    "id": 1265709,
+    "name": "Kulu",
+    "country": "IN",
+    "coord": {
+      "lon": 77.099998,
+      "lat": 31.966669
+    }
+  },
+  {
+    "id": 1265711,
+    "name": "Kulti",
+    "country": "IN",
+    "coord": {
+      "lon": 86.849998,
+      "lat": 23.73333
+    }
+  },
+  {
+    "id": 1265716,
+    "name": "Kulpahar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.650002,
+      "lat": 25.316669
+    }
+  },
+  {
+    "id": 1265723,
+    "name": "Kulittalai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.416672,
+      "lat": 10.91667
+    }
+  },
+  {
+    "id": 1265734,
+    "name": "Kulgam",
+    "country": "IN",
+    "coord": {
+      "lon": 75.01667,
+      "lat": 33.650002
+    }
+  },
+  {
+    "id": 1265752,
+    "name": "Kukshi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.75,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1265767,
+    "name": "Kukatpalli",
+    "country": "IN",
+    "coord": {
+      "lon": 78.416672,
+      "lat": 17.48333
+    }
+  },
+  {
+    "id": 1265773,
+    "name": "Kuju",
+    "country": "IN",
+    "coord": {
+      "lon": 85.5,
+      "lat": 23.716669
+    }
+  },
+  {
+    "id": 1265795,
+    "name": "Kudligi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.383331,
+      "lat": 14.9
+    }
+  },
+  {
+    "id": 1265811,
+    "name": "Kudachi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.849998,
+      "lat": 16.633329
+    }
+  },
+  {
+    "id": 1265821,
+    "name": "Kuchera",
+    "country": "IN",
+    "coord": {
+      "lon": 73.971939,
+      "lat": 26.983891
+    }
+  },
+  {
+    "id": 1265828,
+    "name": "Kuchaman",
+    "country": "IN",
+    "coord": {
+      "lon": 74.849998,
+      "lat": 27.15
+    }
+  },
+  {
+    "id": 1265830,
+    "name": "Kuchaiburi",
+    "country": "IN",
+    "coord": {
+      "lon": 86.166672,
+      "lat": 22.26667
+    }
+  },
+  {
+    "id": 1265852,
+    "name": "Krishnarajpet",
+    "country": "IN",
+    "coord": {
+      "lon": 76.488327,
+      "lat": 12.655
+    }
+  },
+  {
+    "id": 1265886,
+    "name": "Kovvur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.73333,
+      "lat": 17.01667
+    }
+  },
+  {
+    "id": 1265888,
+    "name": "Kovur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.98333,
+      "lat": 14.48333
+    }
+  },
+  {
+    "id": 1265891,
+    "name": "Kovilpatti",
+    "country": "IN",
+    "coord": {
+      "lon": 77.866669,
+      "lat": 9.16667
+    }
+  },
+  {
+    "id": 1265905,
+    "name": "Kotturu",
+    "country": "IN",
+    "coord": {
+      "lon": 76.216667,
+      "lat": 14.81667
+    }
+  },
+  {
+    "id": 1265938,
+    "name": "Kottagudem",
+    "country": "IN",
+    "coord": {
+      "lon": 80.633331,
+      "lat": 17.549999
+    }
   }
 ]
