@@ -9538,5 +9538,149 @@
       "lon": 77.044441,
       "lat": 29.99444
     }
+  },
+  {
+    "id": 1265331,
+    "name": "Ladnun",
+    "country": "IN",
+    "coord": {
+      "lon": 74.383331,
+      "lat": 27.65
+    }
+  },
+  {
+    "id": 1265354,
+    "name": "Lachhmangarh Sikar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.033333,
+      "lat": 27.816669
+    }
+  },
+  {
+    "id": 1265387,
+    "name": "Kuzhithurai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.183327,
+      "lat": 8.31667
+    }
+  },
+  {
+    "id": 1265400,
+    "name": "Koothanallur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.533333,
+      "lat": 10.7
+    }
+  },
+  {
+    "id": 1265415,
+    "name": "Kutiyana",
+    "country": "IN",
+    "coord": {
+      "lon": 69.981667,
+      "lat": 21.623329
+    }
+  },
+  {
+    "id": 1265446,
+    "name": "Kushtagi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.199997,
+      "lat": 15.76667
+    }
+  },
+  {
+    "id": 1265504,
+    "name": "Kurinjippadi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.599998,
+      "lat": 11.56667
+    }
+  },
+  {
+    "id": 1265521,
+    "name": "Kurduvadi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.433327,
+      "lat": 18.08333
+    }
+  },
+  {
+    "id": 1265539,
+    "name": "Kurandvad",
+    "country": "IN",
+    "coord": {
+      "lon": 74.583328,
+      "lat": 16.683331
+    }
+  },
+  {
+    "id": 1265555,
+    "name": "Kuppam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.366669,
+      "lat": 12.75
+    }
+  },
+  {
+    "id": 1265579,
+    "name": "Kunnamkulam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.083328,
+      "lat": 10.65
+    }
+  },
+  {
+    "id": 1265580,
+    "name": "Kunnamangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 75.877724,
+      "lat": 11.30459
+    }
+  },
+  {
+    "id": 1265591,
+    "name": "Kunigal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.026672,
+      "lat": 13.02222
+    }
+  },
+  {
+    "id": 1265605,
+    "name": "Kundla",
+    "country": "IN",
+    "coord": {
+      "lon": 71.300003,
+      "lat": 21.33333
+    }
+  },
+  {
+    "id": 1265607,
+    "name": "Kundgol",
+    "country": "IN",
+    "coord": {
+      "lon": 75.25,
+      "lat": 15.25
+    }
+  },
+  {
+    "id": 1265613,
+    "name": "Kundarkhi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.783333,
+      "lat": 28.700001
+    }
   }
 ]
