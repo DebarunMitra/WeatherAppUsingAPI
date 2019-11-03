@@ -8575,5 +8575,113 @@
       "lon": 88.316673,
       "lat": 26.700001
     }
+  },
+  {
+    "id": 1272965,
+    "name": "Dhaneli",
+    "country": "IN",
+    "coord": {
+      "lon": 81.699997,
+      "lat": 21.16667
+    }
+  },
+  {
+    "id": 7357900,
+    "name": "Viman Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.91584,
+      "lat": 18.56848
+    }
+  },
+  {
+    "id": 1266991,
+    "name": "Khāpri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.033333,
+      "lat": 21.049999
+    }
+  },
+  {
+    "id": 1253774,
+    "name": "Unchagao",
+    "country": "IN",
+    "coord": {
+      "lon": 74.283333,
+      "lat": 16.700001
+    }
+  },
+  {
+    "id": 1271717,
+    "name": "Gāndhīdhām",
+    "country": "IN",
+    "coord": {
+      "lon": 70.133331,
+      "lat": 23.08333
+    }
+  },
+  {
+    "id": 1276627,
+    "name": "Bedi",
+    "country": "IN",
+    "coord": {
+      "lon": 70.050003,
+      "lat": 22.5
+    }
+  },
+  {
+    "id": 1277008,
+    "name": "Barela",
+    "country": "IN",
+    "coord": {
+      "lon": 80.050003,
+      "lat": 23.1
+    }
+  },
+  {
+    "id": 1274258,
+    "name": "Chicolna",
+    "country": "IN",
+    "coord": {
+      "lon": 73.833328,
+      "lat": 15.36667
+    }
+  },
+  {
+    "id": 1257531,
+    "name": "Sāmbre",
+    "country": "IN",
+    "coord": {
+      "lon": 74.616669,
+      "lat": 15.86667
+    }
+  },
+  {
+    "id": 1276531,
+    "name": "Belha",
+    "country": "IN",
+    "coord": {
+      "lon": 82.083328,
+      "lat": 21.950001
+    }
+  },
+  {
+    "id": 1274247,
+    "name": "Chikalthān",
+    "country": "IN",
+    "coord": {
+      "lon": 75.400002,
+      "lat": 19.85
+    }
+  },
+  {
+    "id": 1255939,
+    "name": "Sivni",
+    "country": "IN",
+    "coord": {
+      "lon": 77.050003,
+      "lat": 20.683331
+    }
   }
 ]
