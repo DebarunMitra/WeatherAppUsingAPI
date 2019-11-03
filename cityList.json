@@ -8161,5 +8161,86 @@
       "lon": 76.933327,
       "lat": 18.700001
     }
+  },
+  {
+    "id": 1254163,
+    "name": "Thiruvananthapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 76.916672,
+      "lat": 8.48333
+    }
+  },
+  {
+    "id": 1260745,
+    "name": "Palayam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.916672,
+      "lat": 8.48333
+    }
+  },
+  {
+    "id": 7603116,
+    "name": "Trichy",
+    "country": "IN",
+    "coord": {
+      "lon": 78.698753,
+      "lat": 10.80289
+    }
+  },
+  {
+    "id": 1260692,
+    "name": "Pallavaram",
+    "country": "IN",
+    "coord": {
+      "lon": 80.183609,
+      "lat": 12.97611
+    }
+  },
+  {
+    "id": 1465625,
+    "name": "Palavantangai",
+    "country": "IN",
+    "coord": {
+      "lon": 80.191109,
+      "lat": 12.98556
+    }
+  },
+  {
+    "id": 1270623,
+    "name": "Gurpur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.933327,
+      "lat": 12.96667
+    }
+  },
+  {
+    "id": 1254356,
+    "name": "Tirupparangunram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.066673,
+      "lat": 9.86667
+    }
+  },
+  {
+    "id": 7648816,
+    "name": "Shamshabad",
+    "country": "IN",
+    "coord": {
+      "lon": 78.41835,
+      "lat": 17.25186
+    }
+  },
+  {
+    "id": 1266200,
+    "name": "Kondotti",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 11.15
+    }
   }
 ]
