@@ -9277,5 +9277,104 @@
       "lon": 79.433327,
       "lat": 16.48333
     }
+  },
+  {
+    "id": 1264688,
+    "name": "Lunglei",
+    "country": "IN",
+    "coord": {
+      "lon": 92.73333,
+      "lat": 22.883329
+    }
+  },
+  {
+    "id": 1264700,
+    "name": "Lunavada",
+    "country": "IN",
+    "coord": {
+      "lon": 73.616669,
+      "lat": 23.133329
+    }
+  },
+  {
+    "id": 1264735,
+    "name": "Luckeesarai",
+    "country": "IN",
+    "coord": {
+      "lon": 86.083328,
+      "lat": 25.183331
+    }
+  },
+  {
+    "id": 1264756,
+    "name": "Losal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.916672,
+      "lat": 27.4
+    }
+  },
+  {
+    "id": 1264793,
+    "name": "Lonavale",
+    "country": "IN",
+    "coord": {
+      "lon": 73.416672,
+      "lat": 18.75
+    }
+  },
+  {
+    "id": 1264794,
+    "name": "Lonar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.533333,
+      "lat": 19.98333
+    }
+  },
+  {
+    "id": 1264839,
+    "name": "Lohardaga",
+    "country": "IN",
+    "coord": {
+      "lon": 84.683327,
+      "lat": 23.433331
+    }
+  },
+  {
+    "id": 1264890,
+    "name": "Lingsugur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.51667,
+      "lat": 16.16667
+    }
+  },
+  {
+    "id": 1264912,
+    "name": "Limbdi",
+    "country": "IN",
+    "coord": {
+      "lon": 71.800003,
+      "lat": 22.566669
+    }
+  },
+  {
+    "id": 1264949,
+    "name": "Leteri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.400002,
+      "lat": 24.049999
+    }
+  },
+  {
+    "id": 1264976,
+    "name": "Leh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.583328,
+      "lat": 34.166672
+    }
   }
 ]
