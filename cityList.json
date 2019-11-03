@@ -14506,5 +14506,635 @@
       "lon": 78.933327,
       "lat": 16.700001
     }
+  },
+  {
+    "id": 1273123,
+    "name": "Devanhalli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.699173,
+      "lat": 13.2325
+    }
+  },
+  {
+    "id": 1273128,
+    "name": "Devakottai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 9.95
+    }
+  },
+  {
+    "id": 1273136,
+    "name": "Deulgaon Raja",
+    "country": "IN",
+    "coord": {
+      "lon": 76.033333,
+      "lat": 20.01667
+    }
+  },
+  {
+    "id": 1273153,
+    "name": "Deshnoke",
+    "country": "IN",
+    "coord": {
+      "lon": 73.349998,
+      "lat": 27.799999
+    }
+  },
+  {
+    "id": 1273181,
+    "name": "Depalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.550003,
+      "lat": 22.85
+    }
+  },
+  {
+    "id": 1273191,
+    "name": "Deori Khas",
+    "country": "IN",
+    "coord": {
+      "lon": 79.01667,
+      "lat": 23.4
+    }
+  },
+  {
+    "id": 1273193,
+    "name": "Deoria",
+    "country": "IN",
+    "coord": {
+      "lon": 83.787216,
+      "lat": 26.504721
+    }
+  },
+  {
+    "id": 1273206,
+    "name": "Deoranian",
+    "country": "IN",
+    "coord": {
+      "lon": 79.48333,
+      "lat": 28.633329
+    }
+  },
+  {
+    "id": 1273228,
+    "name": "Deoli",
+    "country": "IN",
+    "coord": {
+      "lon": 78.48333,
+      "lat": 20.66667
+    }
+  },
+  {
+    "id": 1273232,
+    "name": "Deolali",
+    "country": "IN",
+    "coord": {
+      "lon": 73.833328,
+      "lat": 19.950001
+    }
+  },
+  {
+    "id": 1273246,
+    "name": "Deogarh",
+    "country": "IN",
+    "coord": {
+      "lon": 84.73333,
+      "lat": 21.533331
+    }
+  },
+  {
+    "id": 1273272,
+    "name": "Denkanikota",
+    "country": "IN",
+    "coord": {
+      "lon": 77.800003,
+      "lat": 12.53333
+    }
+  },
+  {
+    "id": 1273309,
+    "name": "Dehri",
+    "country": "IN",
+    "coord": {
+      "lon": 84.183327,
+      "lat": 24.866671
+    }
+  },
+  {
+    "id": 1273374,
+    "name": "Daund",
+    "country": "IN",
+    "coord": {
+      "lon": 74.599998,
+      "lat": 18.466669
+    }
+  },
+  {
+    "id": 1273390,
+    "name": "Daudnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 84.400002,
+      "lat": 25.033331
+    }
+  },
+  {
+    "id": 1273397,
+    "name": "Dattapur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 20.76667
+    }
+  },
+  {
+    "id": 1273403,
+    "name": "Datia",
+    "country": "IN",
+    "coord": {
+      "lon": 78.466667,
+      "lat": 25.66667
+    }
+  },
+  {
+    "id": 1273409,
+    "name": "Dataganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.400002,
+      "lat": 28.033331
+    }
+  },
+  {
+    "id": 1273410,
+    "name": "Dasua",
+    "country": "IN",
+    "coord": {
+      "lon": 75.659721,
+      "lat": 31.818331
+    }
+  },
+  {
+    "id": 1273416,
+    "name": "Dasna",
+    "country": "IN",
+    "coord": {
+      "lon": 77.533333,
+      "lat": 28.683331
+    }
+  },
+  {
+    "id": 1273434,
+    "name": "Daryapur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.333328,
+      "lat": 20.933331
+    }
+  },
+  {
+    "id": 1273440,
+    "name": "Darwha",
+    "country": "IN",
+    "coord": {
+      "lon": 77.76667,
+      "lat": 20.316669
+    }
+  },
+  {
+    "id": 1273491,
+    "name": "Darbhanga",
+    "country": "IN",
+    "coord": {
+      "lon": 85.900002,
+      "lat": 26.16667
+    }
+  },
+  {
+    "id": 1273574,
+    "name": "Dandeli",
+    "country": "IN",
+    "coord": {
+      "lon": 74.616669,
+      "lat": 15.26667
+    }
+  },
+  {
+    "id": 1273581,
+    "name": "Danapur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.050003,
+      "lat": 25.633329
+    }
+  },
+  {
+    "id": 1273587,
+    "name": "Damoh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.449997,
+      "lat": 23.83333
+    }
+  },
+  {
+    "id": 1273593,
+    "name": "Damnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 71.51667,
+      "lat": 21.700001
+    }
+  },
+  {
+    "id": 1273626,
+    "name": "Daltenganj",
+    "country": "IN",
+    "coord": {
+      "lon": 84.066673,
+      "lat": 24.033331
+    }
+  },
+  {
+    "id": 1273628,
+    "name": "Dalsingh Sarai",
+    "country": "IN",
+    "coord": {
+      "lon": 85.833328,
+      "lat": 25.66667
+    }
+  },
+  {
+    "id": 1273642,
+    "name": "Dalkola",
+    "country": "IN",
+    "coord": {
+      "lon": 87.849998,
+      "lat": 25.85
+    }
+  },
+  {
+    "id": 1273665,
+    "name": "Dakor",
+    "country": "IN",
+    "coord": {
+      "lon": 73.150002,
+      "lat": 22.75
+    }
+  },
+  {
+    "id": 1273687,
+    "name": "Dahod",
+    "country": "IN",
+    "coord": {
+      "lon": 74.26667,
+      "lat": 22.83333
+    }
+  },
+  {
+    "id": 1273704,
+    "name": "Dahegam",
+    "country": "IN",
+    "coord": {
+      "lon": 72.816673,
+      "lat": 23.16667
+    }
+  },
+  {
+    "id": 1273708,
+    "name": "Dahanu",
+    "country": "IN",
+    "coord": {
+      "lon": 72.73333,
+      "lat": 19.966669
+    }
+  },
+  {
+    "id": 1273724,
+    "name": "Dadri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.550003,
+      "lat": 28.566669
+    }
+  },
+  {
+    "id": 1273745,
+    "name": "Dabwali",
+    "country": "IN",
+    "coord": {
+      "lon": 74.73333,
+      "lat": 29.950001
+    }
+  },
+  {
+    "id": 1273751,
+    "name": "Dabra",
+    "country": "IN",
+    "coord": {
+      "lon": 78.333328,
+      "lat": 25.9
+    }
+  },
+  {
+    "id": 1273756,
+    "name": "Daboh",
+    "country": "IN",
+    "coord": {
+      "lon": 78.876106,
+      "lat": 26.002501
+    }
+  },
+  {
+    "id": 1273766,
+    "name": "Dabhoi",
+    "country": "IN",
+    "coord": {
+      "lon": 73.433327,
+      "lat": 22.183331
+    }
+  },
+  {
+    "id": 1273788,
+    "name": "Curchorem",
+    "country": "IN",
+    "coord": {
+      "lon": 74.099998,
+      "lat": 15.25
+    }
+  },
+  {
+    "id": 1273793,
+    "name": "Cuncolim",
+    "country": "IN",
+    "coord": {
+      "lon": 73.98333,
+      "lat": 15.16667
+    }
+  },
+  {
+    "id": 1273795,
+    "name": "Cumbum",
+    "country": "IN",
+    "coord": {
+      "lon": 79.116669,
+      "lat": 15.56667
+    }
+  },
+  {
+    "id": 1273834,
+    "name": "Coondapoor",
+    "country": "IN",
+    "coord": {
+      "lon": 74.699997,
+      "lat": 13.63333
+    }
+  },
+  {
+    "id": 1273850,
+    "name": "Colonelganj",
+    "country": "IN",
+    "coord": {
+      "lon": 81.699997,
+      "lat": 27.133329
+    }
+  },
+  {
+    "id": 1273856,
+    "name": "Colgong",
+    "country": "IN",
+    "coord": {
+      "lon": 87.216667,
+      "lat": 25.26667
+    }
+  },
+  {
+    "id": 1273858,
+    "name": "Calangute",
+    "country": "IN",
+    "coord": {
+      "lon": 73.755302,
+      "lat": 15.5439
+    }
+  },
+  {
+    "id": 1273874,
+    "name": "Cochin",
+    "country": "IN",
+    "coord": {
+      "lon": 76.260223,
+      "lat": 9.93988
+    }
+  },
+  {
+    "id": 1273923,
+    "name": "Chunar",
+    "country": "IN",
+    "coord": {
+      "lon": 82.900002,
+      "lat": 25.133329
+    }
+  },
+  {
+    "id": 1273960,
+    "name": "Chotila",
+    "country": "IN",
+    "coord": {
+      "lon": 71.183327,
+      "lat": 22.41667
+    }
+  },
+  {
+    "id": 1273992,
+    "name": "Chopda",
+    "country": "IN",
+    "coord": {
+      "lon": 75.300003,
+      "lat": 21.25
+    }
+  },
+  {
+    "id": 1274020,
+    "name": "Chodavaram",
+    "country": "IN",
+    "coord": {
+      "lon": 82.949997,
+      "lat": 17.83333
+    }
+  },
+  {
+    "id": 1274021,
+    "name": "Chodavaram",
+    "country": "IN",
+    "coord": {
+      "lon": 81.76667,
+      "lat": 17.450001
+    }
+  },
+  {
+    "id": 1274032,
+    "name": "Chittur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.75,
+      "lat": 10.7
+    }
+  },
+  {
+    "id": 1274040,
+    "name": "Chittaurgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 74.633331,
+      "lat": 24.883329
+    }
+  },
+  {
+    "id": 1274043,
+    "name": "Chittaranjan",
+    "country": "IN",
+    "coord": {
+      "lon": 86.866669,
+      "lat": 23.866671
+    }
+  },
+  {
+    "id": 1274077,
+    "name": "Chitapur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.083328,
+      "lat": 17.116671
+    }
+  },
+  {
+    "id": 1274102,
+    "name": "Chidawa",
+    "country": "IN",
+    "coord": {
+      "lon": 75.645599,
+      "lat": 28.240101
+    }
+  },
+  {
+    "id": 1274106,
+    "name": "Chirala",
+    "country": "IN",
+    "coord": {
+      "lon": 80.349998,
+      "lat": 15.81667
+    }
+  },
+  {
+    "id": 1274116,
+    "name": "Chipurupalle",
+    "country": "IN",
+    "coord": {
+      "lon": 83.566673,
+      "lat": 18.299999
+    }
+  },
+  {
+    "id": 1274119,
+    "name": "Chiplun",
+    "country": "IN",
+    "coord": {
+      "lon": 73.51667,
+      "lat": 17.533331
+    }
+  },
+  {
+    "id": 1274129,
+    "name": "Chintamani",
+    "country": "IN",
+    "coord": {
+      "lon": 78.066673,
+      "lat": 13.4
+    }
+  },
+  {
+    "id": 1274146,
+    "name": "Chinna Salem",
+    "country": "IN",
+    "coord": {
+      "lon": 78.900002,
+      "lat": 11.65
+    }
+  },
+  {
+    "id": 1274151,
+    "name": "Chinnamanur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.383331,
+      "lat": 9.83333
+    }
+  },
+  {
+    "id": 1274169,
+    "name": "Chincholi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433327,
+      "lat": 17.466669
+    }
+  },
+  {
+    "id": 1274195,
+    "name": "Chillupar",
+    "country": "IN",
+    "coord": {
+      "lon": 83.508331,
+      "lat": 26.282221
+    }
+  },
+  {
+    "id": 1274213,
+    "name": "Chilakalurupet",
+    "country": "IN",
+    "coord": {
+      "lon": 80.166672,
+      "lat": 16.08333
+    }
+  },
+  {
+    "id": 1274218,
+    "name": "Chikodi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.599998,
+      "lat": 16.433331
+    }
+  },
+  {
+    "id": 1274219,
+    "name": "Chiknayakanhalli",
+    "country": "IN",
+    "coord": {
+      "lon": 76.62278,
+      "lat": 13.41722
+    }
+  },
+  {
+    "id": 1274237,
+    "name": "Chikhli",
+    "country": "IN",
+    "coord": {
+      "lon": 76.25,
+      "lat": 20.35
+    }
+  },
+  {
+    "id": 1274243,
+    "name": "Chik Ballapur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.724167,
+      "lat": 13.43417
+    }
   }
 ]
