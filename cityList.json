@@ -16153,5 +16153,599 @@
       "lon": 78.78833,
       "lat": 26.564171
     }
+  },
+  {
+    "id": 1275930,
+    "name": "Bhimunipatnam",
+    "country": "IN",
+    "coord": {
+      "lon": 83.433327,
+      "lat": 17.883329
+    }
+  },
+  {
+    "id": 1275947,
+    "name": "Bhimavaram",
+    "country": "IN",
+    "coord": {
+      "lon": 81.533333,
+      "lat": 16.533331
+    }
+  },
+  {
+    "id": 1275960,
+    "name": "Bhilwara",
+    "country": "IN",
+    "coord": {
+      "lon": 74.633331,
+      "lat": 25.35
+    }
+  },
+  {
+    "id": 1275977,
+    "name": "Bhikhi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.533333,
+      "lat": 30.066669
+    }
+  },
+  {
+    "id": 1275978,
+    "name": "Bhikangaon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 21.866671
+    }
+  },
+  {
+    "id": 1276013,
+    "name": "Bhayavadar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.25,
+      "lat": 21.85
+    }
+  },
+  {
+    "id": 1276026,
+    "name": "Bhawanigarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.035004,
+      "lat": 30.26667
+    }
+  },
+  {
+    "id": 1276027,
+    "name": "Bhawaniganj",
+    "country": "IN",
+    "coord": {
+      "lon": 75.833328,
+      "lat": 24.41667
+    }
+  },
+  {
+    "id": 1276037,
+    "name": "Bhavani",
+    "country": "IN",
+    "coord": {
+      "lon": 77.683327,
+      "lat": 11.45
+    }
+  },
+  {
+    "id": 1276054,
+    "name": "Bhattiprolu",
+    "country": "IN",
+    "coord": {
+      "lon": 80.783333,
+      "lat": 16.1
+    }
+  },
+  {
+    "id": 1276067,
+    "name": "Bhatkal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.566673,
+      "lat": 13.96667
+    }
+  },
+  {
+    "id": 1276070,
+    "name": "Bhatinda",
+    "country": "IN",
+    "coord": {
+      "lon": 74.949997,
+      "lat": 30.200001
+    }
+  },
+  {
+    "id": 1276084,
+    "name": "Bhatapara",
+    "country": "IN",
+    "coord": {
+      "lon": 81.933327,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1276092,
+    "name": "Bhasawar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.033333,
+      "lat": 27.033331
+    }
+  },
+  {
+    "id": 1276095,
+    "name": "Bharwari",
+    "country": "IN",
+    "coord": {
+      "lon": 81.5,
+      "lat": 25.549999
+    }
+  },
+  {
+    "id": 1276100,
+    "name": "Bharuch",
+    "country": "IN",
+    "coord": {
+      "lon": 72.966667,
+      "lat": 21.700001
+    }
+  },
+  {
+    "id": 1276103,
+    "name": "Bharthana",
+    "country": "IN",
+    "coord": {
+      "lon": 79.2248,
+      "lat": 26.757099
+    }
+  },
+  {
+    "id": 1276147,
+    "name": "Bhanvad",
+    "country": "IN",
+    "coord": {
+      "lon": 69.773613,
+      "lat": 21.92639
+    }
+  },
+  {
+    "id": 1276152,
+    "name": "Bhanpura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.746902,
+      "lat": 24.513
+    }
+  },
+  {
+    "id": 1276159,
+    "name": "Bhanjanagar",
+    "country": "IN",
+    "coord": {
+      "lon": 84.583328,
+      "lat": 19.933331
+    }
+  },
+  {
+    "id": 1276178,
+    "name": "Bhander",
+    "country": "IN",
+    "coord": {
+      "lon": 78.75,
+      "lat": 25.73333
+    }
+  },
+  {
+    "id": 1276219,
+    "name": "Bhalki",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 18.033331
+    }
+  },
+  {
+    "id": 1276249,
+    "name": "Bhaisa",
+    "country": "IN",
+    "coord": {
+      "lon": 77.966667,
+      "lat": 19.1
+    }
+  },
+  {
+    "id": 1276265,
+    "name": "Bhainsdehi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.6325,
+      "lat": 21.646669
+    }
+  },
+  {
+    "id": 1276320,
+    "name": "Bhadreswar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.350563,
+      "lat": 22.82444
+    }
+  },
+  {
+    "id": 1276321,
+    "name": "Bhadravati",
+    "country": "IN",
+    "coord": {
+      "lon": 75.716667,
+      "lat": 13.86667
+    }
+  },
+  {
+    "id": 1276328,
+    "name": "Bhadrachalam",
+    "country": "IN",
+    "coord": {
+      "lon": 80.883331,
+      "lat": 17.66667
+    }
+  },
+  {
+    "id": 1276330,
+    "name": "Bhadra",
+    "country": "IN",
+    "coord": {
+      "lon": 75.166672,
+      "lat": 29.116671
+    }
+  },
+  {
+    "id": 1276335,
+    "name": "Bhadohi",
+    "country": "IN",
+    "coord": {
+      "lon": 82.566673,
+      "lat": 25.41667
+    }
+  },
+  {
+    "id": 1276353,
+    "name": "Bhadaur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.316673,
+      "lat": 30.48333
+    }
+  },
+  {
+    "id": 1276355,
+    "name": "Bhadasar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.316673,
+      "lat": 28.283331
+    }
+  },
+  {
+    "id": 1276370,
+    "name": "Bhachau",
+    "country": "IN",
+    "coord": {
+      "lon": 70.349998,
+      "lat": 23.283331
+    }
+  },
+  {
+    "id": 1276371,
+    "name": "Bhabua",
+    "country": "IN",
+    "coord": {
+      "lon": 83.616669,
+      "lat": 25.049999
+    }
+  },
+  {
+    "id": 1276378,
+    "name": "Beypore",
+    "country": "IN",
+    "coord": {
+      "lon": 75.816673,
+      "lat": 11.18333
+    }
+  },
+  {
+    "id": 1276381,
+    "name": "Bewar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.300499,
+      "lat": 27.218399
+    }
+  },
+  {
+    "id": 1276389,
+    "name": "Betul",
+    "country": "IN",
+    "coord": {
+      "lon": 77.896111,
+      "lat": 21.915279
+    }
+  },
+  {
+    "id": 1276393,
+    "name": "Bettiah",
+    "country": "IN",
+    "coord": {
+      "lon": 84.5,
+      "lat": 26.799999
+    }
+  },
+  {
+    "id": 1276416,
+    "name": "Betamcherla",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 15.46667
+    }
+  },
+  {
+    "id": 1276437,
+    "name": "Beri Khas",
+    "country": "IN",
+    "coord": {
+      "lon": 76.583328,
+      "lat": 28.700001
+    }
+  },
+  {
+    "id": 1276449,
+    "name": "Berasia",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433327,
+      "lat": 23.633329
+    }
+  },
+  {
+    "id": 1276455,
+    "name": "Beohari",
+    "country": "IN",
+    "coord": {
+      "lon": 81.383331,
+      "lat": 24.049999
+    }
+  },
+  {
+    "id": 1276478,
+    "name": "Bemetara",
+    "country": "IN",
+    "coord": {
+      "lon": 81.533333,
+      "lat": 21.700001
+    }
+  },
+  {
+    "id": 1276486,
+    "name": "Belur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.866669,
+      "lat": 13.16667
+    }
+  },
+  {
+    "id": 1276495,
+    "name": "Belsand",
+    "country": "IN",
+    "coord": {
+      "lon": 85.400002,
+      "lat": 26.450001
+    }
+  },
+  {
+    "id": 1276502,
+    "name": "Belonia",
+    "country": "IN",
+    "coord": {
+      "lon": 91.451393,
+      "lat": 23.252781
+    }
+  },
+  {
+    "id": 1276548,
+    "name": "Beldanga",
+    "country": "IN",
+    "coord": {
+      "lon": 88.25,
+      "lat": 23.933331
+    }
+  },
+  {
+    "id": 1276574,
+    "name": "Bela",
+    "country": "IN",
+    "coord": {
+      "lon": 81.98333,
+      "lat": 25.933331
+    }
+  },
+  {
+    "id": 1276600,
+    "name": "Behat",
+    "country": "IN",
+    "coord": {
+      "lon": 77.616669,
+      "lat": 30.16667
+    }
+  },
+  {
+    "id": 1276609,
+    "name": "Begusarai",
+    "country": "IN",
+    "coord": {
+      "lon": 86.133331,
+      "lat": 25.41667
+    }
+  },
+  {
+    "id": 1276615,
+    "name": "Begun",
+    "country": "IN",
+    "coord": {
+      "lon": 75,
+      "lat": 24.98333
+    }
+  },
+  {
+    "id": 1276621,
+    "name": "Begamganj",
+    "country": "IN",
+    "coord": {
+      "lon": 78.333328,
+      "lat": 23.6
+    }
+  },
+  {
+    "id": 1276634,
+    "name": "Beawar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.316673,
+      "lat": 26.1
+    }
+  },
+  {
+    "id": 1276642,
+    "name": "Bazpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.116669,
+      "lat": 29.15
+    }
+  },
+  {
+    "id": 1276652,
+    "name": "Bayana",
+    "country": "IN",
+    "coord": {
+      "lon": 77.283333,
+      "lat": 26.9
+    }
+  },
+  {
+    "id": 1276663,
+    "name": "Bawana",
+    "country": "IN",
+    "coord": {
+      "lon": 77.033333,
+      "lat": 28.799999
+    }
+  },
+  {
+    "id": 1276686,
+    "name": "Bauda",
+    "country": "IN",
+    "coord": {
+      "lon": 84.316673,
+      "lat": 20.83333
+    }
+  },
+  {
+    "id": 1276720,
+    "name": "Batala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.202782,
+      "lat": 31.818609
+    }
+  },
+  {
+    "id": 1276724,
+    "name": "Baswa",
+    "country": "IN",
+    "coord": {
+      "lon": 76.583328,
+      "lat": 27.15
+    }
+  },
+  {
+    "id": 1276731,
+    "name": "Basudebpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.738609,
+      "lat": 21.135281
+    }
+  },
+  {
+    "id": 1276752,
+    "name": "Basoda",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 23.85
+    }
+  },
+  {
+    "id": 1276754,
+    "name": "Basni",
+    "country": "IN",
+    "coord": {
+      "lon": 73.650002,
+      "lat": 27.16667
+    }
+  },
+  {
+    "id": 1276757,
+    "name": "Basmat",
+    "country": "IN",
+    "coord": {
+      "lon": 77.166672,
+      "lat": 19.316669
+    }
+  },
+  {
+    "id": 1276764,
+    "name": "Basi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.398613,
+      "lat": 30.691669
+    }
+  },
+  {
+    "id": 1276765,
+    "name": "Basi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.845596,
+      "lat": 30.5888
+    }
+  },
+  {
+    "id": 1276782,
+    "name": "Basavana Bagevadi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 16.58333
+    }
+  },
+  {
+    "id": 1276783,
+    "name": "Basavakalyan",
+    "country": "IN",
+    "coord": {
+      "lon": 76.949997,
+      "lat": 17.866671
+    }
   }
 ]
