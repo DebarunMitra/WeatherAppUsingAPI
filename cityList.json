@@ -18385,5 +18385,725 @@
       "lon": 77.5,
       "lat": 8.86667
     }
+  },
+  {
+    "id": 1279061,
+    "name": "Alangayam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.75,
+      "lat": 12.6
+    }
+  },
+  {
+    "id": 1279064,
+    "name": "Alandur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.206108,
+      "lat": 13.0025
+    }
+  },
+  {
+    "id": 1279066,
+    "name": "Alandi",
+    "country": "IN",
+    "coord": {
+      "lon": 73.900002,
+      "lat": 18.66667
+    }
+  },
+  {
+    "id": 1279068,
+    "name": "Aland",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 17.566669
+    }
+  },
+  {
+    "id": 1279094,
+    "name": "Akot",
+    "country": "IN",
+    "coord": {
+      "lon": 77.058609,
+      "lat": 21.09639
+    }
+  },
+  {
+    "id": 1279115,
+    "name": "Aklera",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 24.41667
+    }
+  },
+  {
+    "id": 1279123,
+    "name": "Akividu",
+    "country": "IN",
+    "coord": {
+      "lon": 81.383331,
+      "lat": 16.6
+    }
+  },
+  {
+    "id": 1279134,
+    "name": "Akbarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.550003,
+      "lat": 26.41667
+    }
+  },
+  {
+    "id": 1279135,
+    "name": "Akbarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.949997,
+      "lat": 26.383329
+    }
+  },
+  {
+    "id": 1279144,
+    "name": "Akaltara",
+    "country": "IN",
+    "coord": {
+      "lon": 82.433327,
+      "lat": 22.01667
+    }
+  },
+  {
+    "id": 1279147,
+    "name": "Akalkot",
+    "country": "IN",
+    "coord": {
+      "lon": 76.216667,
+      "lat": 17.533331
+    }
+  },
+  {
+    "id": 1279154,
+    "name": "Ajra",
+    "country": "IN",
+    "coord": {
+      "lon": 74.199997,
+      "lat": 16.116671
+    }
+  },
+  {
+    "id": 1279158,
+    "name": "Ajnala",
+    "country": "IN",
+    "coord": {
+      "lon": 74.758888,
+      "lat": 31.842501
+    }
+  },
+  {
+    "id": 1279186,
+    "name": "Aizawl",
+    "country": "IN",
+    "coord": {
+      "lon": 92.716667,
+      "lat": 23.73333
+    }
+  },
+  {
+    "id": 1279219,
+    "name": "Ahraura",
+    "country": "IN",
+    "coord": {
+      "lon": 83.01667,
+      "lat": 25.01667
+    }
+  },
+  {
+    "id": 1279299,
+    "name": "Agar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.01667,
+      "lat": 23.700001
+    }
+  },
+  {
+    "id": 1279306,
+    "name": "Afzalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 17.200001
+    }
+  },
+  {
+    "id": 1279307,
+    "name": "Afzalgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 78.683327,
+      "lat": 29.4
+    }
+  },
+  {
+    "id": 1279323,
+    "name": "Adur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.73333,
+      "lat": 9.16667
+    }
+  },
+  {
+    "id": 1279356,
+    "name": "Addanki",
+    "country": "IN",
+    "coord": {
+      "lon": 79.98333,
+      "lat": 15.81667
+    }
+  },
+  {
+    "id": 1279382,
+    "name": "Achhnera",
+    "country": "IN",
+    "coord": {
+      "lon": 77.76667,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1279390,
+    "name": "Achalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.508614,
+      "lat": 21.257219
+    }
+  },
+  {
+    "id": 1279394,
+    "name": "Abu Road",
+    "country": "IN",
+    "coord": {
+      "lon": 72.783333,
+      "lat": 24.48333
+    }
+  },
+  {
+    "id": 1279403,
+    "name": "Abohar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.183327,
+      "lat": 30.15
+    }
+  },
+  {
+    "id": 1279407,
+    "name": "Abhayapuri",
+    "country": "IN",
+    "coord": {
+      "lon": 90.666672,
+      "lat": 26.33333
+    }
+  },
+  {
+    "id": 1344069,
+    "name": "Contai",
+    "country": "IN",
+    "coord": {
+      "lon": 87.753609,
+      "lat": 21.77861
+    }
+  },
+  {
+    "id": 1344377,
+    "name": "Haldia",
+    "country": "IN",
+    "coord": {
+      "lon": 88.109749,
+      "lat": 22.060459
+    }
+  },
+  {
+    "id": 1348562,
+    "name": "Srirampur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.01889,
+      "lat": 22.948891
+    }
+  },
+  {
+    "id": 1348739,
+    "name": "Dumjor",
+    "country": "IN",
+    "coord": {
+      "lon": 88.220284,
+      "lat": 22.640829
+    }
+  },
+  {
+    "id": 1348753,
+    "name": "Chakapara",
+    "country": "IN",
+    "coord": {
+      "lon": 88.34861,
+      "lat": 22.632219
+    }
+  },
+  {
+    "id": 1348775,
+    "name": "Mahiari",
+    "country": "IN",
+    "coord": {
+      "lon": 88.237778,
+      "lat": 22.59222
+    }
+  },
+  {
+    "id": 1348780,
+    "name": "Dhulagari",
+    "country": "IN",
+    "coord": {
+      "lon": 88.173058,
+      "lat": 22.586941
+    }
+  },
+  {
+    "id": 1348785,
+    "name": "Panchla",
+    "country": "IN",
+    "coord": {
+      "lon": 88.138062,
+      "lat": 22.54389
+    }
+  },
+  {
+    "id": 1348818,
+    "name": "Nangi",
+    "country": "IN",
+    "coord": {
+      "lon": 88.215279,
+      "lat": 22.508329
+    }
+  },
+  {
+    "id": 1348820,
+    "name": "Pujali",
+    "country": "IN",
+    "coord": {
+      "lon": 88.151672,
+      "lat": 22.465281
+    }
+  },
+  {
+    "id": 1349041,
+    "name": "Monoharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.078888,
+      "lat": 22.10833
+    }
+  },
+  {
+    "id": 1349357,
+    "name": "Nabagram",
+    "country": "IN",
+    "coord": {
+      "lon": 88.509171,
+      "lat": 22.288059
+    }
+  },
+  {
+    "id": 1430991,
+    "name": "Soyibug",
+    "country": "IN",
+    "coord": {
+      "lon": 74.711113,
+      "lat": 34.07917
+    }
+  },
+  {
+    "id": 1445156,
+    "name": "Singapur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.127502,
+      "lat": 17.469721
+    }
+  },
+  {
+    "id": 1445378,
+    "name": "Ghatkesar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.68528,
+      "lat": 17.44944
+    }
+  },
+  {
+    "id": 1462711,
+    "name": "Vijayapura",
+    "country": "IN",
+    "coord": {
+      "lon": 77.801666,
+      "lat": 13.29361
+    }
+  },
+  {
+    "id": 1462733,
+    "name": "Adampur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.717499,
+      "lat": 31.432779
+    }
+  },
+  {
+    "id": 1465622,
+    "name": "Porur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.157501,
+      "lat": 13.03194
+    }
+  },
+  {
+    "id": 1465825,
+    "name": "Madipakkam",
+    "country": "IN",
+    "coord": {
+      "lon": 80.209167,
+      "lat": 12.9725
+    }
+  },
+  {
+    "id": 1254328,
+    "name": "Tiruvānmiyūr",
+    "country": "IN",
+    "coord": {
+      "lon": 80.25972,
+      "lat": 12.98333
+    }
+  },
+  {
+    "id": 1465828,
+    "name": "Perungudi",
+    "country": "IN",
+    "coord": {
+      "lon": 80.247223,
+      "lat": 12.97139
+    }
+  },
+  {
+    "id": 1465910,
+    "name": "Madambakkam",
+    "country": "IN",
+    "coord": {
+      "lon": 80.046669,
+      "lat": 12.8525
+    }
+  },
+  {
+    "id": 6324621,
+    "name": "Powai",
+    "country": "IN",
+    "coord": {
+      "lon": 72.904709,
+      "lat": 19.1164
+    }
+  },
+  {
+    "id": 6619347,
+    "name": "Navi Mumbai",
+    "country": "IN",
+    "coord": {
+      "lon": 73.015823,
+      "lat": 19.03681
+    }
+  },
+  {
+    "id": 6941937,
+    "name": "Murudeshwara",
+    "country": "IN",
+    "coord": {
+      "lon": 74.484497,
+      "lat": 14.0943
+    }
+  },
+  {
+    "id": 6943660,
+    "name": "Shivaji Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.852631,
+      "lat": 18.53017
+    }
+  },
+  {
+    "id": 1263215,
+    "name": "Meerut",
+    "country": "IN",
+    "coord": {
+      "lon": 77.683327,
+      "lat": 28.91667
+    }
+  },
+  {
+    "id": 7279602,
+    "name": "Gautam Budh Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.330528,
+      "lat": 28.58075
+    }
+  },
+  {
+    "id": 6954929,
+    "name": "Greater Noida",
+    "country": "IN",
+    "coord": {
+      "lon": 77.536011,
+      "lat": 28.496149
+    }
+  },
+  {
+    "id": 6992326,
+    "name": "Mohali",
+    "country": "IN",
+    "coord": {
+      "lon": 76.722107,
+      "lat": 30.679951
+    }
+  },
+  {
+    "id": 7279595,
+    "name": "Pithampur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.696487,
+      "lat": 22.601971
+    }
+  },
+  {
+    "id": 7279597,
+    "name": "Barbil",
+    "country": "IN",
+    "coord": {
+      "lon": 85.643494,
+      "lat": 21.656851
+    }
+  },
+  {
+    "id": 7279599,
+    "name": "Airoli",
+    "country": "IN",
+    "coord": {
+      "lon": 72.996246,
+      "lat": 19.150961
+    }
+  },
+  {
+    "id": 7279600,
+    "name": "Aluva",
+    "country": "IN",
+    "coord": {
+      "lon": 76.351578,
+      "lat": 10.10764
+    }
+  },
+  {
+    "id": 7279734,
+    "name": "Kotkapura",
+    "country": "IN",
+    "coord": {
+      "lon": 74.832977,
+      "lat": 30.5819
+    }
+  },
+  {
+    "id": 7279735,
+    "name": "Muvattupuzha",
+    "country": "IN",
+    "coord": {
+      "lon": 76.573807,
+      "lat": 9.97985
+    }
+  },
+  {
+    "id": 7279739,
+    "name": "Perumbavoor",
+    "country": "IN",
+    "coord": {
+      "lon": 76.473663,
+      "lat": 10.10695
+    }
+  },
+  {
+    "id": 7279741,
+    "name": "Vapi",
+    "country": "IN",
+    "coord": {
+      "lon": 72.90493,
+      "lat": 20.37175
+    }
+  },
+  {
+    "id": 7279742,
+    "name": "Baddi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.791359,
+      "lat": 30.95783
+    }
+  },
+  {
+    "id": 7279746,
+    "name": "Noida",
+    "country": "IN",
+    "coord": {
+      "lon": 77.330002,
+      "lat": 28.58
+    }
+  },
+  {
+    "id": 7279747,
+    "name": "Bhiwadi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.860558,
+      "lat": 28.210239
+    }
+  },
+  {
+    "id": 7279752,
+    "name": "Mandideep",
+    "country": "IN",
+    "coord": {
+      "lon": 77.533279,
+      "lat": 23.081659
+    }
+  },
+  {
+    "id": 7279754,
+    "name": "Singrauli",
+    "country": "IN",
+    "coord": {
+      "lon": 82.675346,
+      "lat": 24.19973
+    }
+  },
+  {
+    "id": 7284803,
+    "name": "Birpara",
+    "country": "IN",
+    "coord": {
+      "lon": 89.14547,
+      "lat": 26.70421
+    }
+  },
+  {
+    "id": 7284820,
+    "name": "Jaigaon",
+    "country": "IN",
+    "coord": {
+      "lon": 89.37558,
+      "lat": 26.84766
+    }
+  },
+  {
+    "id": 7302805,
+    "name": "Akkarampalle",
+    "country": "IN",
+    "coord": {
+      "lon": 79.419998,
+      "lat": 13.65
+    }
+  },
+  {
+    "id": 7302806,
+    "name": "Bellampalli",
+    "country": "IN",
+    "coord": {
+      "lon": 79.492996,
+      "lat": 19.055771
+    }
+  },
+  {
+    "id": 7302808,
+    "name": "Chemmumiahpet",
+    "country": "IN",
+    "coord": {
+      "lon": 79.321289,
+      "lat": 15.89794
+    }
+  },
+  {
+    "id": 7302810,
+    "name": "Gaddi Annaram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.5242,
+      "lat": 17.366871
+    }
+  },
+  {
+    "id": 7302812,
+    "name": "Dasnapur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.512131,
+      "lat": 19.65399
+    }
+  },
+  {
+    "id": 7302825,
+    "name": "Kanuru",
+    "country": "IN",
+    "coord": {
+      "lon": 81.254639,
+      "lat": 16.285839
+    }
+  },
+  {
+    "id": 7302826,
+    "name": "Lal Bahadur Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.557571,
+      "lat": 17.347691
+    }
+  },
+  {
+    "id": 7302828,
+    "name": "Malkajgiri",
+    "country": "IN",
+    "coord": {
+      "lon": 78.526329,
+      "lat": 17.447809
+    }
+  },
+  {
+    "id": 7302829,
+    "name": "Mandamarri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.474747,
+      "lat": 18.965059
+    }
+  },
+  {
+    "id": 7302830,
+    "name": "Chinnachowk",
+    "country": "IN",
+    "coord": {
+      "lon": 78.835403,
+      "lat": 14.47516
+    }
   }
 ]
