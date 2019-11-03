@@ -10231,5 +10231,374 @@
       "lon": 87.933327,
       "lat": 26.116671
     }
+  },
+  {
+    "id": 1266509,
+    "name": "Kiratpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 29.51667
+    }
+  },
+  {
+    "id": 1266518,
+    "name": "Kinwat",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 19.633329
+    }
+  },
+  {
+    "id": 1266575,
+    "name": "Kichha",
+    "country": "IN",
+    "coord": {
+      "lon": 79.5,
+      "lat": 28.91667
+    }
+  },
+  {
+    "id": 1266596,
+    "name": "Khutar",
+    "country": "IN",
+    "coord": {
+      "lon": 80.283333,
+      "lat": 28.200001
+    }
+  },
+  {
+    "id": 1266607,
+    "name": "Khurja",
+    "country": "IN",
+    "coord": {
+      "lon": 77.849998,
+      "lat": 28.25
+    }
+  },
+  {
+    "id": 1266620,
+    "name": "Khurai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.331902,
+      "lat": 24.0436
+    }
+  },
+  {
+    "id": 1266622,
+    "name": "Khunti",
+    "country": "IN",
+    "coord": {
+      "lon": 85.283333,
+      "lat": 23.08333
+    }
+  },
+  {
+    "id": 1266649,
+    "name": "Khowai",
+    "country": "IN",
+    "coord": {
+      "lon": 91.633331,
+      "lat": 24.1
+    }
+  },
+  {
+    "id": 1266666,
+    "name": "Khopoli",
+    "country": "IN",
+    "coord": {
+      "lon": 73.333328,
+      "lat": 18.783331
+    }
+  },
+  {
+    "id": 1266710,
+    "name": "Khirkian",
+    "country": "IN",
+    "coord": {
+      "lon": 76.849998,
+      "lat": 22.16667
+    }
+  },
+  {
+    "id": 1266731,
+    "name": "Khilchipur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 24.033331
+    }
+  },
+  {
+    "id": 1266744,
+    "name": "Khetri",
+    "country": "IN",
+    "coord": {
+      "lon": 75.800003,
+      "lat": 27.98333
+    }
+  },
+  {
+    "id": 1266746,
+    "name": "Khetia",
+    "country": "IN",
+    "coord": {
+      "lon": 74.583328,
+      "lat": 21.66667
+    }
+  },
+  {
+    "id": 1266762,
+    "name": "Kheri",
+    "country": "IN",
+    "coord": {
+      "lon": 80.800003,
+      "lat": 27.9
+    }
+  },
+  {
+    "id": 1266774,
+    "name": "Kheralu",
+    "country": "IN",
+    "coord": {
+      "lon": 72.616669,
+      "lat": 23.883329
+    }
+  },
+  {
+    "id": 1266794,
+    "name": "Khekra",
+    "country": "IN",
+    "coord": {
+      "lon": 77.283333,
+      "lat": 28.866671
+    }
+  },
+  {
+    "id": 1266806,
+    "name": "Khed Brahma",
+    "country": "IN",
+    "coord": {
+      "lon": 73.050003,
+      "lat": 24.033331
+    }
+  },
+  {
+    "id": 1266809,
+    "name": "Kheda",
+    "country": "IN",
+    "coord": {
+      "lon": 72.683327,
+      "lat": 22.75
+    }
+  },
+  {
+    "id": 1266838,
+    "name": "Khatra",
+    "country": "IN",
+    "coord": {
+      "lon": 86.849998,
+      "lat": 22.98333
+    }
+  },
+  {
+    "id": 1266843,
+    "name": "Khatima",
+    "country": "IN",
+    "coord": {
+      "lon": 79.966667,
+      "lat": 28.91667
+    }
+  },
+  {
+    "id": 1266847,
+    "name": "Khategaon",
+    "country": "IN",
+    "coord": {
+      "lon": 76.916672,
+      "lat": 22.6
+    }
+  },
+  {
+    "id": 1266849,
+    "name": "Khatauli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 29.283331
+    }
+  },
+  {
+    "id": 1266862,
+    "name": "Kharupatia",
+    "country": "IN",
+    "coord": {
+      "lon": 92.133331,
+      "lat": 26.51667
+    }
+  },
+  {
+    "id": 1266872,
+    "name": "Kharsia",
+    "country": "IN",
+    "coord": {
+      "lon": 83.116669,
+      "lat": 21.966669
+    }
+  },
+  {
+    "id": 1266891,
+    "name": "Kharkhauda",
+    "country": "IN",
+    "coord": {
+      "lon": 76.849998,
+      "lat": 28.883329
+    }
+  },
+  {
+    "id": 1266928,
+    "name": "Khargon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.599998,
+      "lat": 21.816669
+    }
+  },
+  {
+    "id": 1266945,
+    "name": "Khardah",
+    "country": "IN",
+    "coord": {
+      "lon": 88.378059,
+      "lat": 22.718611
+    }
+  },
+  {
+    "id": 1266960,
+    "name": "Kharar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.647781,
+      "lat": 30.74444
+    }
+  },
+  {
+    "id": 1266966,
+    "name": "Kharakvasla",
+    "country": "IN",
+    "coord": {
+      "lon": 73.76667,
+      "lat": 18.433331
+    }
+  },
+  {
+    "id": 1266975,
+    "name": "Kharagpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.550003,
+      "lat": 25.116671
+    }
+  },
+  {
+    "id": 1267006,
+    "name": "Khapa",
+    "country": "IN",
+    "coord": {
+      "lon": 78.966667,
+      "lat": 21.433331
+    }
+  },
+  {
+    "id": 1267016,
+    "name": "Khanna",
+    "country": "IN",
+    "coord": {
+      "lon": 76.223061,
+      "lat": 30.704439
+    }
+  },
+  {
+    "id": 1267031,
+    "name": "Khandwa",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333328,
+      "lat": 21.83333
+    }
+  },
+  {
+    "id": 1267044,
+    "name": "Khandela",
+    "country": "IN",
+    "coord": {
+      "lon": 75.5,
+      "lat": 27.6
+    }
+  },
+  {
+    "id": 1267065,
+    "name": "Khanapur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.51667,
+      "lat": 15.63333
+    }
+  },
+  {
+    "id": 1267084,
+    "name": "Khamgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 20.683331
+    }
+  },
+  {
+    "id": 1267090,
+    "name": "Khambhat",
+    "country": "IN",
+    "coord": {
+      "lon": 72.616669,
+      "lat": 22.299999
+    }
+  },
+  {
+    "id": 1267097,
+    "name": "Khamaria",
+    "country": "IN",
+    "coord": {
+      "lon": 79.883331,
+      "lat": 23.216669
+    }
+  },
+  {
+    "id": 1267115,
+    "name": "Khalilabad",
+    "country": "IN",
+    "coord": {
+      "lon": 83.073608,
+      "lat": 26.775
+    }
+  },
+  {
+    "id": 1267173,
+    "name": "Khairagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.816673,
+      "lat": 26.950001
+    }
+  },
+  {
+    "id": 1267174,
+    "name": "Khairagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 80.966667,
+      "lat": 21.41667
+    }
   }
 ]
