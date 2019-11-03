@@ -10600,5 +10600,338 @@
       "lon": 80.966667,
       "lat": 21.41667
     }
+  },
+  {
+    "id": 1267175,
+    "name": "Khairabad",
+    "country": "IN",
+    "coord": {
+      "lon": 80.75,
+      "lat": 27.533331
+    }
+  },
+  {
+    "id": 1267182,
+    "name": "Khair",
+    "country": "IN",
+    "coord": {
+      "lon": 77.833328,
+      "lat": 27.950001
+    }
+  },
+  {
+    "id": 1267187,
+    "name": "Khagaul",
+    "country": "IN",
+    "coord": {
+      "lon": 85.050003,
+      "lat": 25.58333
+    }
+  },
+  {
+    "id": 1267189,
+    "name": "Khagaria",
+    "country": "IN",
+    "coord": {
+      "lon": 86.48333,
+      "lat": 25.5
+    }
+  },
+  {
+    "id": 1267195,
+    "name": "Khadki",
+    "country": "IN",
+    "coord": {
+      "lon": 73.866669,
+      "lat": 18.566669
+    }
+  },
+  {
+    "id": 1267202,
+    "name": "Khada",
+    "country": "IN",
+    "coord": {
+      "lon": 83.883331,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1267203,
+    "name": "Khachrod",
+    "country": "IN",
+    "coord": {
+      "lon": 75.283333,
+      "lat": 23.41667
+    }
+  },
+  {
+    "id": 1267222,
+    "name": "Kesinga",
+    "country": "IN",
+    "coord": {
+      "lon": 83.23333,
+      "lat": 20.200001
+    }
+  },
+  {
+    "id": 1267226,
+    "name": "Keshorai Patan",
+    "country": "IN",
+    "coord": {
+      "lon": 75.933327,
+      "lat": 25.299999
+    }
+  },
+  {
+    "id": 1267227,
+    "name": "Keshod",
+    "country": "IN",
+    "coord": {
+      "lon": 70.25,
+      "lat": 21.299999
+    }
+  },
+  {
+    "id": 1267239,
+    "name": "Kerur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.566673,
+      "lat": 16.01667
+    }
+  },
+  {
+    "id": 1267290,
+    "name": "Kenda",
+    "country": "IN",
+    "coord": {
+      "lon": 86.533333,
+      "lat": 23.200001
+    }
+  },
+  {
+    "id": 1267297,
+    "name": "Kemri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.216667,
+      "lat": 28.816669
+    }
+  },
+  {
+    "id": 1267360,
+    "name": "Kayankulam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 9.18333
+    }
+  },
+  {
+    "id": 1267361,
+    "name": "Kayalpattinam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.116669,
+      "lat": 8.56667
+    }
+  },
+  {
+    "id": 1267369,
+    "name": "Kawardha",
+    "country": "IN",
+    "coord": {
+      "lon": 81.25,
+      "lat": 22.01667
+    }
+  },
+  {
+    "id": 1267394,
+    "name": "Kavali",
+    "country": "IN",
+    "coord": {
+      "lon": 79.98333,
+      "lat": 14.91667
+    }
+  },
+  {
+    "id": 1267433,
+    "name": "Kattivakkam",
+    "country": "IN",
+    "coord": {
+      "lon": 80.316673,
+      "lat": 13.21667
+    }
+  },
+  {
+    "id": 1267439,
+    "name": "Katras",
+    "country": "IN",
+    "coord": {
+      "lon": 86.283333,
+      "lat": 23.799999
+    }
+  },
+  {
+    "id": 1267456,
+    "name": "Katpadi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.133331,
+      "lat": 12.98333
+    }
+  },
+  {
+    "id": 1267457,
+    "name": "Katoya",
+    "country": "IN",
+    "coord": {
+      "lon": 88.133331,
+      "lat": 23.65
+    }
+  },
+  {
+    "id": 1267461,
+    "name": "Katol",
+    "country": "IN",
+    "coord": {
+      "lon": 78.583328,
+      "lat": 21.26667
+    }
+  },
+  {
+    "id": 1267480,
+    "name": "Katihar",
+    "country": "IN",
+    "coord": {
+      "lon": 87.583328,
+      "lat": 25.533331
+    }
+  },
+  {
+    "id": 1267486,
+    "name": "Kathua",
+    "country": "IN",
+    "coord": {
+      "lon": 75.51667,
+      "lat": 32.366669
+    }
+  },
+  {
+    "id": 1267492,
+    "name": "Kathor",
+    "country": "IN",
+    "coord": {
+      "lon": 72.933327,
+      "lat": 21.299999
+    }
+  },
+  {
+    "id": 1267517,
+    "name": "Katghora",
+    "country": "IN",
+    "coord": {
+      "lon": 82.550003,
+      "lat": 22.5
+    }
+  },
+  {
+    "id": 1267537,
+    "name": "Katangi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.783333,
+      "lat": 23.450001
+    }
+  },
+  {
+    "id": 1267538,
+    "name": "Katangi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.783333,
+      "lat": 21.783331
+    }
+  },
+  {
+    "id": 1267558,
+    "name": "Kasrawad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.599998,
+      "lat": 22.133329
+    }
+  },
+  {
+    "id": 1267588,
+    "name": "Kasganj",
+    "country": "IN",
+    "coord": {
+      "lon": 78.650002,
+      "lat": 27.816669
+    }
+  },
+  {
+    "id": 1267669,
+    "name": "Kartarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.499718,
+      "lat": 31.440001
+    }
+  },
+  {
+    "id": 1267675,
+    "name": "Karsiyang",
+    "country": "IN",
+    "coord": {
+      "lon": 88.27729,
+      "lat": 26.882509
+    }
+  },
+  {
+    "id": 1267716,
+    "name": "Karmala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.199997,
+      "lat": 18.41667
+    }
+  },
+  {
+    "id": 1267739,
+    "name": "Karkal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.98333,
+      "lat": 13.2
+    }
+  },
+  {
+    "id": 1267742,
+    "name": "Karjat",
+    "country": "IN",
+    "coord": {
+      "lon": 73.333328,
+      "lat": 18.91667
+    }
+  },
+  {
+    "id": 1267755,
+    "name": "Karimnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.150002,
+      "lat": 18.433331
+    }
+  },
+  {
+    "id": 1267758,
+    "name": "Karimganj",
+    "country": "IN",
+    "coord": {
+      "lon": 92.349998,
+      "lat": 24.866671
+    }
   }
 ]
