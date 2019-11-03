@@ -10933,5 +10933,185 @@
       "lon": 92.349998,
       "lat": 24.866671
     }
+  },
+  {
+    "id": 1267772,
+    "name": "Karhal",
+    "country": "IN",
+    "coord": {
+      "lon": 78.941391,
+      "lat": 27.00028
+    }
+  },
+  {
+    "id": 1267786,
+    "name": "Karera",
+    "country": "IN",
+    "coord": {
+      "lon": 78.150002,
+      "lat": 25.466669
+    }
+  },
+  {
+    "id": 1267794,
+    "name": "Kareli",
+    "country": "IN",
+    "coord": {
+      "lon": 79.066673,
+      "lat": 22.91667
+    }
+  },
+  {
+    "id": 1267819,
+    "name": "Karauli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 26.5
+    }
+  },
+  {
+    "id": 1267853,
+    "name": "Karanja",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 20.48333
+    }
+  },
+  {
+    "id": 1267862,
+    "name": "Karamsad",
+    "country": "IN",
+    "coord": {
+      "lon": 72.900002,
+      "lat": 22.549999
+    }
+  },
+  {
+    "id": 1267869,
+    "name": "Karamadai",
+    "country": "IN",
+    "coord": {
+      "lon": 76.960091,
+      "lat": 11.24058
+    }
+  },
+  {
+    "id": 1267885,
+    "name": "Karaikkudi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.783333,
+      "lat": 10.06667
+    }
+  },
+  {
+    "id": 1267887,
+    "name": "karaikal",
+    "country": "IN",
+    "coord": {
+      "lon": 79.833328,
+      "lat": 10.91667
+    }
+  },
+  {
+    "id": 1267904,
+    "name": "Karad",
+    "country": "IN",
+    "coord": {
+      "lon": 74.199997,
+      "lat": 17.283331
+    }
+  },
+  {
+    "id": 1267911,
+    "name": "Kapurthala",
+    "country": "IN",
+    "coord": {
+      "lon": 75.38472,
+      "lat": 31.37944
+    }
+  },
+  {
+    "id": 1267939,
+    "name": "Kapadvanj",
+    "country": "IN",
+    "coord": {
+      "lon": 73.066673,
+      "lat": 23.01667
+    }
+  },
+  {
+    "id": 1267972,
+    "name": "Kanth",
+    "country": "IN",
+    "coord": {
+      "lon": 78.633331,
+      "lat": 29.066669
+    }
+  },
+  {
+    "id": 1267978,
+    "name": "Kantabanji",
+    "country": "IN",
+    "coord": {
+      "lon": 82.916672,
+      "lat": 20.48333
+    }
+  },
+  {
+    "id": 1267979,
+    "name": "Kant",
+    "country": "IN",
+    "coord": {
+      "lon": 79.800003,
+      "lat": 27.799999
+    }
+  },
+  {
+    "id": 1268007,
+    "name": "Kannod",
+    "country": "IN",
+    "coord": {
+      "lon": 76.73333,
+      "lat": 22.66667
+    }
+  },
+  {
+    "id": 1268008,
+    "name": "Kanniyakumari",
+    "country": "IN",
+    "coord": {
+      "lon": 77.566673,
+      "lat": 8.08333
+    }
+  },
+  {
+    "id": 1268011,
+    "name": "Kannauj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.921997,
+      "lat": 27.0546
+    }
+  },
+  {
+    "id": 1268015,
+    "name": "Kannangad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.106323,
+      "lat": 12.30814
+    }
+  },
+  {
+    "id": 1268020,
+    "name": "Kannad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.133331,
+      "lat": 20.26667
+    }
   }
 ]
