@@ -8242,5 +8242,203 @@
       "lon": 75.966667,
       "lat": 11.15
     }
+  },
+  {
+    "id": 1269690,
+    "name": "Irugur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.066673,
+      "lat": 11.01667
+    }
+  },
+  {
+    "id": 1271613,
+    "name": "Gannavaram",
+    "country": "IN",
+    "coord": {
+      "lon": 80.800003,
+      "lat": 16.533331
+    }
+  },
+  {
+    "id": 6695241,
+    "name": "BIAL 2 Wheeler Parking",
+    "country": "IN",
+    "coord": {
+      "lon": 77.706032,
+      "lat": 13.19801
+    }
+  },
+  {
+    "id": 1266320,
+    "name": "Kolagallu",
+    "country": "IN",
+    "coord": {
+      "lon": 76.866669,
+      "lat": 15.2
+    }
+  },
+  {
+    "id": 6695208,
+    "name": "Alok Mishra",
+    "country": "IN",
+    "coord": {
+      "lon": 80.374107,
+      "lat": 26.4196
+    }
+  },
+  {
+    "id": 8030622,
+    "name": "Jagatpura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.825577,
+      "lat": 26.837749
+    }
+  },
+  {
+    "id": 8051230,
+    "name": "Ratanada",
+    "country": "IN",
+    "coord": {
+      "lon": 73.029297,
+      "lat": 26.28097
+    }
+  },
+  {
+    "id": 1268831,
+    "name": "Jonāpura",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 26.299999
+    }
+  },
+  {
+    "id": 1260788,
+    "name": "Pālam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.099998,
+      "lat": 28.566669
+    }
+  },
+  {
+    "id": 1266019,
+    "name": "Kot Bhai",
+    "country": "IN",
+    "coord": {
+      "lon": 74.699997,
+      "lat": 30.283331
+    }
+  },
+  {
+    "id": 1259189,
+    "name": "Pura Raghunāth",
+    "country": "IN",
+    "coord": {
+      "lon": 82.866669,
+      "lat": 25.450001
+    }
+  },
+  {
+    "id": 1258903,
+    "name": "Raja Sansi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.797783,
+      "lat": 31.71917
+    }
+  },
+  {
+    "id": 1255588,
+    "name": "Sūbedārganj",
+    "country": "IN",
+    "coord": {
+      "lon": 81.800003,
+      "lat": 25.433331
+    }
+  },
+  {
+    "id": 1277247,
+    "name": "Banposh",
+    "country": "IN",
+    "coord": {
+      "lon": 84.800003,
+      "lat": 22.25
+    }
+  },
+  {
+    "id": 1270210,
+    "name": "Hatiā",
+    "country": "IN",
+    "coord": {
+      "lon": 85.300003,
+      "lat": 23.299999
+    }
+  },
+  {
+    "id": 1262920,
+    "name": "Mohanbāri",
+    "country": "IN",
+    "coord": {
+      "lon": 95.033333,
+      "lat": 27.450001
+    }
+  },
+  {
+    "id": 1272576,
+    "name": "Diju",
+    "country": "IN",
+    "coord": {
+      "lon": 94.050003,
+      "lat": 27.283331
+    }
+  },
+  {
+    "id": 1255784,
+    "name": "Sonari Town",
+    "country": "IN",
+    "coord": {
+      "lon": 86.166672,
+      "lat": 22.816669
+    }
+  },
+  {
+    "id": 1254113,
+    "name": "Tulihal",
+    "country": "IN",
+    "coord": {
+      "lon": 93.883331,
+      "lat": 24.75
+    }
+  },
+  {
+    "id": 1260769,
+    "name": "Palasbari",
+    "country": "IN",
+    "coord": {
+      "lon": 91.548607,
+      "lat": 26.13611
+    }
+  },
+  {
+    "id": 1271454,
+    "name": "Gauripur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.449997,
+      "lat": 22.65
+    }
+  },
+  {
+    "id": 1277897,
+    "name": "Baghdogra",
+    "country": "IN",
+    "coord": {
+      "lon": 88.316673,
+      "lat": 26.700001
+    }
   }
 ]
