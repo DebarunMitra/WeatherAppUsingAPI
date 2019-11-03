@@ -12130,5 +12130,806 @@
       "lon": 75.566673,
       "lat": 21.01667
     }
+  },
+  {
+    "id": 1269413,
+    "name": "Jaleshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 87.216667,
+      "lat": 21.816669
+    }
+  },
+  {
+    "id": 1269415,
+    "name": "Jalesar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.316673,
+      "lat": 27.48333
+    }
+  },
+  {
+    "id": 1269422,
+    "name": "Jalaun",
+    "country": "IN",
+    "coord": {
+      "lon": 79.336601,
+      "lat": 26.1451
+    }
+  },
+  {
+    "id": 1269435,
+    "name": "Jalalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.73333,
+      "lat": 26.316669
+    }
+  },
+  {
+    "id": 1269441,
+    "name": "Jalali",
+    "country": "IN",
+    "coord": {
+      "lon": 78.26667,
+      "lat": 27.866671
+    }
+  },
+  {
+    "id": 1269445,
+    "name": "Jalalabad",
+    "country": "IN",
+    "coord": {
+      "lon": 74.25,
+      "lat": 30.616671
+    }
+  },
+  {
+    "id": 1269446,
+    "name": "Jalalabad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.438332,
+      "lat": 29.61861
+    }
+  },
+  {
+    "id": 1269488,
+    "name": "Jaito",
+    "country": "IN",
+    "coord": {
+      "lon": 74.883331,
+      "lat": 30.466669
+    }
+  },
+  {
+    "id": 1269498,
+    "name": "Jaitaran",
+    "country": "IN",
+    "coord": {
+      "lon": 73.936394,
+      "lat": 26.20306
+    }
+  },
+  {
+    "id": 1269502,
+    "name": "Jaisingpur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.566673,
+      "lat": 16.799999
+    }
+  },
+  {
+    "id": 1269509,
+    "name": "Jais",
+    "country": "IN",
+    "coord": {
+      "lon": 81.533333,
+      "lat": 26.25
+    }
+  },
+  {
+    "id": 1269545,
+    "name": "Jahazpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.283333,
+      "lat": 25.616671
+    }
+  },
+  {
+    "id": 1269551,
+    "name": "Jahangirabad",
+    "country": "IN",
+    "coord": {
+      "lon": 78.099998,
+      "lat": 28.41667
+    }
+  },
+  {
+    "id": 1269557,
+    "name": "Jahanabad",
+    "country": "IN",
+    "coord": {
+      "lon": 84.98333,
+      "lat": 25.216669
+    }
+  },
+  {
+    "id": 1269562,
+    "name": "Jagtial",
+    "country": "IN",
+    "coord": {
+      "lon": 78.933327,
+      "lat": 18.799999
+    }
+  },
+  {
+    "id": 1269564,
+    "name": "Jagraon",
+    "country": "IN",
+    "coord": {
+      "lon": 75.48333,
+      "lat": 30.783331
+    }
+  },
+  {
+    "id": 1269570,
+    "name": "Jaggayyapeta",
+    "country": "IN",
+    "coord": {
+      "lon": 80.099998,
+      "lat": 16.9
+    }
+  },
+  {
+    "id": 1269573,
+    "name": "Jagdispur",
+    "country": "IN",
+    "coord": {
+      "lon": 84.416672,
+      "lat": 25.48333
+    }
+  },
+  {
+    "id": 1269578,
+    "name": "Jagdalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.033333,
+      "lat": 19.066669
+    }
+  },
+  {
+    "id": 1269602,
+    "name": "Jagalur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 14.53333
+    }
+  },
+  {
+    "id": 1269605,
+    "name": "Jagadhri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.300003,
+      "lat": 30.16667
+    }
+  },
+  {
+    "id": 1269646,
+    "name": "Itimadpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 27.25
+    }
+  },
+  {
+    "id": 1269653,
+    "name": "Itarsi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.75,
+      "lat": 22.616671
+    }
+  },
+  {
+    "id": 1269655,
+    "name": "Itanagar",
+    "country": "IN",
+    "coord": {
+      "lon": 93.616669,
+      "lat": 27.1
+    }
+  },
+  {
+    "id": 1269666,
+    "name": "Islampur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.199997,
+      "lat": 25.15
+    }
+  },
+  {
+    "id": 1269693,
+    "name": "Irinjalakuda",
+    "country": "IN",
+    "coord": {
+      "lon": 76.23333,
+      "lat": 10.33333
+    }
+  },
+  {
+    "id": 1269731,
+    "name": "Indri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.071114,
+      "lat": 29.879999
+    }
+  },
+  {
+    "id": 1269752,
+    "name": "Indergarh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.672401,
+      "lat": 26.9352
+    }
+  },
+  {
+    "id": 1269761,
+    "name": "Indapur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.25,
+      "lat": 18.299999
+    }
+  },
+  {
+    "id": 1269784,
+    "name": "Ilkal",
+    "country": "IN",
+    "coord": {
+      "lon": 76.133331,
+      "lat": 15.96667
+    }
+  },
+  {
+    "id": 1269810,
+    "name": "Igatpuri",
+    "country": "IN",
+    "coord": {
+      "lon": 73.550003,
+      "lat": 19.700001
+    }
+  },
+  {
+    "id": 1269819,
+    "name": "Idappadi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.849998,
+      "lat": 11.58333
+    }
+  },
+  {
+    "id": 1269827,
+    "name": "Ichchapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 84.699997,
+      "lat": 19.116671
+    }
+  },
+  {
+    "id": 1269834,
+    "name": "Ichalkaranji",
+    "country": "IN",
+    "coord": {
+      "lon": 74.466667,
+      "lat": 16.700001
+    }
+  },
+  {
+    "id": 1269849,
+    "name": "Huvinabadgalli",
+    "country": "IN",
+    "coord": {
+      "lon": 75.949997,
+      "lat": 15.01667
+    }
+  },
+  {
+    "id": 1269862,
+    "name": "Husainabad",
+    "country": "IN",
+    "coord": {
+      "lon": 84.01667,
+      "lat": 24.533331
+    }
+  },
+  {
+    "id": 1269876,
+    "name": "Hungund",
+    "country": "IN",
+    "coord": {
+      "lon": 76.050003,
+      "lat": 16.066669
+    }
+  },
+  {
+    "id": 1269908,
+    "name": "Hukeri",
+    "country": "IN",
+    "coord": {
+      "lon": 74.599998,
+      "lat": 16.23333
+    }
+  },
+  {
+    "id": 1269927,
+    "name": "Howli",
+    "country": "IN",
+    "coord": {
+      "lon": 90.966667,
+      "lat": 26.433331
+    }
+  },
+  {
+    "id": 1269934,
+    "name": "Hosur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.816673,
+      "lat": 12.71667
+    }
+  },
+  {
+    "id": 1269936,
+    "name": "Hoskote",
+    "country": "IN",
+    "coord": {
+      "lon": 77.798332,
+      "lat": 13.06694
+    }
+  },
+  {
+    "id": 1269937,
+    "name": "Hoshiarpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.917221,
+      "lat": 31.532221
+    }
+  },
+  {
+    "id": 1269943,
+    "name": "Hosdurga",
+    "country": "IN",
+    "coord": {
+      "lon": 76.28611,
+      "lat": 13.79806
+    }
+  },
+  {
+    "id": 1269970,
+    "name": "Honnali",
+    "country": "IN",
+    "coord": {
+      "lon": 75.666672,
+      "lat": 14.25
+    }
+  },
+  {
+    "id": 1269976,
+    "name": "Honavar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.449997,
+      "lat": 14.28333
+    }
+  },
+  {
+    "id": 1269979,
+    "name": "Homnabad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.133331,
+      "lat": 17.76667
+    }
+  },
+  {
+    "id": 1269985,
+    "name": "Hole Narsipur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.243057,
+      "lat": 12.78278
+    }
+  },
+  {
+    "id": 1269990,
+    "name": "Holalkere",
+    "country": "IN",
+    "coord": {
+      "lon": 76.183327,
+      "lat": 14.03333
+    }
+  },
+  {
+    "id": 1269993,
+    "name": "Hojai",
+    "country": "IN",
+    "coord": {
+      "lon": 92.866669,
+      "lat": 26
+    }
+  },
+  {
+    "id": 1270021,
+    "name": "Hisua",
+    "country": "IN",
+    "coord": {
+      "lon": 85.416672,
+      "lat": 24.83333
+    }
+  },
+  {
+    "id": 1270032,
+    "name": "Hiriyur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.619171,
+      "lat": 13.94556
+    }
+  },
+  {
+    "id": 1270036,
+    "name": "Hirekerur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.383331,
+      "lat": 14.46667
+    }
+  },
+  {
+    "id": 1270059,
+    "name": "Hirakud",
+    "country": "IN",
+    "coord": {
+      "lon": 83.866669,
+      "lat": 21.51667
+    }
+  },
+  {
+    "id": 1270066,
+    "name": "Hinjilikatu",
+    "country": "IN",
+    "coord": {
+      "lon": 84.75,
+      "lat": 19.48333
+    }
+  },
+  {
+    "id": 1270072,
+    "name": "Hingoli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.150002,
+      "lat": 19.716669
+    }
+  },
+  {
+    "id": 1270077,
+    "name": "Hinganghat",
+    "country": "IN",
+    "coord": {
+      "lon": 78.833328,
+      "lat": 20.566669
+    }
+  },
+  {
+    "id": 1270079,
+    "name": "Hindupur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.493332,
+      "lat": 13.82889
+    }
+  },
+  {
+    "id": 1270082,
+    "name": "Hindoria",
+    "country": "IN",
+    "coord": {
+      "lon": 79.566673,
+      "lat": 23.9
+    }
+  },
+  {
+    "id": 1270090,
+    "name": "Hindaun",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 26.716669
+    }
+  },
+  {
+    "id": 1270099,
+    "name": "Himatnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 72.949997,
+      "lat": 23.6
+    }
+  },
+  {
+    "id": 1270102,
+    "name": "Hilsa",
+    "country": "IN",
+    "coord": {
+      "lon": 85.283333,
+      "lat": 25.316669
+    }
+  },
+  {
+    "id": 1270185,
+    "name": "Hatta",
+    "country": "IN",
+    "coord": {
+      "lon": 79.599998,
+      "lat": 24.116671
+    }
+  },
+  {
+    "id": 1270245,
+    "name": "Hasimara",
+    "country": "IN",
+    "coord": {
+      "lon": 89.351891,
+      "lat": 26.74704
+    }
+  },
+  {
+    "id": 1270251,
+    "name": "Hasanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.283333,
+      "lat": 28.716669
+    }
+  },
+  {
+    "id": 1270265,
+    "name": "Harur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.5,
+      "lat": 12.06667
+    }
+  },
+  {
+    "id": 1270271,
+    "name": "Harsud",
+    "country": "IN",
+    "coord": {
+      "lon": 76.73333,
+      "lat": 22.1
+    }
+  },
+  {
+    "id": 1270287,
+    "name": "Harpanahalli",
+    "country": "IN",
+    "coord": {
+      "lon": 75.98333,
+      "lat": 14.8
+    }
+  },
+  {
+    "id": 1270291,
+    "name": "Harpalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.334702,
+      "lat": 25.288401
+    }
+  },
+  {
+    "id": 1270343,
+    "name": "Harij",
+    "country": "IN",
+    "coord": {
+      "lon": 71.900002,
+      "lat": 23.700001
+    }
+  },
+  {
+    "id": 1270349,
+    "name": "Harihar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.800003,
+      "lat": 14.51667
+    }
+  },
+  {
+    "id": 1270375,
+    "name": "Harda",
+    "country": "IN",
+    "coord": {
+      "lon": 77.099998,
+      "lat": 22.33333
+    }
+  },
+  {
+    "id": 1270393,
+    "name": "Hapur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.783333,
+      "lat": 28.716669
+    }
+  },
+  {
+    "id": 1270407,
+    "name": "Hanumangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 74.316673,
+      "lat": 29.58333
+    }
+  },
+  {
+    "id": 1270417,
+    "name": "Hansi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 29.1
+    }
+  },
+  {
+    "id": 1270435,
+    "name": "Hangal",
+    "country": "IN",
+    "coord": {
+      "lon": 75.133331,
+      "lat": 14.76667
+    }
+  },
+  {
+    "id": 1270437,
+    "name": "Handia",
+    "country": "IN",
+    "coord": {
+      "lon": 82.183327,
+      "lat": 25.383329
+    }
+  },
+  {
+    "id": 1270454,
+    "name": "Hamirpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.51667,
+      "lat": 31.683331
+    }
+  },
+  {
+    "id": 1270455,
+    "name": "Hamirpur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.150002,
+      "lat": 25.950001
+    }
+  },
+  {
+    "id": 1270466,
+    "name": "Halvad",
+    "country": "IN",
+    "coord": {
+      "lon": 71.183327,
+      "lat": 23.01667
+    }
+  },
+  {
+    "id": 1270474,
+    "name": "Halol",
+    "country": "IN",
+    "coord": {
+      "lon": 73.466667,
+      "lat": 22.5
+    }
+  },
+  {
+    "id": 1270482,
+    "name": "Haliyal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.76667,
+      "lat": 15.33333
+    }
+  },
+  {
+    "id": 1270484,
+    "name": "Halisahar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.419441,
+      "lat": 22.94972
+    }
+  },
+  {
+    "id": 1270509,
+    "name": "Haldaur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.283333,
+      "lat": 29.299999
+    }
+  },
+  {
+    "id": 1270522,
+    "name": "Hajo",
+    "country": "IN",
+    "coord": {
+      "lon": 91.533333,
+      "lat": 26.25
+    }
+  },
+  {
+    "id": 1270525,
+    "name": "Hajipur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.216667,
+      "lat": 25.683331
+    }
+  },
+  {
+    "id": 1270530,
+    "name": "Hailakandi",
+    "country": "IN",
+    "coord": {
+      "lon": 92.566673,
+      "lat": 24.683331
+    }
+  },
+  {
+    "id": 1270543,
+    "name": "Haflong",
+    "country": "IN",
+    "coord": {
+      "lon": 93.033333,
+      "lat": 25.183331
+    }
+  },
+  {
+    "id": 1270554,
+    "name": "Hadgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 77.666672,
+      "lat": 19.5
+    }
+  },
+  {
+    "id": 1270568,
+    "name": "Habra",
+    "country": "IN",
+    "coord": {
+      "lon": 88.627502,
+      "lat": 22.83444
+    }
   }
 ]
