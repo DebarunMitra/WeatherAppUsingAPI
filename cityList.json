@@ -8683,5 +8683,239 @@
       "lon": 77.050003,
       "lat": 20.683331
     }
+  },
+  {
+    "id": 1253102,
+    "name": "Vishakhapatnam",
+    "country": "IN",
+    "coord": {
+      "lon": 83.209251,
+      "lat": 17.690041
+    }
+  },
+  {
+    "id": 1255364,
+    "name": "Surat",
+    "country": "IN",
+    "coord": {
+      "lon": 72.833328,
+      "lat": 21.16667
+    }
+  },
+  {
+    "id": 1255634,
+    "name": "Srinagar",
+    "country": "IN",
+    "coord": {
+      "lon": 74.816673,
+      "lat": 34.083328
+    }
+  },
+  {
+    "id": 1263752,
+    "name": "Mangrol",
+    "country": "IN",
+    "coord": {
+      "lon": 70.116669,
+      "lat": 21.116671
+    }
+  },
+  {
+    "id": 1263761,
+    "name": "Manglaur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.866669,
+      "lat": 29.799999
+    }
+  },
+  {
+    "id": 1263797,
+    "name": "Mangalagiri",
+    "country": "IN",
+    "coord": {
+      "lon": 80.550003,
+      "lat": 16.433331
+    }
+  },
+  {
+    "id": 1263807,
+    "name": "Maner",
+    "country": "IN",
+    "coord": {
+      "lon": 84.883331,
+      "lat": 25.65
+    }
+  },
+  {
+    "id": 1263824,
+    "name": "Mandvi",
+    "country": "IN",
+    "coord": {
+      "lon": 69.366669,
+      "lat": 22.83333
+    }
+  },
+  {
+    "id": 1263834,
+    "name": "Mandsaur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.066673,
+      "lat": 24.066669
+    }
+  },
+  {
+    "id": 1263879,
+    "name": "Mandawar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.133331,
+      "lat": 29.5
+    }
+  },
+  {
+    "id": 1263898,
+    "name": "Mandapeta",
+    "country": "IN",
+    "coord": {
+      "lon": 81.933327,
+      "lat": 16.866671
+    }
+  },
+  {
+    "id": 1263900,
+    "name": "Mandapam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.116669,
+      "lat": 9.28333
+    }
+  },
+  {
+    "id": 1263911,
+    "name": "Mandalgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 75.099998,
+      "lat": 25.200001
+    }
+  },
+  {
+    "id": 1263936,
+    "name": "Mancheral",
+    "country": "IN",
+    "coord": {
+      "lon": 79.433327,
+      "lat": 18.866671
+    }
+  },
+  {
+    "id": 1263940,
+    "name": "Manawar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.083328,
+      "lat": 22.23333
+    }
+  },
+  {
+    "id": 1263943,
+    "name": "Manavadar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.133331,
+      "lat": 21.5
+    }
+  },
+  {
+    "id": 1263949,
+    "name": "Manasa",
+    "country": "IN",
+    "coord": {
+      "lon": 75.268707,
+      "lat": 24.483709
+    }
+  },
+  {
+    "id": 1263952,
+    "name": "Manapparai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.416672,
+      "lat": 10.6
+    }
+  },
+  {
+    "id": 1263965,
+    "name": "Manamadurai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.48333,
+      "lat": 9.7
+    }
+  },
+  {
+    "id": 1263968,
+    "name": "Manali",
+    "country": "IN",
+    "coord": {
+      "lon": 80.26667,
+      "lat": 13.16667
+    }
+  },
+  {
+    "id": 1264007,
+    "name": "Malvan",
+    "country": "IN",
+    "coord": {
+      "lon": 73.466667,
+      "lat": 16.066669
+    }
+  },
+  {
+    "id": 1264010,
+    "name": "Malur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.937782,
+      "lat": 13.0075
+    }
+  },
+  {
+    "id": 1264032,
+    "name": "Malpura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.383331,
+      "lat": 26.283331
+    }
+  },
+  {
+    "id": 1264037,
+    "name": "Malpe",
+    "country": "IN",
+    "coord": {
+      "lon": 74.716667,
+      "lat": 13.35
+    }
+  },
+  {
+    "id": 1264047,
+    "name": "Mallasamudram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.033333,
+      "lat": 11.48333
+    }
+  },
+  {
+    "id": 1264071,
+    "name": "Malkapur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.199997,
+      "lat": 20.883329
+    }
   }
 ]
