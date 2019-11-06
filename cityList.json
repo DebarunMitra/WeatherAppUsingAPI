@@ -21391,5 +21391,185 @@
       "lon": 74.566673,
       "lat": 34.166672
     }
+  },
+  {
+    "id": 1260064,
+    "name": "Patrasaer",
+    "country": "IN",
+    "coord": {
+      "lon": 87.51667,
+      "lat": 23.216669
+    }
+  },
+  {
+    "id": 1260104,
+    "name": "Patiali",
+    "country": "IN",
+    "coord": {
+      "lon": 79.01667,
+      "lat": 27.716669
+    }
+  },
+  {
+    "id": 1260174,
+    "name": "Patan",
+    "country": "IN",
+    "coord": {
+      "lon": 79.699997,
+      "lat": 23.299999
+    }
+  },
+  {
+    "id": 1260176,
+    "name": "Patan",
+    "country": "IN",
+    "coord": {
+      "lon": 81.533333,
+      "lat": 21.033331
+    }
+  },
+  {
+    "id": 1260177,
+    "name": "Patan",
+    "country": "IN",
+    "coord": {
+      "lon": 73.900002,
+      "lat": 17.366671
+    }
+  },
+  {
+    "id": 1260232,
+    "name": "Partapur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.166672,
+      "lat": 23.6
+    }
+  },
+  {
+    "id": 1260249,
+    "name": "Parshadepur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.51667,
+      "lat": 26.08333
+    }
+  },
+  {
+    "id": 1260275,
+    "name": "Parol",
+    "country": "IN",
+    "coord": {
+      "lon": 75.433327,
+      "lat": 32.349998
+    }
+  },
+  {
+    "id": 1260281,
+    "name": "Parnera",
+    "country": "IN",
+    "coord": {
+      "lon": 72.949997,
+      "lat": 20.549999
+    }
+  },
+  {
+    "id": 1260314,
+    "name": "Parichha",
+    "country": "IN",
+    "coord": {
+      "lon": 78.75,
+      "lat": 25.51667
+    }
+  },
+  {
+    "id": 1260407,
+    "name": "Papparappatti",
+    "country": "IN",
+    "coord": {
+      "lon": 78.066673,
+      "lat": 12.21667
+    }
+  },
+  {
+    "id": 1260410,
+    "name": "Papireddippatti",
+    "country": "IN",
+    "coord": {
+      "lon": 78.368652,
+      "lat": 11.91774
+    }
+  },
+  {
+    "id": 1260447,
+    "name": "Pansemal",
+    "country": "IN",
+    "coord": {
+      "lon": 74.699997,
+      "lat": 21.65
+    }
+  },
+  {
+    "id": 1260488,
+    "name": "Panhala",
+    "country": "IN",
+    "coord": {
+      "lon": 74.116669,
+      "lat": 16.816669
+    }
+  },
+  {
+    "id": 1260537,
+    "name": "Pandoh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.050003,
+      "lat": 31.683331
+    }
+  },
+  {
+    "id": 1260548,
+    "name": "Pandhana",
+    "country": "IN",
+    "coord": {
+      "lon": 76.216667,
+      "lat": 21.700001
+    }
+  },
+  {
+    "id": 1260556,
+    "name": "Pandaria",
+    "country": "IN",
+    "coord": {
+      "lon": 81.416672,
+      "lat": 22.23333
+    }
+  },
+  {
+    "id": 1260577,
+    "name": "Panchgani",
+    "country": "IN",
+    "coord": {
+      "lon": 73.816673,
+      "lat": 17.91667
+    }
+  },
+  {
+    "id": 1260600,
+    "name": "Panara",
+    "country": "IN",
+    "coord": {
+      "lon": 78.550003,
+      "lat": 22.066669
+    }
+  },
+  {
+    "id": 1260683,
+    "name": "Pallipattu",
+    "country": "IN",
+    "coord": {
+      "lon": 79.444893,
+      "lat": 13.3386
+    }
   }
 ]
