@@ -19510,5 +19510,122 @@
       "lon": 80.080833,
       "lat": 12.89278
     }
+  },
+  {
+    "id": 1253471,
+    "name": "Valpoy",
+    "country": "IN",
+    "coord": {
+      "lon": 74.133331,
+      "lat": 15.53333
+    }
+  },
+  {
+    "id": 1253481,
+    "name": "Vallam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.083328,
+      "lat": 10.71667
+    }
+  },
+  {
+    "id": 1253490,
+    "name": "Valavanur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.58239,
+      "lat": 11.92094
+    }
+  },
+  {
+    "id": 1253500,
+    "name": "Valapattanam",
+    "country": "IN",
+    "coord": {
+      "lon": 75.366669,
+      "lat": 11.9
+    }
+  },
+  {
+    "id": 1253504,
+    "name": "Valangaiman",
+    "country": "IN",
+    "coord": {
+      "lon": 79.393219,
+      "lat": 10.89012
+    }
+  },
+  {
+    "id": 1253559,
+    "name": "Vaghodia",
+    "country": "IN",
+    "coord": {
+      "lon": 73.383331,
+      "lat": 22.299999
+    }
+  },
+  {
+    "id": 1253621,
+    "name": "Uttukkuli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433327,
+      "lat": 11.16667
+    }
+  },
+  {
+    "id": 1253640,
+    "name": "Utran",
+    "country": "IN",
+    "coord": {
+      "lon": 72.866669,
+      "lat": 21.23333
+    }
+  },
+  {
+    "id": 1253694,
+    "name": "Uri",
+    "country": "IN",
+    "coord": {
+      "lon": 74.033333,
+      "lat": 34.083328
+    }
+  },
+  {
+    "id": 1253719,
+    "name": "Uppiliyapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.51667,
+      "lat": 11.26667
+    }
+  },
+  {
+    "id": 1253751,
+    "name": "Uniara",
+    "country": "IN",
+    "coord": {
+      "lon": 75.216667,
+      "lat": 26.15
+    }
+  },
+  {
+    "id": 1253796,
+    "name": "Umri",
+    "country": "IN",
+    "coord": {
+      "lon": 78.936668,
+      "lat": 26.510559
+    }
+  },
+  {
+    "id": 1253815,
+    "name": "Umrala",
+    "country": "IN",
+    "coord": {
+      "lon": 71.816673,
+      "lat": 21.83333
+    }
   }
 ]
