@@ -20131,5 +20131,140 @@
       "lon": 91.571114,
       "lat": 26.16806
     }
+  },
+  {
+    "id": 1255981,
+    "name": "Sitamau",
+    "country": "IN",
+    "coord": {
+      "lon": 75.349998,
+      "lat": 24.01667
+    }
+  },
+  {
+    "id": 1256053,
+    "name": "Sirsa",
+    "country": "IN",
+    "coord": {
+      "lon": 82.083328,
+      "lat": 25.283331
+    }
+  },
+  {
+    "id": 1256063,
+    "name": "Sirpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.599998,
+      "lat": 19.48333
+    }
+  },
+  {
+    "id": 1256072,
+    "name": "Sirmaur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.383331,
+      "lat": 24.85
+    }
+  },
+  {
+    "id": 1256096,
+    "name": "Sirathu",
+    "country": "IN",
+    "coord": {
+      "lon": 81.316673,
+      "lat": 25.65
+    }
+  },
+  {
+    "id": 1256117,
+    "name": "Sinor",
+    "country": "IN",
+    "coord": {
+      "lon": 73.333328,
+      "lat": 21.91667
+    }
+  },
+  {
+    "id": 1256122,
+    "name": "Sini",
+    "country": "IN",
+    "coord": {
+      "lon": 85.966667,
+      "lat": 22.799999
+    }
+  },
+  {
+    "id": 1256126,
+    "name": "Singtam",
+    "country": "IN",
+    "coord": {
+      "lon": 88.5,
+      "lat": 27.23333
+    }
+  },
+  {
+    "id": 1256146,
+    "name": "Singoli",
+    "country": "IN",
+    "coord": {
+      "lon": 75.300003,
+      "lat": 24.966669
+    }
+  },
+  {
+    "id": 1256181,
+    "name": "Singapperumalkovil",
+    "country": "IN",
+    "coord": {
+      "lon": 80.010002,
+      "lat": 12.76111
+    }
+  },
+  {
+    "id": 1256206,
+    "name": "Sindi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.866669,
+      "lat": 20.799999
+    }
+  },
+  {
+    "id": 1256245,
+    "name": "Simga",
+    "country": "IN",
+    "coord": {
+      "lon": 81.699997,
+      "lat": 21.633329
+    }
+  },
+  {
+    "id": 1256251,
+    "name": "Simaria",
+    "country": "IN",
+    "coord": {
+      "lon": 81.150002,
+      "lat": 24.799999
+    }
+  },
+  {
+    "id": 1256324,
+    "name": "Sikandra",
+    "country": "IN",
+    "coord": {
+      "lon": 79.650002,
+      "lat": 26.366671
+    }
+  },
+  {
+    "id": 1256367,
+    "name": "Sidhpura",
+    "country": "IN",
+    "coord": {
+      "lon": 78.883331,
+      "lat": 27.633329
+    }
   }
 ]
