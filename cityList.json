@@ -19294,5 +19294,104 @@
       "lon": 76.75,
       "lat": 34.916672
     }
+  },
+  {
+    "id": 1252668,
+    "name": "Ziro",
+    "country": "IN",
+    "coord": {
+      "lon": 93.833328,
+      "lat": 27.633329
+    }
+  },
+  {
+    "id": 1252702,
+    "name": "Zafarabad",
+    "country": "IN",
+    "coord": {
+      "lon": 82.73333,
+      "lat": 25.700001
+    }
+  },
+  {
+    "id": 1252714,
+    "name": "Yol",
+    "country": "IN",
+    "coord": {
+      "lon": 76.199997,
+      "lat": 32.166672
+    }
+  },
+  {
+    "id": 1252753,
+    "name": "Yelbarga",
+    "country": "IN",
+    "coord": {
+      "lon": 76.01667,
+      "lat": 15.63333
+    }
+  },
+  {
+    "id": 1252756,
+    "name": "Yelandur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.033333,
+      "lat": 12.06667
+    }
+  },
+  {
+    "id": 1252783,
+    "name": "Yarada",
+    "country": "IN",
+    "coord": {
+      "lon": 83.26667,
+      "lat": 17.65
+    }
+  },
+  {
+    "id": 1252810,
+    "name": "Yairipok",
+    "country": "IN",
+    "coord": {
+      "lon": 94.066673,
+      "lat": 24.66667
+    }
+  },
+  {
+    "id": 1252964,
+    "name": "Wangjing",
+    "country": "IN",
+    "coord": {
+      "lon": 94.033333,
+      "lat": 24.6
+    }
+  },
+  {
+    "id": 1252998,
+    "name": "Wallajahbad",
+    "country": "IN",
+    "coord": {
+      "lon": 79.783333,
+      "lat": 12.76667
+    }
+  },
+  {
+    "id": 1253024,
+    "name": "Waghai",
+    "country": "IN",
+    "coord": {
+      "lon": 73.48333,
+      "lat": 20.76667
+    }
+  },
+  {
+    "id": 1253052,
+    "name": "Wadgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 73.650002,
+      "lat": 18.73333
+    }
   }
 ]
