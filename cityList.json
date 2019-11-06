@@ -20266,5 +20266,113 @@
       "lon": 78.883331,
       "lat": 27.633329
     }
+  },
+  {
+    "id": 1256385,
+    "name": "Siddapur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.883331,
+      "lat": 14.33333
+    }
+  },
+  {
+    "id": 1256414,
+    "name": "Shupiyan",
+    "country": "IN",
+    "coord": {
+      "lon": 74.833328,
+      "lat": 33.716671
+    }
+  },
+  {
+    "id": 1256428,
+    "name": "Shravanabelagola",
+    "country": "IN",
+    "coord": {
+      "lon": 76.489441,
+      "lat": 12.85833
+    }
+  },
+  {
+    "id": 1256450,
+    "name": "Shivrajpur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.650002,
+      "lat": 22.41667
+    }
+  },
+  {
+    "id": 1256469,
+    "name": "Shirwal",
+    "country": "IN",
+    "coord": {
+      "lon": 73.98333,
+      "lat": 18.133329
+    }
+  },
+  {
+    "id": 1256486,
+    "name": "Shirgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 72.699997,
+      "lat": 19.700001
+    }
+  },
+  {
+    "id": 1256574,
+    "name": "Shergarh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.349998,
+      "lat": 28.65
+    }
+  },
+  {
+    "id": 1256650,
+    "name": "Shankargarh",
+    "country": "IN",
+    "coord": {
+      "lon": 81.616669,
+      "lat": 25.183331
+    }
+  },
+  {
+    "id": 1256676,
+    "name": "Sham Churasi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.749443,
+      "lat": 31.49972
+    }
+  },
+  {
+    "id": 1256708,
+    "name": "Shahpura",
+    "country": "IN",
+    "coord": {
+      "lon": 79.666672,
+      "lat": 23.133329
+    }
+  },
+  {
+    "id": 1256716,
+    "name": "Shahpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.050003,
+      "lat": 23.883329
+    }
+  },
+  {
+    "id": 1256717,
+    "name": "Shahpur",
+    "country": "IN",
+    "coord": {
+      "lon": 81,
+      "lat": 23.01667
+    }
   }
 ]
