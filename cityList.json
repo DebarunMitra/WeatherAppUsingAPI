@@ -19807,5 +19807,113 @@
       "lon": 76.5,
       "lat": 31.83333
     }
+  },
+  {
+    "id": 1254442,
+    "name": "Tindwari",
+    "country": "IN",
+    "coord": {
+      "lon": 80.533333,
+      "lat": 25.616671
+    }
+  },
+  {
+    "id": 1254513,
+    "name": "Tikri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.349998,
+      "lat": 29.23333
+    }
+  },
+  {
+    "id": 1254590,
+    "name": "Thiruvaiyaru",
+    "country": "IN",
+    "coord": {
+      "lon": 79.103622,
+      "lat": 10.88405
+    }
+  },
+  {
+    "id": 1254608,
+    "name": "Theog",
+    "country": "IN",
+    "coord": {
+      "lon": 77.349998,
+      "lat": 31.116671
+    }
+  },
+  {
+    "id": 1254609,
+    "name": "Thenzawl",
+    "country": "IN",
+    "coord": {
+      "lon": 92.75,
+      "lat": 23.316669
+    }
+  },
+  {
+    "id": 1254647,
+    "name": "Thanna Mandi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.383331,
+      "lat": 33.549999
+    }
+  },
+  {
+    "id": 1254663,
+    "name": "Thandla",
+    "country": "IN",
+    "coord": {
+      "lon": 74.566673,
+      "lat": 23
+    }
+  },
+  {
+    "id": 1254709,
+    "name": "Tezu",
+    "country": "IN",
+    "coord": {
+      "lon": 96.166672,
+      "lat": 27.91667
+    }
+  },
+  {
+    "id": 1254751,
+    "name": "Tendukheda",
+    "country": "IN",
+    "coord": {
+      "lon": 79.550003,
+      "lat": 23.4
+    }
+  },
+  {
+    "id": 1254798,
+    "name": "Tekanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.26667,
+      "lat": 25.98333
+    }
+  },
+  {
+    "id": 1254832,
+    "name": "Tawang",
+    "country": "IN",
+    "coord": {
+      "lon": 91.866669,
+      "lat": 27.58333
+    }
+  },
+  {
+    "id": 1254842,
+    "name": "Tattayyangarpettai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.449997,
+      "lat": 11.13333
+    }
   }
 ]
