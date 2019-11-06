@@ -20671,5 +20671,104 @@
       "lon": 73.76667,
       "lat": 15.55
     }
+  },
+  {
+    "id": 1257703,
+    "name": "Sakit",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 27.450001
+    }
+  },
+  {
+    "id": 1257737,
+    "name": "Saitlaw",
+    "country": "IN",
+    "coord": {
+      "lon": 92.583328,
+      "lat": 23.966669
+    }
+  },
+  {
+    "id": 1257743,
+    "name": "Sairang",
+    "country": "IN",
+    "coord": {
+      "lon": 92.666672,
+      "lat": 23.799999
+    }
+  },
+  {
+    "id": 1257765,
+    "name": "Sailana",
+    "country": "IN",
+    "coord": {
+      "lon": 74.916672,
+      "lat": 23.466669
+    }
+  },
+  {
+    "id": 1257775,
+    "name": "Saidpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.916672,
+      "lat": 28.616671
+    }
+  },
+  {
+    "id": 1257887,
+    "name": "Sadat",
+    "country": "IN",
+    "coord": {
+      "lon": 83.283333,
+      "lat": 25.683331
+    }
+  },
+  {
+    "id": 1257901,
+    "name": "Sachin",
+    "country": "IN",
+    "coord": {
+      "lon": 72.883331,
+      "lat": 21.08333
+    }
+  },
+  {
+    "id": 1257908,
+    "name": "Sabrum",
+    "country": "IN",
+    "coord": {
+      "lon": 91.731941,
+      "lat": 23
+    }
+  },
+  {
+    "id": 1257919,
+    "name": "Sabathu",
+    "country": "IN",
+    "coord": {
+      "lon": 76.993332,
+      "lat": 30.971939
+    }
+  },
+  {
+    "id": 1258003,
+    "name": "Rudraprayag",
+    "country": "IN",
+    "coord": {
+      "lon": 78.98333,
+      "lat": 30.283331
+    }
+  },
+  {
+    "id": 1258078,
+    "name": "Rohru",
+    "country": "IN",
+    "coord": {
+      "lon": 77.75,
+      "lat": 31.216669
+    }
   }
 ]
