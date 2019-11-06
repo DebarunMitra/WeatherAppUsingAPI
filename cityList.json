@@ -19627,5 +19627,86 @@
       "lon": 71.816673,
       "lat": 21.83333
     }
+  },
+  {
+    "id": 1253898,
+    "name": "Ukwa",
+    "country": "IN",
+    "coord": {
+      "lon": 80.466667,
+      "lat": 21.966669
+    }
+  },
+  {
+    "id": 1253901,
+    "name": "Uklana",
+    "country": "IN",
+    "coord": {
+      "lon": 75.866669,
+      "lat": 29.51667
+    }
+  },
+  {
+    "id": 1253930,
+    "name": "Ugu",
+    "country": "IN",
+    "coord": {
+      "lon": 80.333328,
+      "lat": 26.783331
+    }
+  },
+  {
+    "id": 1253947,
+    "name": "Udpura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.966667,
+      "lat": 24.716669
+    }
+  },
+  {
+    "id": 1253992,
+    "name": "Udaigiri",
+    "country": "IN",
+    "coord": {
+      "lon": 84.383331,
+      "lat": 20.133329
+    }
+  },
+  {
+    "id": 1254025,
+    "name": "Turuvekere",
+    "country": "IN",
+    "coord": {
+      "lon": 76.666672,
+      "lat": 13.16417
+    }
+  },
+  {
+    "id": 1254142,
+    "name": "Tsrar Sharif",
+    "country": "IN",
+    "coord": {
+      "lon": 74.76667,
+      "lat": 33.866669
+    }
+  },
+  {
+    "id": 1254177,
+    "name": "Trimbak",
+    "country": "IN",
+    "coord": {
+      "lon": 73.550003,
+      "lat": 19.933331
+    }
+  },
+  {
+    "id": 1254198,
+    "name": "Tral",
+    "country": "IN",
+    "coord": {
+      "lon": 75.099998,
+      "lat": 33.933331
+    }
   }
 ]
