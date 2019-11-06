@@ -22417,5 +22417,68 @@
       "lon": 78,
       "lat": 12.4
     }
+  },
+  {
+    "id": 1263621,
+    "name": "Mansar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.25,
+      "lat": 21.4
+    }
+  },
+  {
+    "id": 1263636,
+    "name": "Manpur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.616669,
+      "lat": 22.433331
+    }
+  },
+  {
+    "id": 1263646,
+    "name": "Manor",
+    "country": "IN",
+    "coord": {
+      "lon": 72.916672,
+      "lat": 19.75
+    }
+  },
+  {
+    "id": 1263648,
+    "name": "Manohar Thana",
+    "country": "IN",
+    "coord": {
+      "lon": 76.801819,
+      "lat": 24.24
+    }
+  },
+  {
+    "id": 1263651,
+    "name": "Manoharpur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.199997,
+      "lat": 22.383329
+    }
+  },
+  {
+    "id": 1263677,
+    "name": "Mankapur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.23333,
+      "lat": 27.033331
+    }
+  },
+  {
+    "id": 1263692,
+    "name": "Manjeshwara",
+    "country": "IN",
+    "coord": {
+      "lon": 74.883331,
+      "lat": 12.7
+    }
   }
 ]
