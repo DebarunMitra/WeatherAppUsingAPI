@@ -20374,5 +20374,122 @@
       "lon": 81,
       "lat": 23.01667
     }
+  },
+  {
+    "id": 1256718,
+    "name": "Shahpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.900002,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1256719,
+    "name": "Shahpur",
+    "country": "IN",
+    "coord": {
+      "lon": 70.76667,
+      "lat": 22.15
+    }
+  },
+  {
+    "id": 1256725,
+    "name": "Shahkot",
+    "country": "IN",
+    "coord": {
+      "lon": 75.337219,
+      "lat": 31.077499
+    }
+  },
+  {
+    "id": 1256734,
+    "name": "Shahgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.133331,
+      "lat": 24.316669
+    }
+  },
+  {
+    "id": 1256747,
+    "name": "Shahapur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.333328,
+      "lat": 19.450001
+    }
+  },
+  {
+    "id": 1256796,
+    "name": "Serula",
+    "country": "IN",
+    "coord": {
+      "lon": 73.833328,
+      "lat": 15.53333
+    }
+  },
+  {
+    "id": 1256820,
+    "name": "Seorinarayan",
+    "country": "IN",
+    "coord": {
+      "lon": 82.583328,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1256825,
+    "name": "Seoni",
+    "country": "IN",
+    "coord": {
+      "lon": 77.123062,
+      "lat": 31.24361
+    }
+  },
+  {
+    "id": 1256934,
+    "name": "Sayalkudi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.449997,
+      "lat": 9.18333
+    }
+  },
+  {
+    "id": 1256976,
+    "name": "Saurikh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.489601,
+      "lat": 27.028999
+    }
+  },
+  {
+    "id": 1256990,
+    "name": "Satwas",
+    "country": "IN",
+    "coord": {
+      "lon": 76.683327,
+      "lat": 22.533331
+    }
+  },
+  {
+    "id": 1257004,
+    "name": "Sathankulam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.91349,
+      "lat": 8.44164
+    }
+  },
+  {
+    "id": 1257077,
+    "name": "Sasni",
+    "country": "IN",
+    "coord": {
+      "lon": 78.083328,
+      "lat": 27.716669
+    }
   }
 ]
