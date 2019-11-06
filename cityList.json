@@ -20932,5 +20932,275 @@
       "lon": 83.84111,
       "lat": 26.904169
     }
+  },
+  {
+    "id": 1258669,
+    "name": "Ramgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 74.199997,
+      "lat": 33.400002
+    }
+  },
+  {
+    "id": 1258708,
+    "name": "Ram Das",
+    "country": "IN",
+    "coord": {
+      "lon": 74.904716,
+      "lat": 31.96611
+    }
+  },
+  {
+    "id": 1258714,
+    "name": "Rambha",
+    "country": "IN",
+    "coord": {
+      "lon": 85.099998,
+      "lat": 19.51667
+    }
+  },
+  {
+    "id": 1258715,
+    "name": "Ramban",
+    "country": "IN",
+    "coord": {
+      "lon": 75.25,
+      "lat": 33.25
+    }
+  },
+  {
+    "id": 1258724,
+    "name": "Ramapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 77.866669,
+      "lat": 15.28333
+    }
+  },
+  {
+    "id": 1258731,
+    "name": "Ramanuj Ganj",
+    "country": "IN",
+    "coord": {
+      "lon": 83.699997,
+      "lat": 23.799999
+    }
+  },
+  {
+    "id": 1258788,
+    "name": "Rajur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.916672,
+      "lat": 20.116671
+    }
+  },
+  {
+    "id": 1258835,
+    "name": "Rajnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 79.916672,
+      "lat": 24.883329
+    }
+  },
+  {
+    "id": 1258867,
+    "name": "Rajgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.300003,
+      "lat": 30.85
+    }
+  },
+  {
+    "id": 1258911,
+    "name": "Rajapur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.150002,
+      "lat": 25.383329
+    }
+  },
+  {
+    "id": 1258914,
+    "name": "Rajapur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.51667,
+      "lat": 16.66667
+    }
+  },
+  {
+    "id": 1258942,
+    "name": "Raiwala",
+    "country": "IN",
+    "coord": {
+      "lon": 78.216667,
+      "lat": 30.01667
+    }
+  },
+  {
+    "id": 1259017,
+    "name": "Raia",
+    "country": "IN",
+    "coord": {
+      "lon": 73.966667,
+      "lat": 15.3
+    }
+  },
+  {
+    "id": 1259022,
+    "name": "Rahon",
+    "country": "IN",
+    "coord": {
+      "lon": 76.116669,
+      "lat": 31.049999
+    }
+  },
+  {
+    "id": 1259039,
+    "name": "Raha",
+    "country": "IN",
+    "coord": {
+      "lon": 92.51667,
+      "lat": 26.23333
+    }
+  },
+  {
+    "id": 1259047,
+    "name": "Raghunathpur",
+    "country": "IN",
+    "coord": {
+      "lon": 87.900002,
+      "lat": 25.633329
+    }
+  },
+  {
+    "id": 1259072,
+    "name": "Radha Kund",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 27.533331
+    }
+  },
+  {
+    "id": 1259075,
+    "name": "Radaur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.150002,
+      "lat": 30.033331
+    }
+  },
+  {
+    "id": 1259082,
+    "name": "Rabupura",
+    "country": "IN",
+    "coord": {
+      "lon": 77.599998,
+      "lat": 28.25
+    }
+  },
+  {
+    "id": 1259094,
+    "name": "Queula",
+    "country": "IN",
+    "coord": {
+      "lon": 73.966667,
+      "lat": 15.38333
+    }
+  },
+  {
+    "id": 1259098,
+    "name": "Quepem",
+    "country": "IN",
+    "coord": {
+      "lon": 74.066673,
+      "lat": 15.21667
+    }
+  },
+  {
+    "id": 1259102,
+    "name": "Qazigund",
+    "country": "IN",
+    "coord": {
+      "lon": 75.150002,
+      "lat": 33.633331
+    }
+  },
+  {
+    "id": 1259158,
+    "name": "Purushottampur",
+    "country": "IN",
+    "coord": {
+      "lon": 84.883331,
+      "lat": 19.533331
+    }
+  },
+  {
+    "id": 1259259,
+    "name": "Pullambadi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.916672,
+      "lat": 10.96667
+    }
+  },
+  {
+    "id": 1259261,
+    "name": "Puliyur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.833328,
+      "lat": 10.63333
+    }
+  },
+  {
+    "id": 1259290,
+    "name": "Puduvayal",
+    "country": "IN",
+    "coord": {
+      "lon": 80.166672,
+      "lat": 13.33333
+    }
+  },
+  {
+    "id": 1259292,
+    "name": "Pudur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.150002,
+      "lat": 13
+    }
+  },
+  {
+    "id": 1259293,
+    "name": "Pudur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.150002,
+      "lat": 9.31667
+    }
+  },
+  {
+    "id": 1259294,
+    "name": "Puduppatti",
+    "country": "IN",
+    "coord": {
+      "lon": 78.216667,
+      "lat": 11.15
+    }
+  },
+  {
+    "id": 1259337,
+    "name": "Pratapgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 81.949997,
+      "lat": 25.9
+    }
   }
 ]
