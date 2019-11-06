@@ -21841,5 +21841,302 @@
       "lon": 74.533333,
       "lat": 32.76667
     }
+  },
+  {
+    "id": 1261638,
+    "name": "Nawabganj",
+    "country": "IN",
+    "coord": {
+      "lon": 80.300003,
+      "lat": 26.5
+    }
+  },
+  {
+    "id": 1261660,
+    "name": "Navelim",
+    "country": "IN",
+    "coord": {
+      "lon": 73.98333,
+      "lat": 15.53333
+    }
+  },
+  {
+    "id": 1261704,
+    "name": "Nattarasankottai",
+    "country": "IN",
+    "coord": {
+      "lon": 78.566673,
+      "lat": 9.86667
+    }
+  },
+  {
+    "id": 1261750,
+    "name": "Narsingi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.433327,
+      "lat": 18.033331
+    }
+  },
+  {
+    "id": 1261768,
+    "name": "Naroda",
+    "country": "IN",
+    "coord": {
+      "lon": 72.666672,
+      "lat": 23.08333
+    }
+  },
+  {
+    "id": 1261806,
+    "name": "Narendranagar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.300003,
+      "lat": 30.16667
+    }
+  },
+  {
+    "id": 1261829,
+    "name": "Narayangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 75.050003,
+      "lat": 24.283331
+    }
+  },
+  {
+    "id": 1261832,
+    "name": "Narayanavanam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.583328,
+      "lat": 13.41667
+    }
+  },
+  {
+    "id": 1261844,
+    "name": "Narasingapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 79.333328,
+      "lat": 13.61667
+    }
+  },
+  {
+    "id": 1261847,
+    "name": "Narasimharajapura",
+    "country": "IN",
+    "coord": {
+      "lon": 75.51667,
+      "lat": 13.61667
+    }
+  },
+  {
+    "id": 1261906,
+    "name": "Nannilam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.610619,
+      "lat": 10.87933
+    }
+  },
+  {
+    "id": 1261911,
+    "name": "Nanguneri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.658058,
+      "lat": 8.49326
+    }
+  },
+  {
+    "id": 1261915,
+    "name": "Nangavalli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.883331,
+      "lat": 11.75
+    }
+  },
+  {
+    "id": 1261968,
+    "name": "Nandgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 77.383331,
+      "lat": 27.716669
+    }
+  },
+  {
+    "id": 1262020,
+    "name": "Namli",
+    "country": "IN",
+    "coord": {
+      "lon": 75.050003,
+      "lat": 23.433331
+    }
+  },
+  {
+    "id": 1262029,
+    "name": "Namchi",
+    "country": "IN",
+    "coord": {
+      "lon": 88.349998,
+      "lat": 27.16667
+    }
+  },
+  {
+    "id": 1262032,
+    "name": "Nambutalai",
+    "country": "IN",
+    "coord": {
+      "lon": 79,
+      "lat": 9.71667
+    }
+  },
+  {
+    "id": 1262062,
+    "name": "Naliya",
+    "country": "IN",
+    "coord": {
+      "lon": 68.833328,
+      "lat": 23.26667
+    }
+  },
+  {
+    "id": 1262083,
+    "name": "Nalagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.716667,
+      "lat": 31.049999
+    }
+  },
+  {
+    "id": 1262134,
+    "name": "Naigarhi",
+    "country": "IN",
+    "coord": {
+      "lon": 81.783333,
+      "lat": 24.783331
+    }
+  },
+  {
+    "id": 1262162,
+    "name": "Nagrota",
+    "country": "IN",
+    "coord": {
+      "lon": 76.083328,
+      "lat": 32.049999
+    }
+  },
+  {
+    "id": 1262168,
+    "name": "Nagram",
+    "country": "IN",
+    "coord": {
+      "lon": 81.133331,
+      "lat": 26.616671
+    }
+  },
+  {
+    "id": 1262183,
+    "name": "Nagothana",
+    "country": "IN",
+    "coord": {
+      "lon": 73.133331,
+      "lat": 18.533331
+    }
+  },
+  {
+    "id": 1262196,
+    "name": "Nagireddipalli",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 14.26667
+    }
+  },
+  {
+    "id": 1262252,
+    "name": "Nagar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.166672,
+      "lat": 32.116669
+    }
+  },
+  {
+    "id": 1262284,
+    "name": "Naduvattam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.566673,
+      "lat": 11.48333
+    }
+  },
+  {
+    "id": 1262291,
+    "name": "Nadigaon",
+    "country": "IN",
+    "coord": {
+      "lon": 79.033333,
+      "lat": 26.116671
+    }
+  },
+  {
+    "id": 1262300,
+    "name": "Nadaun",
+    "country": "IN",
+    "coord": {
+      "lon": 76.349998,
+      "lat": 31.783331
+    }
+  },
+  {
+    "id": 1262369,
+    "name": "Mustafabad",
+    "country": "IN",
+    "coord": {
+      "lon": 77.150002,
+      "lat": 30.200001
+    }
+  },
+  {
+    "id": 1262392,
+    "name": "Musafirkhana",
+    "country": "IN",
+    "coord": {
+      "lon": 81.800003,
+      "lat": 26.366671
+    }
+  },
+  {
+    "id": 1262403,
+    "name": "Murud",
+    "country": "IN",
+    "coord": {
+      "lon": 72.964996,
+      "lat": 18.32583
+    }
+  },
+  {
+    "id": 1262414,
+    "name": "Mursan",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 27.58333
+    }
+  },
+  {
+    "id": 1262429,
+    "name": "Muri",
+    "country": "IN",
+    "coord": {
+      "lon": 85.866669,
+      "lat": 23.366671
+    }
   }
 ]
