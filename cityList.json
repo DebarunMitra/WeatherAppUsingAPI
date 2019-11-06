@@ -19393,5 +19393,122 @@
       "lon": 73.650002,
       "lat": 18.73333
     }
+  },
+  {
+    "id": 1253115,
+    "name": "Virpur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.48333,
+      "lat": 23.183331
+    }
+  },
+  {
+    "id": 1253147,
+    "name": "Viraganur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.73333,
+      "lat": 11.48333
+    }
+  },
+  {
+    "id": 1253162,
+    "name": "Vinchia",
+    "country": "IN",
+    "coord": {
+      "lon": 71.366669,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1253175,
+    "name": "Vilattikulam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166351,
+      "lat": 9.13227
+    }
+  },
+  {
+    "id": 1253177,
+    "name": "Vikravandi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.550003,
+      "lat": 12.03333
+    }
+  },
+  {
+    "id": 1253186,
+    "name": "Vijayapuri",
+    "country": "IN",
+    "coord": {
+      "lon": 77.5,
+      "lat": 11.23333
+    }
+  },
+  {
+    "id": 1253217,
+    "name": "Vettavalam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.25,
+      "lat": 12.1
+    }
+  },
+  {
+    "id": 1253257,
+    "name": "Vengurla",
+    "country": "IN",
+    "coord": {
+      "lon": 73.633331,
+      "lat": 15.86667
+    }
+  },
+  {
+    "id": 1253328,
+    "name": "Vedasandur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.949997,
+      "lat": 10.53333
+    }
+  },
+  {
+    "id": 1253381,
+    "name": "Vartej",
+    "country": "IN",
+    "coord": {
+      "lon": 72.066673,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1253401,
+    "name": "Varca",
+    "country": "IN",
+    "coord": {
+      "lon": 73.916672,
+      "lat": 15.21667
+    }
+  },
+  {
+    "id": 1253425,
+    "name": "Vansada",
+    "country": "IN",
+    "coord": {
+      "lon": 73.366669,
+      "lat": 20.75
+    }
+  },
+  {
+    "id": 1253454,
+    "name": "Vandalur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.080833,
+      "lat": 12.89278
+    }
   }
 ]
