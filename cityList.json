@@ -22138,5 +22138,194 @@
       "lon": 85.866669,
       "lat": 23.366671
     }
+  },
+  {
+    "id": 1262435,
+    "name": "Murgud",
+    "country": "IN",
+    "coord": {
+      "lon": 74.199997,
+      "lat": 16.4
+    }
+  },
+  {
+    "id": 1262452,
+    "name": "Muragacha",
+    "country": "IN",
+    "coord": {
+      "lon": 88.400002,
+      "lat": 23.533331
+    }
+  },
+  {
+    "id": 1262469,
+    "name": "Munirabad",
+    "country": "IN",
+    "coord": {
+      "lon": 76.333328,
+      "lat": 15.33333
+    }
+  },
+  {
+    "id": 1262504,
+    "name": "Mundi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 22.066669
+    }
+  },
+  {
+    "id": 1262567,
+    "name": "Mulanur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 10.76667
+    }
+  },
+  {
+    "id": 1262632,
+    "name": "Mugma",
+    "country": "IN",
+    "coord": {
+      "lon": 86.73333,
+      "lat": 23.76667
+    }
+  },
+  {
+    "id": 1262648,
+    "name": "Mudukulattur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.513878,
+      "lat": 9.34169
+    }
+  },
+  {
+    "id": 1262658,
+    "name": "Mudigere",
+    "country": "IN",
+    "coord": {
+      "lon": 75.633331,
+      "lat": 13.13333
+    }
+  },
+  {
+    "id": 1262689,
+    "name": "Mowar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.433327,
+      "lat": 21.466669
+    }
+  },
+  {
+    "id": 1262715,
+    "name": "Moth",
+    "country": "IN",
+    "coord": {
+      "lon": 78.949997,
+      "lat": 25.716669
+    }
+  },
+  {
+    "id": 1262768,
+    "name": "Morjim",
+    "country": "IN",
+    "coord": {
+      "lon": 73.739029,
+      "lat": 15.63097
+    }
+  },
+  {
+    "id": 1262787,
+    "name": "Moranha",
+    "country": "IN",
+    "coord": {
+      "lon": 94.933327,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1262873,
+    "name": "Mohpa",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 21.316669
+    }
+  },
+  {
+    "id": 1262884,
+    "name": "Mohiuddinnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 85.666672,
+      "lat": 25.58333
+    }
+  },
+  {
+    "id": 1262891,
+    "name": "Mohgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 78.716667,
+      "lat": 21.65
+    }
+  },
+  {
+    "id": 1262905,
+    "name": "Mohanur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 11.08333
+    }
+  },
+  {
+    "id": 1262909,
+    "name": "Mohanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.25,
+      "lat": 28.26667
+    }
+  },
+  {
+    "id": 1262928,
+    "name": "Mohan",
+    "country": "IN",
+    "coord": {
+      "lon": 80.683327,
+      "lat": 26.783331
+    }
+  },
+  {
+    "id": 1263010,
+    "name": "Mirik",
+    "country": "IN",
+    "coord": {
+      "lon": 88.184837,
+      "lat": 26.894529
+    }
+  },
+  {
+    "id": 1263087,
+    "name": "Mhasla",
+    "country": "IN",
+    "coord": {
+      "lon": 73.116669,
+      "lat": 18.133329
+    }
+  },
+  {
+    "id": 1263104,
+    "name": "Mettuppalaiyam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.449997,
+      "lat": 11.16667
+    }
   }
 ]
