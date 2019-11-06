@@ -22480,5 +22480,365 @@
       "lon": 74.883331,
       "lat": 12.7
     }
+  },
+  {
+    "id": 1263715,
+    "name": "Manikpur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.116669,
+      "lat": 25.066669
+    }
+  },
+  {
+    "id": 1263764,
+    "name": "Mangawan",
+    "country": "IN",
+    "coord": {
+      "lon": 81.550003,
+      "lat": 24.683331
+    }
+  },
+  {
+    "id": 1263776,
+    "name": "Mangan",
+    "country": "IN",
+    "coord": {
+      "lon": 88.533333,
+      "lat": 27.51667
+    }
+  },
+  {
+    "id": 1263795,
+    "name": "Mangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.666672,
+      "lat": 9.76667
+    }
+  },
+  {
+    "id": 1263850,
+    "name": "Mandleshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.666672,
+      "lat": 22.183331
+    }
+  },
+  {
+    "id": 1263880,
+    "name": "Mandawar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.549988,
+      "lat": 27.863741
+    }
+  },
+  {
+    "id": 1263888,
+    "name": "Mandasa",
+    "country": "IN",
+    "coord": {
+      "lon": 84.466667,
+      "lat": 18.866671
+    }
+  },
+  {
+    "id": 1263918,
+    "name": "Mandal",
+    "country": "IN",
+    "coord": {
+      "lon": 71.916672,
+      "lat": 23.299999
+    }
+  },
+  {
+    "id": 1263937,
+    "name": "Manchar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.933327,
+      "lat": 19
+    }
+  },
+  {
+    "id": 1263942,
+    "name": "Manavalakurichi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.300003,
+      "lat": 8.13333
+    }
+  },
+  {
+    "id": 1263966,
+    "name": "Manalurpettai",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 12.01667
+    }
+  },
+  {
+    "id": 1263983,
+    "name": "Mamit",
+    "country": "IN",
+    "coord": {
+      "lon": 92.48333,
+      "lat": 23.933331
+    }
+  },
+  {
+    "id": 1264033,
+    "name": "Malpur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.449997,
+      "lat": 23.35
+    }
+  },
+  {
+    "id": 1264041,
+    "name": "Mallur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.133331,
+      "lat": 11.55
+    }
+  },
+  {
+    "id": 1264050,
+    "name": "Mallapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.25,
+      "lat": 11.96667
+    }
+  },
+  {
+    "id": 1264070,
+    "name": "Malkera",
+    "country": "IN",
+    "coord": {
+      "lon": 86.300003,
+      "lat": 23.783331
+    }
+  },
+  {
+    "id": 1264074,
+    "name": "Malkapur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.916672,
+      "lat": 16.933331
+    }
+  },
+  {
+    "id": 1264099,
+    "name": "Malhargarh",
+    "country": "IN",
+    "coord": {
+      "lon": 74.98333,
+      "lat": 24.283331
+    }
+  },
+  {
+    "id": 1264215,
+    "name": "Makhu",
+    "country": "IN",
+    "coord": {
+      "lon": 74.99778,
+      "lat": 31.103331
+    }
+  },
+  {
+    "id": 1264217,
+    "name": "Makhjan",
+    "country": "IN",
+    "coord": {
+      "lon": 73.500313,
+      "lat": 17.2698
+    }
+  },
+  {
+    "id": 1264241,
+    "name": "Majitha",
+    "country": "IN",
+    "coord": {
+      "lon": 74.954437,
+      "lat": 31.758329
+    }
+  },
+  {
+    "id": 1264244,
+    "name": "Majholi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.916672,
+      "lat": 23.5
+    }
+  },
+  {
+    "id": 1264285,
+    "name": "Mairang",
+    "country": "IN",
+    "coord": {
+      "lon": 91.633331,
+      "lat": 25.566669
+    }
+  },
+  {
+    "id": 1264297,
+    "name": "Maindargi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.300003,
+      "lat": 17.466669
+    }
+  },
+  {
+    "id": 1264310,
+    "name": "Mailani",
+    "country": "IN",
+    "coord": {
+      "lon": 80.349998,
+      "lat": 28.283331
+    }
+  },
+  {
+    "id": 1264322,
+    "name": "Maibong",
+    "country": "IN",
+    "coord": {
+      "lon": 93.166672,
+      "lat": 25.299999
+    }
+  },
+  {
+    "id": 1264331,
+    "name": "Mahur",
+    "country": "IN",
+    "coord": {
+      "lon": 93.116669,
+      "lat": 25.16667
+    }
+  },
+  {
+    "id": 1264351,
+    "name": "Mahroni",
+    "country": "IN",
+    "coord": {
+      "lon": 78.728798,
+      "lat": 24.586201
+    }
+  },
+  {
+    "id": 1264434,
+    "name": "Maharajganj",
+    "country": "IN",
+    "coord": {
+      "lon": 81.283333,
+      "lat": 26.366671
+    }
+  },
+  {
+    "id": 1264435,
+    "name": "Maharajganj",
+    "country": "IN",
+    "coord": {
+      "lon": 83.118607,
+      "lat": 26.25194
+    }
+  },
+  {
+    "id": 1264490,
+    "name": "Mahaban",
+    "country": "IN",
+    "coord": {
+      "lon": 77.75,
+      "lat": 27.433331
+    }
+  },
+  {
+    "id": 1264491,
+    "name": "Mahabaleshwar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.666672,
+      "lat": 17.91667
+    }
+  },
+  {
+    "id": 1264513,
+    "name": "Magam",
+    "country": "IN",
+    "coord": {
+      "lon": 74.583328,
+      "lat": 34.083328
+    }
+  },
+  {
+    "id": 1264525,
+    "name": "Madugula",
+    "country": "IN",
+    "coord": {
+      "lon": 82.800003,
+      "lat": 17.91667
+    }
+  },
+  {
+    "id": 1264567,
+    "name": "Madhogarh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.186897,
+      "lat": 26.275999
+    }
+  },
+  {
+    "id": 1264568,
+    "name": "Madhogarh",
+    "country": "IN",
+    "coord": {
+      "lon": 80.900002,
+      "lat": 24.566669
+    }
+  },
+  {
+    "id": 1264569,
+    "name": "Madhoganj",
+    "country": "IN",
+    "coord": {
+      "lon": 80.150002,
+      "lat": 27.116671
+    }
+  },
+  {
+    "id": 1264614,
+    "name": "Madanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.48333,
+      "lat": 23.01667
+    }
+  },
+  {
+    "id": 1264653,
+    "name": "Machalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.300003,
+      "lat": 24.133329
+    }
+  },
+  {
+    "id": 1264757,
+    "name": "Lormi",
+    "country": "IN",
+    "coord": {
+      "lon": 81.73333,
+      "lat": 22.283331
+    }
   }
 ]
