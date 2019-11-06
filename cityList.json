@@ -21571,5 +21571,275 @@
       "lon": 79.444893,
       "lat": 13.3386
     }
+  },
+  {
+    "id": 1260691,
+    "name": "Palle",
+    "country": "IN",
+    "coord": {
+      "lon": 74.083328,
+      "lat": 15.46667
+    }
+  },
+  {
+    "id": 1260693,
+    "name": "Pallattur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.800003,
+      "lat": 10.15
+    }
+  },
+  {
+    "id": 1260706,
+    "name": "Paliyad",
+    "country": "IN",
+    "coord": {
+      "lon": 71.566673,
+      "lat": 22.25
+    }
+  },
+  {
+    "id": 1260717,
+    "name": "Pali",
+    "country": "IN",
+    "coord": {
+      "lon": 78.416672,
+      "lat": 24.48333
+    }
+  },
+  {
+    "id": 1260784,
+    "name": "Palampur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.533333,
+      "lat": 32.116669
+    }
+  },
+  {
+    "id": 1260786,
+    "name": "Palamedu",
+    "country": "IN",
+    "coord": {
+      "lon": 78.116669,
+      "lat": 10.11667
+    }
+  },
+  {
+    "id": 1260880,
+    "name": "Pahalgam",
+    "country": "IN",
+    "coord": {
+      "lon": 75.333328,
+      "lat": 34.033329
+    }
+  },
+  {
+    "id": 1260933,
+    "name": "Paddhari",
+    "country": "IN",
+    "coord": {
+      "lon": 70.599998,
+      "lat": 22.433331
+    }
+  },
+  {
+    "id": 1260962,
+    "name": "Pachmarhi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.433327,
+      "lat": 22.466669
+    }
+  },
+  {
+    "id": 1261033,
+    "name": "Orchha",
+    "country": "IN",
+    "coord": {
+      "lon": 78.650002,
+      "lat": 25.35
+    }
+  },
+  {
+    "id": 1261037,
+    "name": "Oran",
+    "country": "IN",
+    "coord": {
+      "lon": 80.75,
+      "lat": 25.383329
+    }
+  },
+  {
+    "id": 1261049,
+    "name": "Omalur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.045593,
+      "lat": 11.74099
+    }
+  },
+  {
+    "id": 1261050,
+    "name": "Olpad",
+    "country": "IN",
+    "coord": {
+      "lon": 72.75,
+      "lat": 21.33333
+    }
+  },
+  {
+    "id": 1261076,
+    "name": "Odugattur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.900002,
+      "lat": 12.76667
+    }
+  },
+  {
+    "id": 1261077,
+    "name": "Odlabari",
+    "country": "IN",
+    "coord": {
+      "lon": 88.616669,
+      "lat": 26.83333
+    }
+  },
+  {
+    "id": 1261107,
+    "name": "Nyamati",
+    "country": "IN",
+    "coord": {
+      "lon": 75.583328,
+      "lat": 14.15
+    }
+  },
+  {
+    "id": 1261120,
+    "name": "Nurpur Kalan",
+    "country": "IN",
+    "coord": {
+      "lon": 76.48333,
+      "lat": 31.16667
+    }
+  },
+  {
+    "id": 1261124,
+    "name": "Nurmahal",
+    "country": "IN",
+    "coord": {
+      "lon": 75.596672,
+      "lat": 31.09639
+    }
+  },
+  {
+    "id": 1261142,
+    "name": "Numaligarh",
+    "country": "IN",
+    "coord": {
+      "lon": 93.75,
+      "lat": 26.633329
+    }
+  },
+  {
+    "id": 1261145,
+    "name": "Nuh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 28.116671
+    }
+  },
+  {
+    "id": 1261173,
+    "name": "North Vanlaiphai",
+    "country": "IN",
+    "coord": {
+      "lon": 93.066673,
+      "lat": 23.133329
+    }
+  },
+  {
+    "id": 1261208,
+    "name": "Nongpoh",
+    "country": "IN",
+    "coord": {
+      "lon": 91.883331,
+      "lat": 25.9
+    }
+  },
+  {
+    "id": 1261257,
+    "name": "Nizamabad",
+    "country": "IN",
+    "coord": {
+      "lon": 83.058891,
+      "lat": 26.05056
+    }
+  },
+  {
+    "id": 1261262,
+    "name": "Niwari",
+    "country": "IN",
+    "coord": {
+      "lon": 77.533333,
+      "lat": 28.883329
+    }
+  },
+  {
+    "id": 1261283,
+    "name": "Nirsa",
+    "country": "IN",
+    "coord": {
+      "lon": 86.716667,
+      "lat": 23.783331
+    }
+  },
+  {
+    "id": 1261444,
+    "name": "Needamangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.418747,
+      "lat": 10.77378
+    }
+  },
+  {
+    "id": 1261497,
+    "name": "Netarhat",
+    "country": "IN",
+    "coord": {
+      "lon": 84.26667,
+      "lat": 23.48333
+    }
+  },
+  {
+    "id": 1261563,
+    "name": "Nazira",
+    "country": "IN",
+    "coord": {
+      "lon": 94.73333,
+      "lat": 26.91667
+    }
+  },
+  {
+    "id": 1261588,
+    "name": "Naya Bazar",
+    "country": "IN",
+    "coord": {
+      "lon": 88.26667,
+      "lat": 27.133329
+    }
+  },
+  {
+    "id": 1261607,
+    "name": "Nawanshahr",
+    "country": "IN",
+    "coord": {
+      "lon": 74.533333,
+      "lat": 32.76667
+    }
   }
 ]
