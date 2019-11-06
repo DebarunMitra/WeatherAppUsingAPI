@@ -20023,5 +20023,113 @@
       "lon": 78.116669,
       "lat": 29.75
     }
+  },
+  {
+    "id": 1255493,
+    "name": "Sultanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 23.15
+    }
+  },
+  {
+    "id": 1255584,
+    "name": "Suchindram",
+    "country": "IN",
+    "coord": {
+      "lon": 77.48333,
+      "lat": 8.15
+    }
+  },
+  {
+    "id": 1255640,
+    "name": "Srimushnam",
+    "country": "IN",
+    "coord": {
+      "lon": 79.416672,
+      "lat": 11.4
+    }
+  },
+  {
+    "id": 1255708,
+    "name": "Sorbhog",
+    "country": "IN",
+    "coord": {
+      "lon": 90.866669,
+      "lat": 26.5
+    }
+  },
+  {
+    "id": 1255713,
+    "name": "Sorab",
+    "country": "IN",
+    "coord": {
+      "lon": 75.099998,
+      "lat": 14.38333
+    }
+  },
+  {
+    "id": 1255766,
+    "name": "Sonegaon",
+    "country": "IN",
+    "coord": {
+      "lon": 78.683327,
+      "lat": 20.65
+    }
+  },
+  {
+    "id": 1255791,
+    "name": "Sonamura",
+    "country": "IN",
+    "coord": {
+      "lon": 91.266388,
+      "lat": 23.471939
+    }
+  },
+  {
+    "id": 1255811,
+    "name": "Somvarpet",
+    "country": "IN",
+    "coord": {
+      "lon": 75.866669,
+      "lat": 12.6
+    }
+  },
+  {
+    "id": 1255844,
+    "name": "Solim",
+    "country": "IN",
+    "coord": {
+      "lon": 73.76667,
+      "lat": 15.61667
+    }
+  },
+  {
+    "id": 1255887,
+    "name": "Sohagi",
+    "country": "IN",
+    "coord": {
+      "lon": 81.699997,
+      "lat": 24.98333
+    }
+  },
+  {
+    "id": 1255893,
+    "name": "Sodpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.387222,
+      "lat": 22.708891
+    }
+  },
+  {
+    "id": 1255910,
+    "name": "Soalkuchi",
+    "country": "IN",
+    "coord": {
+      "lon": 91.571114,
+      "lat": 26.16806
+    }
   }
 ]
