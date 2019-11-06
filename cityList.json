@@ -20770,5 +20770,167 @@
       "lon": 77.75,
       "lat": 31.216669
     }
+  },
+  {
+    "id": 1258098,
+    "name": "Roha",
+    "country": "IN",
+    "coord": {
+      "lon": 69.26667,
+      "lat": 23.200001
+    }
+  },
+  {
+    "id": 1258167,
+    "name": "Riasi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.833328,
+      "lat": 33.083328
+    }
+  },
+  {
+    "id": 1258190,
+    "name": "Revadanda",
+    "country": "IN",
+    "coord": {
+      "lon": 72.92778,
+      "lat": 18.55028
+    }
+  },
+  {
+    "id": 1258221,
+    "name": "Rengali",
+    "country": "IN",
+    "coord": {
+      "lon": 84.050003,
+      "lat": 21.633329
+    }
+  },
+  {
+    "id": 1258242,
+    "name": "Rehti",
+    "country": "IN",
+    "coord": {
+      "lon": 77.433327,
+      "lat": 22.73333
+    }
+  },
+  {
+    "id": 1258269,
+    "name": "Razole",
+    "country": "IN",
+    "coord": {
+      "lon": 81.833328,
+      "lat": 16.48333
+    }
+  },
+  {
+    "id": 1258293,
+    "name": "Ray",
+    "country": "IN",
+    "coord": {
+      "lon": 85.050003,
+      "lat": 23.683331
+    }
+  },
+  {
+    "id": 1258367,
+    "name": "Ratangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 75.116669,
+      "lat": 24.816669
+    }
+  },
+  {
+    "id": 1258375,
+    "name": "Rasulabad",
+    "country": "IN",
+    "coord": {
+      "lon": 80.48333,
+      "lat": 26.75
+    }
+  },
+  {
+    "id": 1258447,
+    "name": "Ranir Bazar",
+    "country": "IN",
+    "coord": {
+      "lon": 91.366669,
+      "lat": 23.83333
+    }
+  },
+  {
+    "id": 1258478,
+    "name": "Rani",
+    "country": "IN",
+    "coord": {
+      "lon": 73.308853,
+      "lat": 25.350309
+    }
+  },
+  {
+    "id": 1258484,
+    "name": "Rangpo",
+    "country": "IN",
+    "coord": {
+      "lon": 88.533333,
+      "lat": 27.183331
+    }
+  },
+  {
+    "id": 1258537,
+    "name": "Ranapur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.533333,
+      "lat": 22.65
+    }
+  },
+  {
+    "id": 1258590,
+    "name": "Rampura",
+    "country": "IN",
+    "coord": {
+      "lon": 79.183296,
+      "lat": 26.349701
+    }
+  },
+  {
+    "id": 1258596,
+    "name": "Rampur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.633331,
+      "lat": 31.450001
+    }
+  },
+  {
+    "id": 1258635,
+    "name": "Ramnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.316673,
+      "lat": 32.816669
+    }
+  },
+  {
+    "id": 1258640,
+    "name": "Ramnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 81.416672,
+      "lat": 27.08333
+    }
+  },
+  {
+    "id": 1258652,
+    "name": "Ramkola",
+    "country": "IN",
+    "coord": {
+      "lon": 83.84111,
+      "lat": 26.904169
+    }
   }
 ]
