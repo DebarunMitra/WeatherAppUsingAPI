@@ -19708,5 +19708,104 @@
       "lon": 75.099998,
       "lat": 33.933331
     }
+  },
+  {
+    "id": 1254214,
+    "name": "Tosham",
+    "country": "IN",
+    "coord": {
+      "lon": 75.916672,
+      "lat": 28.883329
+    }
+  },
+  {
+    "id": 1254222,
+    "name": "Tori Fatehpur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.133331,
+      "lat": 25.450001
+    }
+  },
+  {
+    "id": 1254231,
+    "name": "Topchanchi",
+    "country": "IN",
+    "coord": {
+      "lon": 86.199997,
+      "lat": 23.9
+    }
+  },
+  {
+    "id": 1254302,
+    "name": "Titron",
+    "country": "IN",
+    "coord": {
+      "lon": 77.322502,
+      "lat": 29.66806
+    }
+  },
+  {
+    "id": 1254310,
+    "name": "Titabar",
+    "country": "IN",
+    "coord": {
+      "lon": 94.199997,
+      "lat": 26.6
+    }
+  },
+  {
+    "id": 1254321,
+    "name": "Thiruvidaimaruthur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.452271,
+      "lat": 10.99857
+    }
+  },
+  {
+    "id": 1254367,
+    "name": "Tirumullaivasal",
+    "country": "IN",
+    "coord": {
+      "lon": 79.833328,
+      "lat": 11.23333
+    }
+  },
+  {
+    "id": 1254374,
+    "name": "Tirumakudal Narsipur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.906387,
+      "lat": 12.21
+    }
+  },
+  {
+    "id": 1254378,
+    "name": "Thirukattupalli",
+    "country": "IN",
+    "coord": {
+      "lon": 78.956467,
+      "lat": 10.84431
+    }
+  },
+  {
+    "id": 1254400,
+    "name": "Tirodi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.699997,
+      "lat": 21.683331
+    }
+  },
+  {
+    "id": 1254415,
+    "name": "Tira Sujanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 31.83333
+    }
   }
 ]
