@@ -20491,5 +20491,185 @@
       "lon": 78.083328,
       "lat": 27.716669
     }
+  },
+  {
+    "id": 1257111,
+    "name": "Sarubera",
+    "country": "IN",
+    "coord": {
+      "lon": 86,
+      "lat": 23.816669
+    }
+  },
+  {
+    "id": 1257156,
+    "name": "Sarka Ghat",
+    "country": "IN",
+    "coord": {
+      "lon": 76.73333,
+      "lat": 31.700001
+    }
+  },
+  {
+    "id": 1257167,
+    "name": "Sarila",
+    "country": "IN",
+    "coord": {
+      "lon": 79.683327,
+      "lat": 25.76667
+    }
+  },
+  {
+    "id": 1257178,
+    "name": "Sargur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.416672,
+      "lat": 11.98333
+    }
+  },
+  {
+    "id": 1257242,
+    "name": "Sarangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 83.083328,
+      "lat": 21.6
+    }
+  },
+  {
+    "id": 1257263,
+    "name": "Saraikela",
+    "country": "IN",
+    "coord": {
+      "lon": 85.949997,
+      "lat": 22.716669
+    }
+  },
+  {
+    "id": 1257264,
+    "name": "Sarai Ekdil",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 26.75
+    }
+  },
+  {
+    "id": 1257277,
+    "name": "Sarahan",
+    "country": "IN",
+    "coord": {
+      "lon": 77.800003,
+      "lat": 31.51667
+    }
+  },
+  {
+    "id": 1257298,
+    "name": "Sapatgram",
+    "country": "IN",
+    "coord": {
+      "lon": 90.109047,
+      "lat": 26.333441
+    }
+  },
+  {
+    "id": 1257313,
+    "name": "Sanwer",
+    "country": "IN",
+    "coord": {
+      "lon": 75.833328,
+      "lat": 22.98333
+    }
+  },
+  {
+    "id": 1257316,
+    "name": "Sanvordem",
+    "country": "IN",
+    "coord": {
+      "lon": 74.116669,
+      "lat": 15.26667
+    }
+  },
+  {
+    "id": 1257325,
+    "name": "Santoshpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.264999,
+      "lat": 22.52528
+    }
+  },
+  {
+    "id": 1257326,
+    "name": "Santokhgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.316673,
+      "lat": 31.366671
+    }
+  },
+  {
+    "id": 1257347,
+    "name": "Sanquelim",
+    "country": "IN",
+    "coord": {
+      "lon": 74,
+      "lat": 15.58333
+    }
+  },
+  {
+    "id": 1257366,
+    "name": "Sankheda",
+    "country": "IN",
+    "coord": {
+      "lon": 73.583328,
+      "lat": 22.16667
+    }
+  },
+  {
+    "id": 1257390,
+    "name": "Sanivarsante",
+    "country": "IN",
+    "coord": {
+      "lon": 75.900002,
+      "lat": 12.73333
+    }
+  },
+  {
+    "id": 1257399,
+    "name": "Sanguem",
+    "country": "IN",
+    "coord": {
+      "lon": 74.166672,
+      "lat": 15.23333
+    }
+  },
+  {
+    "id": 1257479,
+    "name": "Sanchi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.73333,
+      "lat": 23.48333
+    }
+  },
+  {
+    "id": 1257599,
+    "name": "Salon",
+    "country": "IN",
+    "coord": {
+      "lon": 81.449997,
+      "lat": 26.033331
+    }
+  },
+  {
+    "id": 1257611,
+    "name": "Saligao",
+    "country": "IN",
+    "coord": {
+      "lon": 73.76667,
+      "lat": 15.55
+    }
   }
 ]
