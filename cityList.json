@@ -24100,5 +24100,50 @@
       "lon": 76.316673,
       "lat": 31.883329
     }
+  },
+  {
+    "id": 1269165,
+    "name": "Jasrana",
+    "country": "IN",
+    "coord": {
+      "lon": 78.683327,
+      "lat": 27.25
+    }
+  },
+  {
+    "id": 1269267,
+    "name": "Jandiala Guru",
+    "country": "IN",
+    "coord": {
+      "lon": 75.026672,
+      "lat": 31.56139
+    }
+  },
+  {
+    "id": 1269410,
+    "name": "Jalgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 73.183327,
+      "lat": 17.75
+    }
+  },
+  {
+    "id": 1269449,
+    "name": "Jalakandapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 77.872978,
+      "lat": 11.69779
+    }
+  },
+  {
+    "id": 1269470,
+    "name": "Jakhal",
+    "country": "IN",
+    "coord": {
+      "lon": 75.833328,
+      "lat": 29.799999
+    }
   }
 ]
