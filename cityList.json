@@ -23623,5 +23623,95 @@
       "lon": 75.900002,
       "lat": 17.966669
     }
+  },
+  {
+    "id": 1267605,
+    "name": "Kasauli",
+    "country": "IN",
+    "coord": {
+      "lon": 76.964722,
+      "lat": 30.89889
+    }
+  },
+  {
+    "id": 1267660,
+    "name": "Karumbakkam",
+    "country": "IN",
+    "coord": {
+      "lon": 80.09333,
+      "lat": 12.69917
+    }
+  },
+  {
+    "id": 1267680,
+    "name": "Karrapur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.849998,
+      "lat": 23.950001
+    }
+  },
+  {
+    "id": 1267745,
+    "name": "Kariapatti",
+    "country": "IN",
+    "coord": {
+      "lon": 78.099922,
+      "lat": 9.67505
+    }
+  },
+  {
+    "id": 1267754,
+    "name": "Karimpur",
+    "country": "IN",
+    "coord": {
+      "lon": 88.616669,
+      "lat": 23.966669
+    }
+  },
+  {
+    "id": 1267776,
+    "name": "Kargil",
+    "country": "IN",
+    "coord": {
+      "lon": 76.099998,
+      "lat": 34.566669
+    }
+  },
+  {
+    "id": 1267827,
+    "name": "Karari",
+    "country": "IN",
+    "coord": {
+      "lon": 81.433327,
+      "lat": 25.450001
+    }
+  },
+  {
+    "id": 1267867,
+    "name": "Karambakkudi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.133331,
+      "lat": 10.46667
+    }
+  },
+  {
+    "id": 1267919,
+    "name": "Kaptanganj",
+    "country": "IN",
+    "coord": {
+      "lon": 83.715279,
+      "lat": 26.92667
+    }
+  },
+  {
+    "id": 1267964,
+    "name": "Kantilo",
+    "country": "IN",
+    "coord": {
+      "lon": 85.183327,
+      "lat": 20.35
+    }
   }
 ]
