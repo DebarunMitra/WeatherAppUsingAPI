@@ -23533,5 +23533,95 @@
       "lon": 86.383331,
       "lat": 23.783331
     }
+  },
+  {
+    "id": 1267331,
+    "name": "Kelamangalam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.849998,
+      "lat": 12.6
+    }
+  },
+  {
+    "id": 1267357,
+    "name": "Kayattar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.800003,
+      "lat": 8.95
+    }
+  },
+  {
+    "id": 1267370,
+    "name": "Kawant",
+    "country": "IN",
+    "coord": {
+      "lon": 74.050003,
+      "lat": 22.1
+    }
+  },
+  {
+    "id": 1267385,
+    "name": "Kaverippattanam",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 12.41667
+    }
+  },
+  {
+    "id": 1267390,
+    "name": "Kavaratti",
+    "country": "IN",
+    "coord": {
+      "lon": 72.642029,
+      "lat": 10.56688
+    }
+  },
+  {
+    "id": 1267428,
+    "name": "Kattuputtur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.23333,
+      "lat": 10.98333
+    }
+  },
+  {
+    "id": 1267448,
+    "name": "Katra",
+    "country": "IN",
+    "coord": {
+      "lon": 74.949997,
+      "lat": 32.98333
+    }
+  },
+  {
+    "id": 1267449,
+    "name": "Katra",
+    "country": "IN",
+    "coord": {
+      "lon": 82.01667,
+      "lat": 27.51667
+    }
+  },
+  {
+    "id": 1267454,
+    "name": "Katpur",
+    "country": "IN",
+    "coord": {
+      "lon": 71.783333,
+      "lat": 21.049999
+    }
+  },
+  {
+    "id": 1267481,
+    "name": "Kati",
+    "country": "IN",
+    "coord": {
+      "lon": 75.900002,
+      "lat": 17.966669
+    }
   }
 ]
