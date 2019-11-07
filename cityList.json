@@ -23452,5 +23452,86 @@
       "lon": 79.816673,
       "lat": 25.549999
     }
+  },
+  {
+    "id": 1266962,
+    "name": "Kharar",
+    "country": "IN",
+    "coord": {
+      "lon": 87.683327,
+      "lat": 22.700001
+    }
+  },
+  {
+    "id": 1267014,
+    "name": "Khanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.050003,
+      "lat": 28.533331
+    }
+  },
+  {
+    "id": 1267015,
+    "name": "Khanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.396011,
+      "lat": 24.73241
+    }
+  },
+  {
+    "id": 1267083,
+    "name": "Khamharia",
+    "country": "IN",
+    "coord": {
+      "lon": 82.26667,
+      "lat": 20.98333
+    }
+  },
+  {
+    "id": 1267105,
+    "name": "Khamanon",
+    "country": "IN",
+    "coord": {
+      "lon": 76.35083,
+      "lat": 30.818609
+    }
+  },
+  {
+    "id": 1267112,
+    "name": "Khallikot",
+    "country": "IN",
+    "coord": {
+      "lon": 85.083328,
+      "lat": 19.616671
+    }
+  },
+  {
+    "id": 1267185,
+    "name": "Khailar",
+    "country": "IN",
+    "coord": {
+      "lon": 78.533333,
+      "lat": 25.35
+    }
+  },
+  {
+    "id": 1267190,
+    "name": "Khaga",
+    "country": "IN",
+    "coord": {
+      "lon": 81.116669,
+      "lat": 25.783331
+    }
+  },
+  {
+    "id": 1267280,
+    "name": "Kenduadih",
+    "country": "IN",
+    "coord": {
+      "lon": 86.383331,
+      "lat": 23.783331
+    }
   }
 ]
