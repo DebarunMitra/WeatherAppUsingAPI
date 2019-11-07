@@ -23002,5 +23002,68 @@
       "lon": 73.683327,
       "lat": 16.033331
     }
+  },
+  {
+    "id": 1265815,
+    "name": "Kud",
+    "country": "IN",
+    "coord": {
+      "lon": 75.283333,
+      "lat": 33.083328
+    }
+  },
+  {
+    "id": 1265896,
+    "name": "Kovalam",
+    "country": "IN",
+    "coord": {
+      "lon": 76.996674,
+      "lat": 8.36667
+    }
+  },
+  {
+    "id": 1265901,
+    "name": "Kotwa",
+    "country": "IN",
+    "coord": {
+      "lon": 81.316673,
+      "lat": 25.01667
+    }
+  },
+  {
+    "id": 1265923,
+    "name": "Kottapalli",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 18.48333
+    }
+  },
+  {
+    "id": 1265933,
+    "name": "Kottaiyur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 10.11667
+    }
+  },
+  {
+    "id": 1265954,
+    "name": "Kotra",
+    "country": "IN",
+    "coord": {
+      "lon": 79.316673,
+      "lat": 25.816669
+    }
+  },
+  {
+    "id": 1265972,
+    "name": "Kot Khai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.533333,
+      "lat": 31.116671
+    }
   }
 ]
