@@ -22840,5 +22840,50 @@
       "lon": 81.73333,
       "lat": 22.283331
     }
+  },
+  {
+    "id": 1264792,
+    "name": "Londa",
+    "country": "IN",
+    "coord": {
+      "lon": 74.519058,
+      "lat": 15.46907
+    }
+  },
+  {
+    "id": 1264816,
+    "name": "Lohogaon",
+    "country": "IN",
+    "coord": {
+      "lon": 73.916672,
+      "lat": 18.6
+    }
+  },
+  {
+    "id": 1264829,
+    "name": "Loharu",
+    "country": "IN",
+    "coord": {
+      "lon": 75.816673,
+      "lat": 28.450001
+    }
+  },
+  {
+    "id": 1264850,
+    "name": "Lohaghat",
+    "country": "IN",
+    "coord": {
+      "lon": 80.089653,
+      "lat": 29.403561
+    }
+  },
+  {
+    "id": 1264860,
+    "name": "Lodhikheda",
+    "country": "IN",
+    "coord": {
+      "lon": 78.833328,
+      "lat": 21.58333
+    }
   }
 ]
