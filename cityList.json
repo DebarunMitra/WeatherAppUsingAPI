@@ -24145,5 +24145,59 @@
       "lon": 75.833328,
       "lat": 29.799999
     }
+  },
+  {
+    "id": 1269495,
+    "name": "Jaithari",
+    "country": "IN",
+    "coord": {
+      "lon": 78.616669,
+      "lat": 23.23333
+    }
+  },
+  {
+    "id": 1269503,
+    "name": "Jaisinghnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 81.383331,
+      "lat": 23.700001
+    }
+  },
+  {
+    "id": 1269525,
+    "name": "Jainpur",
+    "country": "IN",
+    "coord": {
+      "lon": 83.334717,
+      "lat": 26.15333
+    }
+  },
+  {
+    "id": 1269548,
+    "name": "Jahangirpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.716667,
+      "lat": 28.183331
+    }
+  },
+  {
+    "id": 1269555,
+    "name": "Jahanabad",
+    "country": "IN",
+    "coord": {
+      "lon": 79.716667,
+      "lat": 28.633329
+    }
+  },
+  {
+    "id": 1269567,
+    "name": "Jagnair",
+    "country": "IN",
+    "coord": {
+      "lon": 77.599998,
+      "lat": 26.866671
+    }
   }
 ]
