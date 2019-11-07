@@ -23857,5 +23857,77 @@
       "lon": 80.099998,
       "lat": 28.616671
     }
+  },
+  {
+    "id": 1268408,
+    "name": "Kalikapur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.283333,
+      "lat": 22.616671
+    }
+  },
+  {
+    "id": 1268449,
+    "name": "Kalavai",
+    "country": "IN",
+    "coord": {
+      "lon": 79.419991,
+      "lat": 12.77029
+    }
+  },
+  {
+    "id": 1268460,
+    "name": "Kalas",
+    "country": "IN",
+    "coord": {
+      "lon": 74.800003,
+      "lat": 18.16667
+    }
+  },
+  {
+    "id": 1268475,
+    "name": "Kalanaur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.150002,
+      "lat": 32.01667
+    }
+  },
+  {
+    "id": 1268504,
+    "name": "Kalaikunda",
+    "country": "IN",
+    "coord": {
+      "lon": 87.25,
+      "lat": 22.35
+    }
+  },
+  {
+    "id": 1268510,
+    "name": "Kalagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 78.75,
+      "lat": 29.5
+    }
+  },
+  {
+    "id": 1268513,
+    "name": "Kaladhungi",
+    "country": "IN",
+    "coord": {
+      "lon": 79.349998,
+      "lat": 29.283331
+    }
+  },
+  {
+    "id": 1268610,
+    "name": "Kaintaragarh",
+    "country": "IN",
+    "coord": {
+      "lon": 84.533333,
+      "lat": 20.716669
+    }
   }
 ]
