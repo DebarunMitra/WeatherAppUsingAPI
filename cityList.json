@@ -22912,5 +22912,59 @@
       "lon": 73.550003,
       "lat": 16.85
     }
+  },
+  {
+    "id": 1265190,
+    "name": "Lala",
+    "country": "IN",
+    "coord": {
+      "lon": 92.599998,
+      "lat": 24.549999
+    }
+  },
+  {
+    "id": 1265205,
+    "name": "Lakshettipet",
+    "country": "IN",
+    "coord": {
+      "lon": 79.216667,
+      "lat": 18.866671
+    }
+  },
+  {
+    "id": 1265225,
+    "name": "Lakhtar",
+    "country": "IN",
+    "coord": {
+      "lon": 71.783333,
+      "lat": 22.85
+    }
+  },
+  {
+    "id": 1265234,
+    "name": "Lakhna",
+    "country": "IN",
+    "coord": {
+      "lon": 79.150002,
+      "lat": 26.65
+    }
+  },
+  {
+    "id": 1265239,
+    "name": "Lakhipur",
+    "country": "IN",
+    "coord": {
+      "lon": 90.3041,
+      "lat": 26.029869
+    }
+  },
+  {
+    "id": 1265240,
+    "name": "Lakhipur",
+    "country": "IN",
+    "coord": {
+      "lon": 93.01667,
+      "lat": 24.799999
+    }
   }
 ]
