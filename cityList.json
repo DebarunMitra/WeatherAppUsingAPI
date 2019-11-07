@@ -23308,5 +23308,149 @@
       "lon": 85.383331,
       "lat": 25.466669
     }
+  },
+  {
+    "id": 1266631,
+    "name": "Khuldabad",
+    "country": "IN",
+    "coord": {
+      "lon": 75.183327,
+      "lat": 20.049999
+    }
+  },
+  {
+    "id": 1266632,
+    "name": "Khujner",
+    "country": "IN",
+    "coord": {
+      "lon": 76.599998,
+      "lat": 23.783331
+    }
+  },
+  {
+    "id": 1266640,
+    "name": "Khudaganj",
+    "country": "IN",
+    "coord": {
+      "lon": 79.716667,
+      "lat": 28.15
+    }
+  },
+  {
+    "id": 1266668,
+    "name": "Khonsa",
+    "country": "IN",
+    "coord": {
+      "lon": 95.566673,
+      "lat": 27.01667
+    }
+  },
+  {
+    "id": 1266787,
+    "name": "Khem Karan",
+    "country": "IN",
+    "coord": {
+      "lon": 74.566673,
+      "lat": 31.14278
+    }
+  },
+  {
+    "id": 1266813,
+    "name": "Khed",
+    "country": "IN",
+    "coord": {
+      "lon": 73.833328,
+      "lat": 18.33333
+    }
+  },
+  {
+    "id": 1266814,
+    "name": "Khed",
+    "country": "IN",
+    "coord": {
+      "lon": 73.383331,
+      "lat": 17.716669
+    }
+  },
+  {
+    "id": 1266821,
+    "name": "Khawhai",
+    "country": "IN",
+    "coord": {
+      "lon": 93.116669,
+      "lat": 23.366671
+    }
+  },
+  {
+    "id": 1266829,
+    "name": "Khaur",
+    "country": "IN",
+    "coord": {
+      "lon": 74.800003,
+      "lat": 32.599998
+    }
+  },
+  {
+    "id": 1266873,
+    "name": "Kharsawan",
+    "country": "IN",
+    "coord": {
+      "lon": 85.833328,
+      "lat": 22.799999
+    }
+  },
+  {
+    "id": 1266882,
+    "name": "Kharod",
+    "country": "IN",
+    "coord": {
+      "lon": 82.566673,
+      "lat": 21.75
+    }
+  },
+  {
+    "id": 1266892,
+    "name": "Kharkhauda",
+    "country": "IN",
+    "coord": {
+      "lon": 77.75,
+      "lat": 28.83333
+    }
+  },
+  {
+    "id": 1266924,
+    "name": "Kharhial",
+    "country": "IN",
+    "coord": {
+      "lon": 82.76667,
+      "lat": 20.283331
+    }
+  },
+  {
+    "id": 1266926,
+    "name": "Khargupur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.98333,
+      "lat": 27.383329
+    }
+  },
+  {
+    "id": 1266931,
+    "name": "Khargapur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.143997,
+      "lat": 24.823
+    }
+  },
+  {
+    "id": 1266937,
+    "name": "Kharela",
+    "country": "IN",
+    "coord": {
+      "lon": 79.816673,
+      "lat": 25.549999
+    }
   }
 ]
