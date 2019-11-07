@@ -23065,5 +23065,59 @@
       "lon": 77.533333,
       "lat": 31.116671
     }
+  },
+  {
+    "id": 1265974,
+    "name": "Kot Isa Khan",
+    "country": "IN",
+    "coord": {
+      "lon": 75.133331,
+      "lat": 30.950001
+    }
+  },
+  {
+    "id": 1265983,
+    "name": "Kothi",
+    "country": "IN",
+    "coord": {
+      "lon": 80.783333,
+      "lat": 24.75
+    }
+  },
+  {
+    "id": 1265996,
+    "name": "Kothapet",
+    "country": "IN",
+    "coord": {
+      "lon": 79.48333,
+      "lat": 19.33333
+    }
+  },
+  {
+    "id": 1266028,
+    "name": "Kotar",
+    "country": "IN",
+    "coord": {
+      "lon": 80.98333,
+      "lat": 24.716669
+    }
+  },
+  {
+    "id": 1266050,
+    "name": "Kota",
+    "country": "IN",
+    "coord": {
+      "lon": 83.133331,
+      "lat": 24.450001
+    }
+  },
+  {
+    "id": 1266126,
+    "name": "Koratagere",
+    "country": "IN",
+    "coord": {
+      "lon": 77.233063,
+      "lat": 13.52278
+    }
   }
 ]
