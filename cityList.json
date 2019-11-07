@@ -24244,5 +24244,59 @@
       "lon": 78,
       "lat": 11.6
     }
+  },
+  {
+    "id": 1269801,
+    "name": "Iklehra",
+    "country": "IN",
+    "coord": {
+      "lon": 76.383331,
+      "lat": 23.15
+    }
+  },
+  {
+    "id": 1269805,
+    "name": "Ikauna",
+    "country": "IN",
+    "coord": {
+      "lon": 81.966667,
+      "lat": 27.549999
+    }
+  },
+  {
+    "id": 1269809,
+    "name": "Iglas",
+    "country": "IN",
+    "coord": {
+      "lon": 77.933327,
+      "lat": 27.716669
+    }
+  },
+  {
+    "id": 1269811,
+    "name": "Idukki",
+    "country": "IN",
+    "coord": {
+      "lon": 76.966667,
+      "lat": 9.85
+    }
+  },
+  {
+    "id": 1269824,
+    "name": "Ichhawar",
+    "country": "IN",
+    "coord": {
+      "lon": 77.01667,
+      "lat": 23.01667
+    }
+  },
+  {
+    "id": 1269945,
+    "name": "Hosangadi",
+    "country": "IN",
+    "coord": {
+      "lon": 74.949997,
+      "lat": 13.7
+    }
   }
 ]
