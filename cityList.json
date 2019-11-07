@@ -23929,5 +23929,104 @@
       "lon": 84.533333,
       "lat": 20.716669
     }
+  },
+  {
+    "id": 1268677,
+    "name": "Kadipur",
+    "country": "IN",
+    "coord": {
+      "lon": 82.383331,
+      "lat": 26.16667
+    }
+  },
+  {
+    "id": 1268686,
+    "name": "Kadaura",
+    "country": "IN",
+    "coord": {
+      "lon": 79.849998,
+      "lat": 25.98333
+    }
+  },
+  {
+    "id": 1268693,
+    "name": "Kadambur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.866669,
+      "lat": 8.98333
+    }
+  },
+  {
+    "id": 1268754,
+    "name": "Jutogh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.116669,
+      "lat": 31.1
+    }
+  },
+  {
+    "id": 1268785,
+    "name": "Julana Shadipur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.416672,
+      "lat": 29.133329
+    }
+  },
+  {
+    "id": 1268802,
+    "name": "Jubbal",
+    "country": "IN",
+    "coord": {
+      "lon": 77.666672,
+      "lat": 31.116671
+    }
+  },
+  {
+    "id": 1268806,
+    "name": "Jua",
+    "country": "IN",
+    "coord": {
+      "lon": 73.933327,
+      "lat": 15.53333
+    }
+  },
+  {
+    "id": 1268814,
+    "name": "Joshimath",
+    "country": "IN",
+    "coord": {
+      "lon": 79.566673,
+      "lat": 30.566669
+    }
+  },
+  {
+    "id": 1268849,
+    "name": "Jogindarnagar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.76667,
+      "lat": 31.98333
+    }
+  },
+  {
+    "id": 1268851,
+    "name": "Jogighopa",
+    "country": "IN",
+    "coord": {
+      "lon": 90.583328,
+      "lat": 26.23333
+    }
+  },
+  {
+    "id": 1268874,
+    "name": "Jobner",
+    "country": "IN",
+    "coord": {
+      "lon": 75.383331,
+      "lat": 26.966669
+    }
   }
 ]
