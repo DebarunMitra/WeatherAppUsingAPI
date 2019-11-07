@@ -23236,5 +23236,77 @@
       "lon": 79.263397,
       "lat": 27.0247
     }
+  },
+  {
+    "id": 1266481,
+    "name": "Kishanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 81.01667,
+      "lat": 25.65
+    }
+  },
+  {
+    "id": 1266484,
+    "name": "Kishangarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.729721,
+      "lat": 27.81889
+    }
+  },
+  {
+    "id": 1266503,
+    "name": "Kiri Buru",
+    "country": "IN",
+    "coord": {
+      "lon": 85.349998,
+      "lat": 22.08333
+    }
+  },
+  {
+    "id": 1266512,
+    "name": "Kiranur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.51667,
+      "lat": 10.6
+    }
+  },
+  {
+    "id": 1266513,
+    "name": "Kiranur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.786819,
+      "lat": 10.56988
+    }
+  },
+  {
+    "id": 1266516,
+    "name": "Kirakat",
+    "country": "IN",
+    "coord": {
+      "lon": 82.916672,
+      "lat": 25.633329
+    }
+  },
+  {
+    "id": 1266540,
+    "name": "Kilvelur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.741859,
+      "lat": 10.76721
+    }
+  },
+  {
+    "id": 1266598,
+    "name": "Khusropur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.383331,
+      "lat": 25.466669
+    }
   }
 ]
