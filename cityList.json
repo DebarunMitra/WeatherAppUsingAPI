@@ -22885,5 +22885,32 @@
       "lon": 78.833328,
       "lat": 21.58333
     }
+  },
+  {
+    "id": 1265041,
+    "name": "Lasalgaon",
+    "country": "IN",
+    "coord": {
+      "lon": 74.23333,
+      "lat": 20.15
+    }
+  },
+  {
+    "id": 1265074,
+    "name": "Lansdowne",
+    "country": "IN",
+    "coord": {
+      "lon": 78.683327,
+      "lat": 29.83333
+    }
+  },
+  {
+    "id": 1265085,
+    "name": "Lanja",
+    "country": "IN",
+    "coord": {
+      "lon": 73.550003,
+      "lat": 16.85
+    }
   }
 ]
