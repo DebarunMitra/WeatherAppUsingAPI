@@ -24199,5 +24199,50 @@
       "lon": 77.599998,
       "lat": 26.866671
     }
+  },
+  {
+    "id": 1269592,
+    "name": "Jagannathpur",
+    "country": "IN",
+    "coord": {
+      "lon": 85.650002,
+      "lat": 22.23333
+    }
+  },
+  {
+    "id": 1269652,
+    "name": "Itaunja",
+    "country": "IN",
+    "coord": {
+      "lon": 80.916672,
+      "lat": 27.08333
+    }
+  },
+  {
+    "id": 1269685,
+    "name": "Isagarh",
+    "country": "IN",
+    "coord": {
+      "lon": 77.883331,
+      "lat": 24.83333
+    }
+  },
+  {
+    "id": 1269782,
+    "name": "Iluppur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.623573,
+      "lat": 10.51347
+    }
+  },
+  {
+    "id": 1269792,
+    "name": "Ilampillai",
+    "country": "IN",
+    "coord": {
+      "lon": 78,
+      "lat": 11.6
+    }
   }
 ]
