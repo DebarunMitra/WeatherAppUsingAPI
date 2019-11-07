@@ -23794,5 +23794,68 @@
       "lon": 78.373367,
       "lat": 9.40732
     }
+  },
+  {
+    "id": 1268215,
+    "name": "Kampil",
+    "country": "IN",
+    "coord": {
+      "lon": 79.283333,
+      "lat": 27.616671
+    }
+  },
+  {
+    "id": 1268271,
+    "name": "Kamalpur",
+    "country": "IN",
+    "coord": {
+      "lon": 91.833328,
+      "lat": 24.200001
+    }
+  },
+  {
+    "id": 1268277,
+    "name": "Kamalapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 78.650002,
+      "lat": 14.58333
+    }
+  },
+  {
+    "id": 1268308,
+    "name": "Kalundri",
+    "country": "IN",
+    "coord": {
+      "lon": 73.133331,
+      "lat": 18.98333
+    }
+  },
+  {
+    "id": 1268355,
+    "name": "Kallupatti",
+    "country": "IN",
+    "coord": {
+      "lon": 77.866669,
+      "lat": 9.71667
+    }
+  },
+  {
+    "id": 1268398,
+    "name": "Kalina Khas",
+    "country": "IN",
+    "coord": {
+      "lon": 76.316673,
+      "lat": 28.33333
+    }
+  },
+  {
+    "id": 1268399,
+    "name": "Kalinagar",
+    "country": "IN",
+    "coord": {
+      "lon": 80.099998,
+      "lat": 28.616671
+    }
   }
 ]
