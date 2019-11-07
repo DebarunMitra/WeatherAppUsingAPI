@@ -23173,5 +23173,68 @@
       "lon": 76.054169,
       "lat": 12.62639
     }
+  },
+  {
+    "id": 1266240,
+    "name": "Kombai",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316673,
+      "lat": 9.83333
+    }
+  },
+  {
+    "id": 1266387,
+    "name": "Kodumudi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.883629,
+      "lat": 11.07751
+    }
+  },
+  {
+    "id": 1266392,
+    "name": "Kodlipet",
+    "country": "IN",
+    "coord": {
+      "lon": 75.883331,
+      "lat": 12.8
+    }
+  },
+  {
+    "id": 1266402,
+    "name": "Kodigenahalli",
+    "country": "IN",
+    "coord": {
+      "lon": 77.390282,
+      "lat": 13.72
+    }
+  },
+  {
+    "id": 1266422,
+    "name": "Kodala",
+    "country": "IN",
+    "coord": {
+      "lon": 84.949997,
+      "lat": 19.633329
+    }
+  },
+  {
+    "id": 1266433,
+    "name": "Kochinda",
+    "country": "IN",
+    "coord": {
+      "lon": 84.349998,
+      "lat": 21.73333
+    }
+  },
+  {
+    "id": 1266477,
+    "name": "Kishni",
+    "country": "IN",
+    "coord": {
+      "lon": 79.263397,
+      "lat": 27.0247
+    }
   }
 ]
