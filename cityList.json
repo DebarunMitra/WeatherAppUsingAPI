@@ -23713,5 +23713,86 @@
       "lon": 85.183327,
       "lat": 20.35
     }
+  },
+  {
+    "id": 1268001,
+    "name": "Kanor",
+    "country": "IN",
+    "coord": {
+      "lon": 74.26667,
+      "lat": 24.433331
+    }
+  },
+  {
+    "id": 1268004,
+    "name": "Kanodar",
+    "country": "IN",
+    "coord": {
+      "lon": 72.383331,
+      "lat": 24.1
+    }
+  },
+  {
+    "id": 1268022,
+    "name": "Kankon",
+    "country": "IN",
+    "coord": {
+      "lon": 74.01667,
+      "lat": 15.01667
+    }
+  },
+  {
+    "id": 1268024,
+    "name": "Kankipadu",
+    "country": "IN",
+    "coord": {
+      "lon": 80.783333,
+      "lat": 16.450001
+    }
+  },
+  {
+    "id": 1268084,
+    "name": "Kangra",
+    "country": "IN",
+    "coord": {
+      "lon": 76.26667,
+      "lat": 32.099998
+    }
+  },
+  {
+    "id": 1268114,
+    "name": "Kandri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.26667,
+      "lat": 21.41667
+    }
+  },
+  {
+    "id": 1268116,
+    "name": "Kandra",
+    "country": "IN",
+    "coord": {
+      "lon": 86.050003,
+      "lat": 22.85
+    }
+  },
+  {
+    "id": 1268197,
+    "name": "Kanadukattan",
+    "country": "IN",
+    "coord": {
+      "lon": 78.77935,
+      "lat": 10.17209
+    }
+  },
+  {
+    "id": 1268202,
+    "name": "Kamuthi",
+    "country": "IN",
+    "coord": {
+      "lon": 78.373367,
+      "lat": 9.40732
+    }
   }
 ]
