@@ -24028,5 +24028,77 @@
       "lon": 75.383331,
       "lat": 26.966669
     }
+  },
+  {
+    "id": 1268875,
+    "name": "Jobat",
+    "country": "IN",
+    "coord": {
+      "lon": 74.566673,
+      "lat": 22.41667
+    }
+  },
+  {
+    "id": 1268893,
+    "name": "Jiran",
+    "country": "IN",
+    "coord": {
+      "lon": 74.883331,
+      "lat": 24.316669
+    }
+  },
+  {
+    "id": 1269064,
+    "name": "Jetpur",
+    "country": "IN",
+    "coord": {
+      "lon": 73.833328,
+      "lat": 22.35
+    }
+  },
+  {
+    "id": 1269070,
+    "name": "Jetalsar",
+    "country": "IN",
+    "coord": {
+      "lon": 70.583328,
+      "lat": 21.700001
+    }
+  },
+  {
+    "id": 1269087,
+    "name": "Jejuri",
+    "country": "IN",
+    "coord": {
+      "lon": 74.166672,
+      "lat": 18.283331
+    }
+  },
+  {
+    "id": 1269106,
+    "name": "Jawhar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.23333,
+      "lat": 19.91667
+    }
+  },
+  {
+    "id": 1269110,
+    "name": "Jawar",
+    "country": "IN",
+    "coord": {
+      "lon": 76.5,
+      "lat": 23
+    }
+  },
+  {
+    "id": 1269119,
+    "name": "Jawala Mukhi",
+    "country": "IN",
+    "coord": {
+      "lon": 76.316673,
+      "lat": 31.883329
+    }
   }
 ]
