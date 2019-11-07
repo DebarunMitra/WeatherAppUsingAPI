@@ -23119,5 +23119,59 @@
       "lon": 77.233063,
       "lat": 13.52278
     }
+  },
+  {
+    "id": 1266141,
+    "name": "Koradih",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 21.25
+    }
+  },
+  {
+    "id": 1266144,
+    "name": "Koradachcheri",
+    "country": "IN",
+    "coord": {
+      "lon": 79.48333,
+      "lat": 10.76667
+    }
+  },
+  {
+    "id": 1266155,
+    "name": "Koppa",
+    "country": "IN",
+    "coord": {
+      "lon": 75.363289,
+      "lat": 13.53044
+    }
+  },
+  {
+    "id": 1266189,
+    "name": "Konganapuram",
+    "country": "IN",
+    "coord": {
+      "lon": 77.916672,
+      "lat": 11.58333
+    }
+  },
+  {
+    "id": 1266210,
+    "name": "Kondalwadi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.76667,
+      "lat": 18.799999
+    }
+  },
+  {
+    "id": 1266222,
+    "name": "Konanur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.054169,
+      "lat": 12.62639
+    }
   }
 ]
