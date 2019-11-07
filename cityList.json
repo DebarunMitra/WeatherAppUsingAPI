@@ -22966,5 +22966,41 @@
       "lon": 93.01667,
       "lat": 24.799999
     }
+  },
+  {
+    "id": 1265646,
+    "name": "Kumsi",
+    "country": "IN",
+    "coord": {
+      "lon": 75.400002,
+      "lat": 14.06667
+    }
+  },
+  {
+    "id": 1265697,
+    "name": "Kumaralingam",
+    "country": "IN",
+    "coord": {
+      "lon": 77.333328,
+      "lat": 10.5
+    }
+  },
+  {
+    "id": 1265740,
+    "name": "Kulattur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.199997,
+      "lat": 9.01667
+    }
+  },
+  {
+    "id": 1265809,
+    "name": "Kudal",
+    "country": "IN",
+    "coord": {
+      "lon": 73.683327,
+      "lat": 16.033331
+    }
   }
 ]
