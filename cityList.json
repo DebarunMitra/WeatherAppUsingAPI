@@ -24559,5 +24559,59 @@
       "lon": 76.98333,
       "lat": 27.5
     }
+  },
+  {
+    "id": 1270856,
+    "name": "Govindgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 81.300003,
+      "lat": 24.383329
+    }
+  },
+  {
+    "id": 1270888,
+    "name": "Goshaingaon",
+    "country": "IN",
+    "coord": {
+      "lon": 89.978821,
+      "lat": 26.43787
+    }
+  },
+  {
+    "id": 1270895,
+    "name": "Gosainganj",
+    "country": "IN",
+    "coord": {
+      "lon": 82.383331,
+      "lat": 26.58333
+    }
+  },
+  {
+    "id": 1270898,
+    "name": "Gorur",
+    "country": "IN",
+    "coord": {
+      "lon": 76.071671,
+      "lat": 12.81944
+    }
+  },
+  {
+    "id": 1270914,
+    "name": "Goregaon",
+    "country": "IN",
+    "coord": {
+      "lon": 73.300003,
+      "lat": 18.16667
+    }
+  },
+  {
+    "id": 1270944,
+    "name": "Gopinathpur",
+    "country": "IN",
+    "coord": {
+      "lon": 86.066673,
+      "lat": 22.65
+    }
   }
 ]
