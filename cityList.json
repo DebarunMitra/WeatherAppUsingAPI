@@ -24505,5 +24505,59 @@
       "lon": 73.800003,
       "lat": 15.58333
     }
+  },
+  {
+    "id": 1270779,
+    "name": "Guhagar",
+    "country": "IN",
+    "coord": {
+      "lon": 73.192886,
+      "lat": 17.48415
+    }
+  },
+  {
+    "id": 1270789,
+    "name": "Gudur",
+    "country": "IN",
+    "coord": {
+      "lon": 78.816673,
+      "lat": 17.48333
+    }
+  },
+  {
+    "id": 1270806,
+    "name": "Gudibanda",
+    "country": "IN",
+    "coord": {
+      "lon": 77.698334,
+      "lat": 13.66944
+    }
+  },
+  {
+    "id": 1270818,
+    "name": "Gudari",
+    "country": "IN",
+    "coord": {
+      "lon": 83.783333,
+      "lat": 19.35
+    }
+  },
+  {
+    "id": 1270827,
+    "name": "Gua",
+    "country": "IN",
+    "coord": {
+      "lon": 85.383331,
+      "lat": 22.200001
+    }
+  },
+  {
+    "id": 1270854,
+    "name": "Govindgarh",
+    "country": "IN",
+    "coord": {
+      "lon": 76.98333,
+      "lat": 27.5
+    }
   }
 ]
