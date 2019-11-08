@@ -24370,5 +24370,86 @@
       "lon": 75.73333,
       "lat": 22.799999
     }
+  },
+  {
+    "id": 1270232,
+    "name": "Hata",
+    "country": "IN",
+    "coord": {
+      "lon": 83.74028,
+      "lat": 26.746111
+    }
+  },
+  {
+    "id": 1270252,
+    "name": "Hasanpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.5,
+      "lat": 27.966669
+    }
+  },
+  {
+    "id": 1270286,
+    "name": "Harrai",
+    "country": "IN",
+    "coord": {
+      "lon": 79.216667,
+      "lat": 22.616671
+    }
+  },
+  {
+    "id": 1270304,
+    "name": "Harnai",
+    "country": "IN",
+    "coord": {
+      "lon": 73.099998,
+      "lat": 17.799999
+    }
+  },
+  {
+    "id": 1270336,
+    "name": "Haringhata",
+    "country": "IN",
+    "coord": {
+      "lon": 88.566673,
+      "lat": 22.950001
+    }
+  },
+  {
+    "id": 1270357,
+    "name": "Hariana",
+    "country": "IN",
+    "coord": {
+      "lon": 75.840828,
+      "lat": 31.637779
+    }
+  },
+  {
+    "id": 1270364,
+    "name": "Harduaganj",
+    "country": "IN",
+    "coord": {
+      "lon": 78.166672,
+      "lat": 27.950001
+    }
+  },
+  {
+    "id": 1270391,
+    "name": "Haraiya",
+    "country": "IN",
+    "coord": {
+      "lon": 82.466667,
+      "lat": 26.799999
+    }
+  },
+  {
+    "id": 1270413,
+    "name": "Hansot",
+    "country": "IN",
+    "coord": {
+      "lon": 72.800003,
+      "lat": 21.58333
+    }
   }
 ]
