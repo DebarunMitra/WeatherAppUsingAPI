@@ -24298,5 +24298,77 @@
       "lon": 74.949997,
       "lat": 13.7
     }
+  },
+  {
+    "id": 1269946,
+    "name": "Hosanagara",
+    "country": "IN",
+    "coord": {
+      "lon": 75.066673,
+      "lat": 13.91667
+    }
+  },
+  {
+    "id": 1269947,
+    "name": "Hosakote",
+    "country": "IN",
+    "coord": {
+      "lon": 77.169861,
+      "lat": 14.27686
+    }
+  },
+  {
+    "id": 1270048,
+    "name": "Hirapur",
+    "country": "IN",
+    "coord": {
+      "lon": 79.76667,
+      "lat": 21.533331
+    }
+  },
+  {
+    "id": 1270056,
+    "name": "Hiranagar",
+    "country": "IN",
+    "coord": {
+      "lon": 75.26667,
+      "lat": 32.450001
+    }
+  },
+  {
+    "id": 1270118,
+    "name": "Hesla",
+    "country": "IN",
+    "coord": {
+      "lon": 85.883331,
+      "lat": 24.066669
+    }
+  },
+  {
+    "id": 1270127,
+    "name": "Herbertpur",
+    "country": "IN",
+    "coord": {
+      "lon": 77.73333,
+      "lat": 30.450001
+    }
+  },
+  {
+    "id": 1270151,
+    "name": "Heggadadevankote",
+    "country": "IN",
+    "coord": {
+      "lon": 76.328331,
+      "lat": 12.08833
+    }
+  },
+  {
+    "id": 1270192,
+    "name": "Hatod",
+    "country": "IN",
+    "coord": {
+      "lon": 75.73333,
+      "lat": 22.799999
+    }
   }
 ]
