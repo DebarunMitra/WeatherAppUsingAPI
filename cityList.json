@@ -24451,5 +24451,32 @@
       "lon": 72.800003,
       "lat": 21.58333
     }
+  },
+  {
+    "id": 1270504,
+    "name": "Haldibari",
+    "country": "IN",
+    "coord": {
+      "lon": 88.76667,
+      "lat": 26.33333
+    }
+  },
+  {
+    "id": 1270523,
+    "name": "Hajipur",
+    "country": "IN",
+    "coord": {
+      "lon": 75.757782,
+      "lat": 31.975559
+    }
+  },
+  {
+    "id": 1270529,
+    "name": "Hajan",
+    "country": "IN",
+    "coord": {
+      "lon": 74.616669,
+      "lat": 34.299999
+    }
   }
 ]
