@@ -1,4 +1,5 @@
 # WeatherAppUsingAPI
+Weather report Application using Open Weather Map API, to show current weather status of any place. In this application user need to type there city name properly and click on the search button. User will get some city name suggestion(few city name included) based on there typing. After that user can check the current  weather status of typed city.
 ## Author:
 Debarun Mitra
 ## Application name: 
